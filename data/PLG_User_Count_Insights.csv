@@ -1,0 +1,4813 @@
+Region,City,A. Uniques of First Scribe Created,B. Total Events of Scribe Created
+Alabama,Akron,0,36
+Alabama,Alabaster,3,4
+Alabama,Albertville,14,11192
+Alabama,Alexander City,1,240
+Alabama,Alexandria,0,10
+Alabama,Aliceville,0,51
+Alabama,Alpine,0,27
+Alabama,Andalusia,0,1
+Alabama,Anniston,0,166
+Alabama,Arab,1,24
+Alabama,Ashland,0,3
+Alabama,Ashville,1,210
+Alabama,Athens,2,199
+Alabama,Atmore,2,4
+Alabama,Auburn,6,139
+Alabama,Bay Minette,0,178
+Alabama,Bessemer,2,82
+Alabama,Birmingham,70,15472
+Alabama,Boaz,0,31
+Alabama,Brent,0,1
+Alabama,Brewton,0,225
+Alabama,Butler,0,219
+Alabama,Carbon Hill,0,1
+Alabama,Carrollton,0,51
+Alabama,Castleberry,0,36
+Alabama,Centre,1,142
+Alabama,Centreville,4,1525
+Alabama,Childersburg,0,6
+Alabama,Clanton,0,669
+Alabama,Columbiana,0,35
+Alabama,Cottonwood,1,1
+Alabama,Cropwell,0,24
+Alabama,Crossville,0,175
+Alabama,Cuba,0,90
+Alabama,Cullman,1,53
+Alabama,Dadeville,2,11
+Alabama,Daleville,0,14
+Alabama,Daphne,0,62
+Alabama,Deatsville,0,2
+Alabama,Decatur,6,1720
+Alabama,Dora,1,38
+Alabama,Dothan,7,799
+Alabama,Duncanville,0,1715
+Alabama,Dutton,0,1
+Alabama,Enterprise,2,12
+Alabama,Epes,0,4
+Alabama,Fairhope,1,297
+Alabama,Fayette,0,111
+Alabama,Florence,1,79
+Alabama,Foley,1,748
+Alabama,Fort Payne,2,119
+Alabama,Frisco City,0,47
+Alabama,Fultondale,0,4
+Alabama,Gadsden,1,695
+Alabama,Gardendale,3,582
+Alabama,Gordo,0,125
+Alabama,Guin,0,65
+Alabama,Guntersville,1,352
+Alabama,Gurley,0,100
+Alabama,Haleyville,0,11
+Alabama,Hamilton,0,99
+Alabama,Hartselle,1,941
+Alabama,Harvest,0,3
+Alabama,Helena,0,12
+Alabama,Henagar,0,634
+Alabama,Hoover,0,132
+Alabama,Huntsville,13,2143
+Alabama,Jack,1,53
+Alabama,Jasper,1,1804
+Alabama,Jemison,0,54
+Alabama,Leeds,1,88
+Alabama,Lineville,0,27
+Alabama,Madison,9,1714
+Alabama,Marion,0,29
+Alabama,McCalla,0,3
+Alabama,Meridianville,1,7
+Alabama,Mobile,15,6815
+Alabama,Monroeville,3,2394
+Alabama,Montevallo,2,236
+Alabama,Montgomery,15,1822
+Alabama,Moody,0,33
+Alabama,Moundville,2,1572
+Alabama,Muscle Shoals,2,1264
+Alabama,New Hope,1,144
+Alabama,Newton,0,3
+Alabama,Northport,1,909
+Alabama,Notasulga,0,78
+Alabama,Odenville,0,194
+Alabama,Ohatchee,0,1
+Alabama,Oneonta,0,1
+Alabama,Opelika,5,6673
+Alabama,Orange Beach,0,1
+Alabama,Owens Cross Roads,1,160
+Alabama,Oxford,1,287
+Alabama,Ozark,2,274
+Alabama,Pelham,0,24
+Alabama,Pell City,0,50
+Alabama,Peterman,0,26
+Alabama,Phenix City,3,466
+Alabama,Piedmont,0,22
+Alabama,Pike Road,1,3
+Alabama,Pinson,0,15
+Alabama,Pleasant Grove,0,2
+Alabama,Prattville,1,165
+Alabama,Ragland,0,18
+Alabama,Ralph,1,2
+Alabama,Riverside,0,162
+Alabama,Roanoke,0,13
+Alabama,Salem,0,48
+Alabama,Saraland,0,42
+Alabama,Scottsboro,1,1939
+Alabama,Selma,0,55
+Alabama,Semmes,1,25
+Alabama,Sheffield,1,330
+Alabama,Slocomb,1,2
+Alabama,Somerville,0,3
+Alabama,Spanish Fort,0,99
+Alabama,Springville,0,13
+Alabama,Stevenson,0,137
+Alabama,Sycamore,0,123
+Alabama,Sylacauga,1,370
+Alabama,Talladega,3,211
+Alabama,Tallassee,0,100
+Alabama,Theodore,1,440
+Alabama,Thomasville,0,25
+Alabama,Thorsby,0,485
+Alabama,Trinity,1,2
+Alabama,Troy,0,5
+Alabama,Trussville,0,32
+Alabama,Tuscaloosa,5,2133
+Alabama,Tuscumbia,0,444
+Alabama,Vincent,0,2
+Alabama,Warrior,0,26
+Alabama,Wetumpka,1,176
+Alabama,Wilsonville,0,25
+Alabama,York,0,90
+Alabama,undefined,1,234
+Alaska,Anchorage,25,3916
+Alaska,Barrow,0,53
+Alaska,Eagle River,1,6
+Alaska,Fairbanks,1,13
+Alaska,Juneau,1,562
+Alaska,Kenai,0,43
+Alaska,Ketchikan,0,1664
+Alaska,Kodiak Station,0,1
+Alaska,Kodiak,0,1
+Alaska,North Pole,1,11
+Alaska,Palmer,2,5
+Alaska,Sitka,0,155
+Alaska,Soldotna,1,36
+Alaska,Wasilla,5,105
+Arizona,Apache Junction,2,279
+Arizona,Avondale,4,1606
+Arizona,Bisbee,0,23
+Arizona,Buckeye,2,8
+Arizona,Bullhead City,3,817
+Arizona,Carefree,0,3
+Arizona,Casa Grande,2,35
+Arizona,Chandler,14,1377
+Arizona,Chinle,0,14
+Arizona,Chino Valley,0,1
+Arizona,Cottonwood,1,1
+Arizona,Douglas,1,48
+Arizona,Eagar,0,3
+Arizona,El Mirage,1,2
+Arizona,Flagstaff,1,31
+Arizona,Fountain Hills,1,689
+Arizona,Ganado,2,9
+Arizona,Gilbert,18,4686
+Arizona,Glendale,15,1999
+Arizona,Goodyear,3,37
+Arizona,Green Valley,1,59
+Arizona,Kingman,2,43
+Arizona,Lake Havasu City,1,8
+Arizona,Laveen,0,17
+Arizona,Litchfield Park,0,30
+Arizona,Marana,3,4260
+Arizona,Maricopa,2,134
+Arizona,Mesa,22,8014
+Arizona,Nogales,0,1
+Arizona,Overgaard,0,9
+Arizona,Page,1,2
+Arizona,Paradise Valley,2,47
+Arizona,Peoria,11,1376
+Arizona,Phoenix,226,35843
+Arizona,Pinetop-Lakeside,0,1
+Arizona,Prescott Valley,6,407
+Arizona,Prescott,3,236
+Arizona,Queen Creek,4,32
+Arizona,Sahuarita,2,8
+Arizona,San Carlos,0,254
+Arizona,San Luis,1,10
+Arizona,San Tan Valley,0,269
+Arizona,Scottsdale,24,2689
+Arizona,Sedona,2,98
+Arizona,Show Low,1,284
+Arizona,Sierra Vista,2,15
+Arizona,Sun City,1,511
+Arizona,Surprise,5,924
+Arizona,Tempe,16,6181
+Arizona,Tolleson,0,119
+Arizona,Tucson,53,11494
+Arizona,Vail,1,38
+Arizona,Waddell,1,15
+Arizona,Whiteriver,1,12
+Arizona,Wickenburg,0,98
+Arizona,Youngtown,1,15
+Arizona,Yuma,2,601
+Arizona,undefined,9,2707
+Arkansas,Alexander,0,19
+Arkansas,Austin,0,12
+Arkansas,Batesville,1,1
+Arkansas,Bella Vista,1,829
+Arkansas,Benton,4,189
+Arkansas,Bentonville,9,2888
+Arkansas,Bigelow,0,273
+Arkansas,Blytheville,0,157
+Arkansas,Bryant,1,9
+Arkansas,Cabot,0,8
+Arkansas,Cave Springs,0,203
+Arkansas,Centerton,0,671
+Arkansas,Cherokee Village,1,1
+Arkansas,Clinton,0,42
+Arkansas,Conway,2,166
+Arkansas,Crossett,1,15
+Arkansas,Dardanelle,0,28
+Arkansas,De Queen,1,1
+Arkansas,Earle,0,2
+Arkansas,El Dorado,2,29
+Arkansas,Elaine,0,12
+Arkansas,Enola,0,5
+Arkansas,Farmington,0,1
+Arkansas,Fayetteville,0,1169
+Arkansas,Flippin,1,2
+Arkansas,Forrest City,0,62
+Arkansas,Fort Smith,10,7383
+Arkansas,Gentry,0,5
+Arkansas,Greenbrier,1,125
+Arkansas,Harrison,1,1
+Arkansas,Heber Springs,0,3
+Arkansas,Hector,0,1
+Arkansas,Holly Grove,0,5
+Arkansas,Hope,0,5
+Arkansas,Hot Springs Village,0,7
+Arkansas,Hot Springs,9,902
+Arkansas,Houston,1,7
+Arkansas,Huntsville,1,2
+Arkansas,Jacksonville,1,104
+Arkansas,Jonesboro,6,1750
+Arkansas,Leachville,0,17
+Arkansas,Lepanto,0,24
+Arkansas,Lexa,0,12
+Arkansas,Little Rock,12,2493
+Arkansas,Magnolia,0,5
+Arkansas,Malvern,0,5
+Arkansas,Marion,1,58
+Arkansas,Marshall,1,158
+Arkansas,Maumelle,1,35
+Arkansas,Mountain Home,2,11
+Arkansas,Nashville,0,82
+Arkansas,North Little Rock,5,495
+Arkansas,Ola,1,1
+Arkansas,Ozark,1,6
+Arkansas,Paragould,0,4
+Arkansas,Piggott,0,41
+Arkansas,Pine Bluff,1,1
+Arkansas,Rogers,3,4346
+Arkansas,Rosie,1,1
+Arkansas,Russellville,0,98
+Arkansas,Searcy,2,471
+Arkansas,Sheridan,0,19
+Arkansas,Sherwood,1,53
+Arkansas,Siloam Springs,2,281
+Arkansas,Springdale,1,419
+Arkansas,Tyronza,0,1
+Arkansas,Van Buren,0,4
+Arkansas,Vilonia,0,19
+Arkansas,Waldron,1,153
+Arkansas,West Helena,0,10
+Arkansas,West Memphis,2,117
+Arkansas,White Hall,0,2
+Arkansas,Williford,0,1
+Arkansas,Wynne,1,1
+Arkansas,undefined,1,134
+California,Agoura,0,48
+California,Alameda,5,250
+California,Alamo,1,68
+California,Alhambra,4,59
+California,Aliso Viejo,6,1272
+California,Alpine,1,7
+California,American Canyon,0,162
+California,Anaheim,20,2643
+California,Anderson,0,16
+California,Antelope,1,13
+California,Antioch,4,136
+California,Apple Valley,1,95
+California,Aptos,4,4
+California,Arcadia,2,134
+California,Arcata,1,1
+California,Arroyo Grande,1,115
+California,Artesia,0,1
+California,Atherton,1,4
+California,Auburn,0,134
+California,Azusa,1,17
+California,Bakersfield,15,22822
+California,Baldwin Park,0,657
+California,Banning,1,39
+California,Barstow,0,6
+California,Beaumont,1,6
+California,Bell Gardens,0,422
+California,Bellflower,4,1521
+California,Belmont,3,17
+California,Berkeley,3,41
+California,Beverly Hills,4,51
+California,Bloomington,0,10
+California,Boulder Creek,0,239
+California,Brea,4,475
+California,Brentwood,0,1
+California,Buena Park,1,302
+California,Burbank,2,9
+California,Burlingame,3,8
+California,Calabasas,4,180
+California,Calexico,2,3
+California,Calistoga,0,1
+California,Camarillo,4,26
+California,Cameron Park,4,1195
+California,Campbell,0,232
+California,Canoga Park,1,90
+California,Canyon Country,3,60
+California,Carlsbad,3,431
+California,Carmichael,2,920
+California,Carson,0,972
+California,Castro Valley,1,12
+California,Cathedral City,7,66
+California,Ceres,0,56
+California,Cerritos,3,47
+California,Chatsworth,1,10
+California,Chico,2,364
+California,Chino Hills,0,3
+California,Chino,2,284
+California,Chula Vista,3,68
+California,Citrus Heights,0,89
+California,City of Industry,0,81
+California,Claremont,0,1
+California,Clovis,4,16
+California,Coalinga,0,1
+California,Colton,1,37
+California,Compton,10,2634
+California,Concord,4,121
+California,Corona,5,160
+California,Corte Madera,0,2
+California,Costa Mesa,5,463
+California,Covina,4,978
+California,Crescent City,0,2
+California,Culver City,0,66
+California,Cupertino,1,6
+California,Cypress,2,89
+California,Daly City,0,46
+California,Danville,0,9
+California,Davis,1,5
+California,Desert Hot Springs,1,1
+California,Diamond Bar,0,65
+California,Dos Palos,0,94
+California,Downey,0,428
+California,Dublin,2,61
+California,El Cajon,8,2608
+California,El Centro,1,34
+California,El Cerrito,2,27
+California,El Dorado Hills,1,797
+California,El Monte,0,81
+California,El Segundo,0,11
+California,El Sobrante,1,11
+California,Elk Grove,0,42
+California,Emeryville,0,1
+California,Encinitas,17,180
+California,Encino,0,323
+California,Escalon,0,1
+California,Escondido,2,13
+California,Exeter,1,19
+California,Fair Oaks,1,6
+California,Fairfield,2,13
+California,Fallbrook,4,16
+California,Folsom,1,384
+California,Fontana,7,569
+California,Fort Irwin,0,1
+California,Foster City,1,125
+California,Fountain Valley,1,25
+California,Fremont,4,126
+California,Fresno,12,1642
+California,Fullerton,1,293
+California,Garden Grove,5,371
+California,Gardena,1,719
+California,Georgetown,0,6
+California,Gilroy,8,365
+California,Glendale,3,186
+California,Glendora,3,362
+California,Goleta,1,2
+California,Granada Hills,2,23
+California,Granite Bay,0,5
+California,Grass Valley,0,14
+California,Greenfield,1,1
+California,Hacienda Heights,1,94
+California,Hanford,1,1
+California,Harbor City,1,792
+California,Hawthorne,1,8
+California,Hayward,10,546
+California,Hemet,15,1935
+California,Hercules,0,1
+California,Hermosa Beach,0,1
+California,Hesperia,8,550
+California,Highland,0,34
+California,Hollister,1,1
+California,Hughson,1,1
+California,Huntington Beach,3,61
+California,Huntington Park,0,1
+California,Idyllwild,1,10
+California,Indio,2,177
+California,Inglewood,4,209
+California,Ione,0,5
+California,Irvine,17,4602
+California,La Crescenta,0,1
+California,La Habra,1,495
+California,La Jolla,0,98
+California,La Mesa,0,380
+California,La Mirada,1,1655
+California,La Puente,1,31
+California,La Quinta,0,3
+California,La Verne,2,116
+California,Ladera Ranch,1,714
+California,Laguna Beach,2,1595
+California,Laguna Hills,0,200
+California,Laguna Niguel,0,2297
+California,Lake Elsinore,2,23
+California,Lake Forest,2,1027
+California,Lakewood,1,3
+California,Lamont,0,1083
+California,Lancaster,2,36
+California,Lathrop,0,4
+California,Lincoln,1,4
+California,Livermore,2,2
+California,Livingston,0,6
+California,Lodi,0,6
+California,Loma Linda,1,54
+California,Long Beach,14,1342
+California,Loomis,1,1
+California,Los Alamitos,0,237
+California,Los Altos,2,6
+California,Los Angeles,299,34761
+California,Los Gatos,2,8
+California,Lynwood,1,113
+California,Madera,2,6
+California,Malibu,1,13
+California,Manhattan Beach,0,2
+California,Manteca,1,2683
+California,Marina del Rey,0,4
+California,Martinez,4,54
+California,Marysville,1,2404
+California,Mather,0,2
+California,Menifee,2,49
+California,Menlo Park,31,717
+California,Merced,1,9
+California,Mill Valley,2,40
+California,Milpitas,3,106
+California,Mira Loma,0,41
+California,Mission Hills,1,1
+California,Mission Viejo,1,267
+California,Modesto,5,550
+California,Monrovia,1,21
+California,Montclair,1,615
+California,Montebello,0,2
+California,Monterey Park,2,3
+California,Moorpark,0,5
+California,Moreno Valley,5,1587
+California,Morgan Hill,3,18
+California,Morro Bay,1,1
+California,Moss Landing,0,365
+California,Mountain View,6,52
+California,Murrieta,3,2196
+California,Napa,1,218
+California,Nevada City,0,14
+California,Newark,1,23
+California,Newbury Park,1,10
+California,Newhall,0,5
+California,Newman,0,1
+California,Newport Beach,4,86
+California,Nipomo,1,6
+California,North Highlands,2,10
+California,North Hills,0,15
+California,North Hollywood,2,186
+California,Northridge,2,200
+California,Norwalk,2,12
+California,Novato,1,40
+California,Oakhurst,1,2
+California,Oakland,30,1426
+California,Oakley,0,17
+California,Oceanside,7,161
+California,Ojai,1,3
+California,Olivehurst,1,2
+California,Ontario,2,1125
+California,Orange,5,1191
+California,Oxnard,1,613
+California,Pacifica,1,4
+California,Pacoima,0,95
+California,Palm Desert,7,50
+California,Palm Springs,1,494
+California,Palmdale,3,134
+California,Palo Alto,2,278
+California,Palos Verdes Estates,0,2
+California,Panorama City,4,1232
+California,Paradise,0,3
+California,Paramount,1,2
+California,Pasadena,2,1478
+California,Patterson,0,2607
+California,Perris,1,1180
+California,Petaluma,0,2
+California,Pico Rivera,0,43
+California,Pine Grove,0,1
+California,Pinole,0,182
+California,Pittsburg,6,115
+California,Placentia,5,331
+California,Placerville,2,1002
+California,Playa Vista,0,3
+California,Pleasanton,0,30
+California,Pomona,1,281
+California,Porter Ranch,0,246
+California,Porterville,0,5
+California,Ramona,1,55
+California,Rancho Cordova,2,74
+California,Rancho Cucamonga,6,621
+California,Rancho Mirage,0,1
+California,Rancho Santa Fe,1,1
+California,Rancho Santa Margarita,6,2764
+California,Redding,4,21
+California,Redlands,5,3313
+California,Redondo Beach,2,11
+California,Redwood City,1,48
+California,Reseda,1,1
+California,Rialto,5,450
+California,Richmond,1,10
+California,Ridgecrest,0,6
+California,Ripon,1,5
+California,Riverside,19,2114
+California,Rocklin,1,71
+California,Rohnert Park,1,2
+California,Rosemead,1,1
+California,Roseville,4,358
+California,Ross,0,20
+California,Rowland Heights,0,103
+California,Running Springs,0,1
+California,Sacramento,52,7458
+California,Salinas,4,60
+California,San Bernardino,15,528
+California,San Carlos,1,2
+California,San Clemente,2,23
+California,San Diego,54,3506
+California,San Dimas,1,3451
+California,San Francisco De Las Llagas,47,350
+California,San Francisco,194,7878
+California,San Jose,133,9815
+California,San Juan Capistrano,0,104
+California,San Leandro,4,104
+California,San Lorenzo,0,7
+California,San Luis Obispo,1,7
+California,San Marcos,2,173
+California,San Mateo,0,6
+California,San Pablo,0,199
+California,San Pedro,2,169
+California,San Rafael,4,43
+California,San Ramon,1,19
+California,Santa Ana,20,1805
+California,Santa Barbara,5,1312
+California,Santa Clara,34,5159
+California,Santa Clarita,1,15
+California,Santa Cruz,2,75
+California,Santa Fe Springs,0,1230
+California,Santa Monica,5,870
+California,Santa Paula,1,394
+California,Santa Rosa,2,137
+California,Santee,2,191
+California,Saratoga,1,1
+California,Scotts Valley,0,179
+California,Seal Beach,1,2
+California,Seaside,0,2
+California,Sebastopol,1,2
+California,Sherman Oaks,2,28
+California,Shingle Springs,0,54
+California,Simi Valley,3,887
+California,Sonora,0,1
+California,South Gate,1,32
+California,South Lake Tahoe,1,1
+California,South Pasadena,1,19
+California,South San Francisco,3,41
+California,Spring Valley,0,15
+California,St. Helena,1,1
+California,Stevenson Ranch,0,29
+California,Stockton,16,3670
+California,Studio City,1,12
+California,Sun Valley,1,629
+California,Sunland,0,3
+California,Sunnyvale,3,647
+California,Sylmar,5,323
+California,Tarzana,0,52
+California,Temecula,7,294
+California,Temple City,1,11
+California,Templeton,1,1
+California,Thousand Oaks,8,4934
+California,Torrance,3,360
+California,Trabuco Canyon,2,203
+California,Tracy,1,116
+California,Truckee,1,751
+California,Tujunga,0,469
+California,Tulare,0,303
+California,Turlock,2,256
+California,Tustin,7,1053
+California,Twentynine Palms,1,1
+California,Ukiah,0,58
+California,Union City,1,98
+California,Upland,3,405
+California,Vacaville,1,2
+California,Valencia,3,643
+California,Vallejo,2,296
+California,Valley Center,1,1
+California,Valley Springs,0,1
+California,Valley Village,0,41
+California,Van Nuys,8,1055
+California,Ventura,4,16
+California,Victorville,10,1210
+California,Visalia,8,434
+California,Vista,1,247
+California,Walnut Creek,4,93
+California,Walnut,2,242
+California,Wasco,1,8
+California,Weed,1,1
+California,Weimar,1,1033
+California,West Covina,5,358
+California,West Hills,1,1
+California,West Hollywood,0,437
+California,West Sacramento,0,1
+California,Westlake Village,1,294
+California,Westminster,3,174
+California,Whittier,2,80
+California,Williams,0,90
+California,Wilmington,1,10
+California,Winchester,1,12
+California,Winton,0,4
+California,Woodland Hills,4,140
+California,Woodland,0,220
+California,Yorba Linda,2,32
+California,Yuba City,1,701
+California,Yucaipa,0,69
+California,Yucca Valley,0,1
+California,undefined,15,2499
+Colorado,Akron,0,8
+Colorado,Alamosa,0,48
+Colorado,Arvada,2,78
+Colorado,Aspen,0,24
+Colorado,Aurora,26,11151
+Colorado,Basalt,0,1
+Colorado,Berthoud,0,1
+Colorado,Boulder,11,10032
+Colorado,Breckenridge,0,5
+Colorado,Brighton,1,657
+Colorado,Broomfield,7,420
+Colorado,Carbondale,3,1042
+Colorado,Castle Rock,3,382
+Colorado,Centennial,0,964
+Colorado,Colorado Springs,16,4636
+Colorado,Commerce City,1,859
+Colorado,Creede,0,2
+Colorado,Denver,123,69018
+Colorado,Divide,0,1
+Colorado,Durango,5,1222
+Colorado,Elbert,0,146
+Colorado,Englewood,25,5615
+Colorado,Erie,1,2
+Colorado,Fleming,0,118
+Colorado,Fort Collins,10,8767
+Colorado,Fort Lupton,0,292
+Colorado,Fort Morgan,0,2
+Colorado,Fruita,0,44
+Colorado,Golden,2,565
+Colorado,Granby,1,81
+Colorado,Grand Junction,7,840
+Colorado,Greeley,1,621
+Colorado,Gunnison,1,2
+Colorado,Gypsum,0,2
+Colorado,Highlands Ranch,0,869
+Colorado,Holyoke,1,1
+Colorado,Johnstown,0,105
+Colorado,Kremmling,1,5
+Colorado,Lafayette,14,6357
+Colorado,Lakewood,1,697
+Colorado,Littleton,3,4215
+Colorado,Loma,1,2
+Colorado,Lone Tree,0,903
+Colorado,Longmont,5,2296
+Colorado,Louisville,2,544
+Colorado,Loveland,1,6
+Colorado,Monte Vista,0,22
+Colorado,Montrose,1,4
+Colorado,Monument,0,49
+Colorado,Parker,1,544
+Colorado,Pueblo,4,231
+Colorado,Ridgway,1,3
+Colorado,Springfield,0,17
+Colorado,Steamboat Springs,0,285
+Colorado,Sterling,1,96
+Colorado,Thornton,0,153
+Colorado,Westminster,1,965
+Colorado,Wheat Ridge,0,208
+Colorado,Wheatridge,1,24
+Colorado,Windsor,0,4
+Colorado,Yampa,0,3
+Colorado,undefined,29,13106
+Connecticut,Ansonia,1,20
+Connecticut,Ashford,1,7
+Connecticut,Beacon Falls,1,3
+Connecticut,Berlin,0,56
+Connecticut,Bethany,0,5
+Connecticut,Bethel,1,78
+Connecticut,Bloomfield,3,185
+Connecticut,Branford,0,273
+Connecticut,Bridgeport,2,337
+Connecticut,Bristol,3,368
+Connecticut,Broad Brook,2,101
+Connecticut,Brookfield,1,105
+Connecticut,Canterbury,0,2
+Connecticut,Canton,0,6
+Connecticut,Cheshire,0,25
+Connecticut,Danbury,2,108
+Connecticut,Danielson,0,4
+Connecticut,Dayville,0,1
+Connecticut,Derby,0,21
+Connecticut,Durham,0,84
+Connecticut,East Haddam,1,1
+Connecticut,East Hartford,2,539
+Connecticut,Enfield,3,545
+Connecticut,Fairfield,0,201
+Connecticut,Farmington,0,134
+Connecticut,Glastonbury,3,173
+Connecticut,Granby,0,2
+Connecticut,Greenwich,1,3401
+Connecticut,Groton,1,543
+Connecticut,Guilford,0,2
+Connecticut,Hamden,3,94
+Connecticut,Hartford,8,932
+Connecticut,Higganum,0,1
+Connecticut,Lakeville,0,1
+Connecticut,Madison,2,3
+Connecticut,Manchester,8,783
+Connecticut,Meriden,1,217
+Connecticut,Middletown,0,300
+Connecticut,Milford,4,44
+Connecticut,Monroe,2,499
+Connecticut,Naugatuck,0,23
+Connecticut,New Britain,2,1570
+Connecticut,New Haven,3,1033
+Connecticut,New Milford,1,353
+Connecticut,Newington,1,213
+Connecticut,Newtown,1,21
+Connecticut,North Haven,0,75
+Connecticut,Norwalk,2,253
+Connecticut,Norwich,0,97
+Connecticut,Oakville,0,178
+Connecticut,Old Lyme,0,143
+Connecticut,Oxford,1,27
+Connecticut,Pawcatuck,1,1
+Connecticut,Plainville,1,43
+Connecticut,Plantsville,1,1
+Connecticut,Portland,0,1
+Connecticut,Prospect,0,20
+Connecticut,Ridgefield,2,9
+Connecticut,Rocky Hill,2,46
+Connecticut,Sandy Hook,0,1
+Connecticut,Shelton,0,217
+Connecticut,South Glastonbury,0,73
+Connecticut,South Windsor,4,54
+Connecticut,Southbury,2,60
+Connecticut,Southington,1,218
+Connecticut,Stafford Springs,0,52
+Connecticut,Stafford,4,2250
+Connecticut,Stamford,7,709
+Connecticut,Stratford,0,291
+Connecticut,Tolland,0,3
+Connecticut,Torrington,1,1
+Connecticut,Trumbull,2,122
+Connecticut,Vernon,3,21
+Connecticut,Wallingford,1,73
+Connecticut,Waterbury,1,1486
+Connecticut,Watertown,1,1
+Connecticut,West Hartford,6,587
+Connecticut,West Haven,1,142
+Connecticut,Westport,1,3
+Connecticut,Wethersfield,0,279
+Connecticut,Willimantic,0,107
+Connecticut,Willington Hill,0,67
+Connecticut,Wilton,0,4
+Connecticut,Windsor Locks,1,51
+Connecticut,Windsor,0,41
+Connecticut,Wolcott,1,179
+Connecticut,Woodbridge,0,11
+Connecticut,Woodbury,1,281
+Connecticut,undefined,1,54
+Delaware,Bear,1,30
+Delaware,Bridgeville,1,1
+Delaware,Dagsboro,1,124
+Delaware,Delmar,1,1
+Delaware,Dover,3,16
+Delaware,Frederica,1,1
+Delaware,Hockessin,0,49
+Delaware,Lewes,2,150
+Delaware,Middletown,5,278
+Delaware,Milford,0,2
+Delaware,Millsboro,1,359
+Delaware,Millville,0,3
+Delaware,New Castle,1,30
+Delaware,Newark,4,184
+Delaware,Ocean View,0,13
+Delaware,Rehoboth Beach,1,5
+Delaware,Seaford,1,22
+Delaware,Selbyville,4,29
+Delaware,Smyrna,1,54
+Delaware,Wilmington,12,1739
+Delaware,undefined,1,17
+District of Columbia,Washington,89,9677
+District of Columbia,undefined,0,158
+Florida,Alachua,1,1
+Florida,Altamonte Springs,6,205
+Florida,Apollo Beach,0,2
+Florida,Apopka,4,143
+Florida,Atlantic Beach,4,1988
+Florida,Auburndale,1,1317
+Florida,Bartow,1,52
+Florida,Belleview,1,2
+Florida,Beverly Hills,2,17
+Florida,Big Pine Key,0,2
+Florida,Boca Raton,55,2664
+Florida,Bonita Springs,4,1350
+Florida,Boynton Beach,2,1803
+Florida,Bradenton,6,2202
+Florida,Brandon,9,533
+Florida,Brooksville,0,34
+Florida,Bushnell,0,89
+Florida,Cantonment,1,1
+Florida,Cape Canaveral,0,24
+Florida,Cape Coral,8,370
+Florida,Carrabelle,0,3
+Florida,Casselberry,0,38
+Florida,Chipley,0,14
+Florida,Citrus Springs,1,174
+Florida,Clearwater,11,1204
+Florida,Clermont,3,1047
+Florida,Clewiston,1,3
+Florida,Cocoa,4,1628
+Florida,Coconut Creek,0,2
+Florida,Coral Gables,0,47
+Florida,Coral Springs,32,1036
+Florida,Crestview,1,80
+Florida,Dania Beach,0,1
+Florida,Davenport,3,1562
+Florida,Davie,1,532
+Florida,Daytona Beach,0,345
+Florida,DeBary,1,1
+Florida,DeFuniak Springs,1,1
+Florida,DeLand,3,115
+Florida,Deerfield Beach,2,262
+Florida,Delray Beach,45,1756
+Florida,Deltona,2,44
+Florida,Destin,1,110
+Florida,Doral,0,1
+Florida,Dunnellon,1,1
+Florida,Estero,1,5
+Florida,Eustis,1,28
+Florida,Fernandina Beach,1,209
+Florida,Fort Lauderdale,49,6125
+Florida,Fort Myers,12,2929
+Florida,Fort Walton Beach,1,439
+Florida,Fruitland Park,0,21
+Florida,Ft. Pierce,0,1627
+Florida,Gainesville,9,328
+Florida,Graceville,0,25
+Florida,Groveland,0,1
+Florida,Haines City,2,11
+Florida,Hallandale,2,140
+Florida,Hernando,1,1
+Florida,Hialeah,17,3765
+Florida,High Springs,0,9
+Florida,Hilliard,0,1
+Florida,Hobe Sound,1,76
+Florida,Hollywood,13,1783
+Florida,Homestead,7,552
+Florida,Homosassa,0,18
+Florida,Hudson,2,3
+Florida,Immokalee,2,3
+Florida,Indialantic,1,8
+Florida,Indiantown,1,10
+Florida,Inverness,0,1
+Florida,Jacksonville Beach,0,350
+Florida,Jacksonville,49,5866
+Florida,Jensen Beach,0,4
+Florida,Jupiter,3,600
+Florida,Key Largo,0,147
+Florida,Key West,2,25
+Florida,Kissimmee,16,2990
+Florida,LaBelle,0,1
+Florida,Lady Lake,1,14
+Florida,Lake Alfred,0,1
+Florida,Lake Butler,1,12
+Florida,Lake City,1,11
+Florida,Lake Mary,0,1296
+Florida,Lake Worth,15,1635
+Florida,Lakeland,7,1301
+Florida,Land O' Lakes,2,27
+Florida,Largo,1,46
+Florida,Lauderdale Lakes,0,172
+Florida,Lecanto,0,380
+Florida,Leesburg,0,33
+Florida,Lehigh Acres,7,1179
+Florida,Lithia,2,438
+Florida,Longwood,3,174
+Florida,Loxahatchee Groves,0,2123
+Florida,Lutz,3,25
+Florida,Lynn Haven,1,1
+Florida,Macclenny,1,16
+Florida,Maitland,0,6
+Florida,Marco Island,0,4
+Florida,Margate,2,326
+Florida,Melbourne Beach,0,4
+Florida,Melbourne,16,5252
+Florida,Merritt Island,1,88
+Florida,Miami Beach,5,52
+Florida,Miami Gardens,1,61
+Florida,Miami Springs,0,1
+Florida,Miami,229,34211
+Florida,Middleburg,2,24
+Florida,Milton,2,325
+Florida,Miramar,5,136
+Florida,Mt. Dora,5,2128
+Florida,Mulberry,0,107
+Florida,Myakka City,1,2
+Florida,N Ft Myers,0,1
+Florida,Naples,12,3994
+Florida,Navarre,0,18
+Florida,New Port Richey,6,239
+Florida,Niceville,2,10
+Florida,Nokomis,1,42
+Florida,North Fort Myers,1,2
+Florida,North Lauderdale,4,186
+Florida,North Miami Beach,1,2
+Florida,North Palm Beach,1,197
+Florida,North Port,6,510
+Florida,Ocala,36,362
+Florida,Ocklawaha,1,16
+Florida,Ocoee,4,2273
+Florida,Odessa,0,66
+Florida,Okahumpka,0,5
+Florida,Okeechobee,0,164
+Florida,Old Town,0,24
+Florida,Opa-locka,1,42
+Florida,Orange Park,0,24
+Florida,Orlando,96,17267
+Florida,Ormond Beach,3,576
+Florida,Oviedo,4,15
+Florida,Oxford,0,88
+Florida,Pace,1,1
+Florida,Pahokee,0,1
+Florida,Paisley,0,7
+Florida,Palm Bay,20,6963
+Florida,Palm Beach Gardens,22,3795
+Florida,Palm Beach,0,1
+Florida,Palm City,0,4
+Florida,Palm Coast,8,613
+Florida,Palm Harbor,1,681
+Florida,Palmetto,3,27
+Florida,Panama City Beach,0,4
+Florida,Panama City,3,36
+Florida,Parkland,2,51
+Florida,Parrish,0,9
+Florida,Pembroke Pines,4,885
+Florida,Pensacola Beach,0,1
+Florida,Pensacola,9,690
+Florida,Perrine,0,23
+Florida,Pinellas Park,2,140
+Florida,Plant City,1,69
+Florida,Plantation,1,26
+Florida,Pompano Beach,7,2125
+Florida,Port Charlotte,2,207
+Florida,Port Orange,0,1322
+Florida,Port Richey,2,17
+Florida,Port Saint Joe,0,4
+Florida,Port Saint Lucie,13,1996
+Florida,Punta Gorda,2,100
+Florida,Reddick,0,2
+Florida,Riverview,5,144
+Florida,Riviera Beach,0,3
+Florida,Rockledge,0,6
+Florida,Rotonda West,1,10
+Florida,Ruskin,1,1
+Florida,Safety Harbor,2,89
+Florida,Saint Augustine,5,226
+Florida,Saint Johns,4,21
+Florida,San Antonio,1,1
+Florida,Sanford,5,1332
+Florida,Santa Rosa Beach,1,99
+Florida,Sarasota,16,1755
+Florida,Satellite Beach,4,36
+Florida,Sebastian,0,4303
+Florida,Sebring,2,4
+Florida,Seminole,1,313
+Florida,Shalimar,1,2
+Florida,Spring Hill,8,818
+Florida,St. Cloud,2,90
+Florida,St. Petersburg,9,1014
+Florida,Stuart,2,1322
+Florida,Summerfield,0,25
+Florida,Sun City Center,1,1
+Florida,Sunny Isles Beach,2,66
+Florida,Sunrise,0,1
+Florida,Tallahassee,11,1399
+Florida,Tamarac,4,93
+Florida,Tampa,74,6823
+Florida,Tarpon Springs,1,1
+Florida,Tavares,1,51
+Florida,Tavernier,0,55
+Florida,The Villages,3,626
+Florida,Titusville,1,1
+Florida,Trenton,1,13
+Florida,Valrico,5,63
+Florida,Venice,0,1
+Florida,Vero Beach,1,872
+Florida,Wauchula,0,8
+Florida,Weeki Wachee,0,1
+Florida,Wellington,1,25
+Florida,Wesley Chapel,4,422
+Florida,West Palm Beach,11,2007
+Florida,Weston,0,51
+Florida,Wildwood,0,20
+Florida,Wimauma,0,106
+Florida,Windermere,2,495
+Florida,Winter Garden,4,2081
+Florida,Winter Haven,2,304
+Florida,Winter Park,4,258
+Florida,Winter Springs,2,132
+Florida,Yulee,0,9
+Florida,Zephyrhills,1,17
+Florida,undefined,14,3064
+Georgia,Acworth,1,320
+Georgia,Albany,2,2
+Georgia,Alma,2,112
+Georgia,Alpharetta,12,5231
+Georgia,Americus,1,1
+Georgia,Athens,6,1230
+Georgia,Atlanta,287,32970
+Georgia,Augusta,7,316
+Georgia,Austell,0,349
+Georgia,Bainbridge,1,1
+Georgia,Ball Ground,0,7
+Georgia,Baxley,0,101
+Georgia,Bethlehem,0,3
+Georgia,Blackshear,1,36
+Georgia,Blairsville,1,84
+Georgia,Bonaire,1,1
+Georgia,Braselton,0,14
+Georgia,Brunswick,1,4
+Georgia,Buford,6,402
+Georgia,Byron,2,191
+Georgia,Calhoun,1,97
+Georgia,Camilla,0,78
+Georgia,Canton,2,222
+Georgia,Carnesville,1,1
+Georgia,Carrollton,5,41
+Georgia,Cedartown,1,29
+Georgia,Chatsworth,3,328
+Georgia,Clarkston,0,3
+Georgia,Clayton,1,3
+Georgia,Cleveland,0,19
+Georgia,Cochran,0,19
+Georgia,Columbus,7,596
+Georgia,Concord,1,1
+Georgia,Conyers,4,809
+Georgia,Covington,2,276
+Georgia,Cumming,9,905
+Georgia,Dacula,3,598
+Georgia,Dallas,2,515
+Georgia,Dalton,3,4
+Georgia,Dawsonville,2,3
+Georgia,Decatur,14,1969
+Georgia,Douglas,0,3
+Georgia,Douglasville,6,271
+Georgia,Dublin,3,8
+Georgia,Duluth,10,1141
+Georgia,Eastman,0,1
+Georgia,Elberton,0,25
+Georgia,Ellenwood,3,129
+Georgia,Evans,3,395
+Georgia,Fairburn,6,137
+Georgia,Fayetteville,4,56
+Georgia,Fitzgerald,0,35
+Georgia,Flowery Branch,1,18
+Georgia,Folkston,0,1
+Georgia,Fort Benning,0,39
+Georgia,Gainesville,7,1180
+Georgia,Glennville,0,132
+Georgia,Grayson,0,9
+Georgia,Griffin,2,18
+Georgia,Grovetown,2,54
+Georgia,Guyton,3,3
+Georgia,Hampton,2,789
+Georgia,Hartwell,1,7
+Georgia,Hawkinsville,0,3
+Georgia,Hazlehurst,0,9
+Georgia,Hephzibah,0,79
+Georgia,Hinesville,3,33
+Georgia,Hiram,0,38
+Georgia,Hull,1,9
+Georgia,Jackson,0,1
+Georgia,Jesup,1,3
+Georgia,Jonesboro,18,942
+Georgia,Kathleen,0,2
+Georgia,Kennesaw,3,192
+Georgia,Kingsland,0,1
+Georgia,La Grange,1,5906
+Georgia,Lawrenceville,15,3434
+Georgia,Lilburn,1,1
+Georgia,Lithonia,8,568
+Georgia,Locust Grove,0,266
+Georgia,Loganville,1,151
+Georgia,Mableton,6,128
+Georgia,Macon,12,2227
+Georgia,Marietta,14,4954
+Georgia,McDonough,9,1748
+Georgia,Metter,0,1
+Georgia,Midland,1,2
+Georgia,Milledgeville,0,991
+Georgia,Monroe,2,578
+Georgia,Monticello,0,1
+Georgia,Morrow,1,1
+Georgia,Moultrie,1,32
+Georgia,Nashville,1,2
+Georgia,Newnan,3,7
+Georgia,Norcross,13,1118
+Georgia,Ocilla,0,1
+Georgia,Peachtree City,1,4
+Georgia,Peachtree Corners,10,73
+Georgia,Pearson,0,1
+Georgia,Pelham,0,71
+Georgia,Pooler,3,132
+Georgia,Port Wentworth,1,4
+Georgia,Powder Springs,6,539
+Georgia,Rex,1,1
+Georgia,Richmond Hill,1,2
+Georgia,Rincon,0,573
+Georgia,Ringgold,1,1
+Georgia,Riverdale,1,41
+Georgia,Rome,6,138
+Georgia,Rossville,0,16
+Georgia,Roswell,2,51
+Georgia,Sandersville,2,36
+Georgia,Savannah,11,2092
+Georgia,Scottdale,2,4
+Georgia,Senoia,1,35
+Georgia,Smyrna,11,1744
+Georgia,Snellville,3,1127
+Georgia,Soperton,0,2
+Georgia,Springfield,0,932
+Georgia,St. Marys,1,102
+Georgia,Statesboro,0,3
+Georgia,Statham,0,1
+Georgia,Stockbridge,4,57
+Georgia,Stone Mountain,24,1904
+Georgia,Sugar Hill,1,66
+Georgia,Summerville,1,5
+Georgia,Suwanee,4,2091
+Georgia,Thomaston,0,42
+Georgia,Thomasville,1,366
+Georgia,Tifton,2,171
+Georgia,Tiger,0,1
+Georgia,Toccoa,1,13
+Georgia,Toomsboro,1,55
+Georgia,Tucker,4,95
+Georgia,Valdosta,1,9
+Georgia,Vidalia,1,15
+Georgia,Vienna,1,1
+Georgia,Warner Robins,1,166
+Georgia,Watkinsville,1,53
+Georgia,Waycross,1,1
+Georgia,Waynesboro,1,194
+Georgia,Winder,1,33
+Georgia,Woodstock,1,60
+Georgia,undefined,16,2503
+Hawaii,'Ewa Beach,2,179
+Hawaii,Hau'ula,1,1
+Hawaii,Hilo,0,1
+Hawaii,Honolulu,43,9779
+Hawaii,Kahuku,0,10
+Hawaii,Kahului,1,76
+Hawaii,Kailua-Kona,5,472
+Hawaii,Kailua,9,970
+Hawaii,Kaneohe,2,7
+Hawaii,Kapolei,2,15
+Hawaii,Kilauea,1,7
+Hawaii,Koloa,2,2
+Hawaii,Kīhei,0,109
+Hawaii,Lahaina,1,137
+Hawaii,Lihue,0,1
+Hawaii,Makawao,1,93
+Hawaii,Mililani Town,0,1
+Hawaii,Pahoa,0,4
+Hawaii,Pearl City,1,12
+Hawaii,Wahiawa,1,1
+Hawaii,Waianae,1,36
+Hawaii,Wailuku,3,5504
+Hawaii,Waimea,0,4
+Hawaii,Waipahu,3,81
+Hawaii,undefined,1,257
+Hawaii,‘Aiea,3,4
+Idaho,American Falls,1,6
+Idaho,Bellevue,0,7
+Idaho,Blackfoot,1,1
+Idaho,Boise,24,4307
+Idaho,Buhl,0,1
+Idaho,Caldwell,2,1960
+Idaho,Coeur d'Alene,3,1078
+Idaho,Eagle,2,1007
+Idaho,Emmett,0,1
+Idaho,Hailey,1,64
+Idaho,Homedale,0,20
+Idaho,Idaho Falls,13,1552
+Idaho,Ketchum,0,269
+Idaho,Kuna,0,201
+Idaho,Meridian,13,7609
+Idaho,Middleton,0,9
+Idaho,Moscow,1,2
+Idaho,Mountain Home,1,5
+Idaho,Nampa,3,1231
+Idaho,Pocatello,3,1633
+Idaho,Ponderay,0,4
+Idaho,Post Falls,1,483
+Idaho,Preston,0,2
+Idaho,Priest River,0,853
+Idaho,Rathdrum,4,2261
+Idaho,Saint Maries,1,280
+Idaho,Salmon,1,1
+Idaho,Sandpoint,1,36
+Idaho,Star,0,129
+Idaho,Sun Valley,0,166
+Idaho,Twin Falls,6,689
+Idaho,Victor,1,1
+Idaho,Weiser,0,1
+Idaho,undefined,1,196
+Illinois,Addison,0,791
+Illinois,Algonquin,1,3
+Illinois,Alsip,1,2
+Illinois,Alton,0,20
+Illinois,Antioch,0,519
+Illinois,Arlington Heights,2,990
+Illinois,Aurora,6,3024
+Illinois,Barrington,1,150
+Illinois,Bartlett,4,172
+Illinois,Batavia,2,10
+Illinois,Belleville,2,725
+Illinois,Bellwood,1,88
+Illinois,Belvidere,0,10
+Illinois,Bensenville,1,186
+Illinois,Berwyn,0,123
+Illinois,Bethalto,0,275
+Illinois,Bloomingdale,1,73
+Illinois,Bloomington,2,30
+Illinois,Blue Island,0,3
+Illinois,Bolingbrook,3,2649
+Illinois,Bridgeview,1,1
+Illinois,Buffalo Grove,0,1223
+Illinois,Burbank,2,3
+Illinois,Calumet City,1,1
+Illinois,Canton,0,6
+Illinois,Carbondale,0,17
+Illinois,Carol Stream,1,197
+Illinois,Carpentersville,0,45
+Illinois,Carterville,1,4
+Illinois,Cary,1,68
+Illinois,Centralia,2,2
+Illinois,Champaign,4,56
+Illinois,Chicago Heights,2,13
+Illinois,Chicago,327,37455
+Illinois,Cicero,0,46
+Illinois,Clinton,0,11
+Illinois,Cottage Hills,1,2
+Illinois,Country Club Hills,1,8
+Illinois,Crest Hill,0,208
+Illinois,Crestwood,0,102
+Illinois,Crete,2,2
+Illinois,Crystal Lake,4,537
+Illinois,Danville,0,96
+Illinois,Darien,1,8
+Illinois,DeKalb,1,22
+Illinois,Decatur,0,73
+Illinois,Deerfield,1,1
+Illinois,Des Plaines,3,67
+Illinois,Dixon,1,114
+Illinois,Downers Grove,1,364
+Illinois,Du Quoin,0,72
+Illinois,Edwardsville,0,47
+Illinois,Effingham,1,3
+Illinois,Elgin,3,3045
+Illinois,Elk Grove Village,1,1692
+Illinois,Elmhurst,5,1626
+Illinois,Elmwood Park,0,126
+Illinois,Evanston,3,165
+Illinois,Flossmoor,1,3
+Illinois,Forest Park,0,1
+Illinois,Forsyth,1,90
+Illinois,Fox Lake,0,617
+Illinois,Frankfort,2,1317
+Illinois,Franklin Park,0,1
+Illinois,Galena,2,2
+Illinois,Galesburg,1,1
+Illinois,Geneva,1,3
+Illinois,Gilberts,0,1
+Illinois,Glen Carbon,1,1
+Illinois,Glen Ellyn,0,99
+Illinois,Glencoe,0,9
+Illinois,Glendale Heights,0,12
+Illinois,Glenview,2,319
+Illinois,Godfrey,0,3
+Illinois,Granite City,0,799
+Illinois,Grayslake,1,44
+Illinois,Gurnee,0,6
+Illinois,Hamilton,0,201
+Illinois,Hampshire,1,56
+Illinois,Hanna City,0,1
+Illinois,Hanover Park,3,274
+Illinois,Harrisburg,0,1234
+Illinois,Harvey,0,152
+Illinois,Harwood Heights,0,148
+Illinois,Herrin,1,28
+Illinois,Hickory Hills,2,3
+Illinois,Hillside,0,184
+Illinois,Hinsdale,0,51
+Illinois,Hoffman Estates,1,361
+Illinois,Homer Glen,1,28
+Illinois,Homewood,0,10
+Illinois,Hopedale,3,4861
+Illinois,Huntley,0,65
+Illinois,Island Lake,0,59
+Illinois,Itasca,0,8
+Illinois,Jacksonville,0,115
+Illinois,Joliet,1,480
+Illinois,Justice,0,808
+Illinois,Kankakee,1,1
+Illinois,La Grange Park,0,104
+Illinois,Lake Forest,1,18
+Illinois,Lake Villa,0,953
+Illinois,Lake Zurich,3,40
+Illinois,Lake in the Hills,1,112
+Illinois,Lansing,1,507
+Illinois,Lemont,0,37
+Illinois,Lexington,0,8
+Illinois,Libertyville,0,217
+Illinois,Lisle,0,2
+Illinois,Lockport,1,305
+Illinois,Lombard,2,51
+Illinois,Lyons,0,1
+Illinois,Machesney Park,1,7
+Illinois,Macomb,0,992
+Illinois,Mahomet,0,2
+Illinois,Manhattan,1,1
+Illinois,Mapleton,1,4
+Illinois,Marengo,0,57
+Illinois,Marion,3,31
+Illinois,Markham,0,23
+Illinois,Maryville,2,1509
+Illinois,Mascoutah,1,1
+Illinois,Matteson,2,166
+Illinois,Mattoon,1,95
+Illinois,Maywood,0,48
+Illinois,McHenry,2,10
+Illinois,Melrose Park,1,171
+Illinois,Minier,0,330
+Illinois,Mokena,0,77
+Illinois,Moline,2,2
+Illinois,Monee,0,49
+Illinois,Morton Grove,1,6
+Illinois,Morton,0,70
+Illinois,Mount Prospect,3,258
+Illinois,Mundelein,4,73
+Illinois,Naperville,9,3137
+Illinois,New Lenox,1,64
+Illinois,Northbrook,4,452
+Illinois,Oak Brook,0,332
+Illinois,Oak Forest,2,222
+Illinois,Oak Lawn,0,329
+Illinois,Oak Park,2,13
+Illinois,Orland Park,1,49
+Illinois,Oswego,2,126
+Illinois,Ottawa,0,5
+Illinois,Palatine,2,421
+Illinois,Palos Heights,1,54
+Illinois,Park Forest,1,16
+Illinois,Park Ridge,0,68
+Illinois,Pekin,0,642
+Illinois,Peoria,1,123
+Illinois,Peru,0,1
+Illinois,Plainfield,4,84
+Illinois,Pontiac,0,8
+Illinois,Quincy,2,518
+Illinois,Radom,1,1
+Illinois,Richmond,1,5
+Illinois,Richton Park,1,2
+Illinois,River Forest,0,73
+Illinois,Robinson,1,12
+Illinois,Rochelle,0,1
+Illinois,Rock Island,0,37
+Illinois,Rockford,2,310
+Illinois,Rockton,1,24
+Illinois,Rolling Mdws,0,64
+Illinois,Rolling Meadows,0,1068
+Illinois,Romeoville,0,1
+Illinois,Roselle,0,468
+Illinois,Round Lake,1,295
+Illinois,Roxana,0,76
+Illinois,Saint Charles,2,226
+Illinois,San Jose,0,463
+Illinois,Schaumburg,4,434
+Illinois,Skokie,1,21
+Illinois,Somonauk,1,1
+Illinois,South Holland,1,221
+Illinois,Springfield,5,227
+Illinois,St. Charles,0,439
+Illinois,Streamwood,1,82
+Illinois,Streator,1,1
+Illinois,Sugar Grove,0,1
+Illinois,Swansea,0,23
+Illinois,Sycamore,2,449
+Illinois,Tinley Park,0,47
+Illinois,Tremont,3,2603
+Illinois,Tuscola,1,3
+Illinois,Urbana,0,1
+Illinois,Vernon Hills,0,414
+Illinois,Villa Park,1,84
+Illinois,Virden,0,187
+Illinois,Warrenville,0,12
+Illinois,Washington,1,1
+Illinois,Waterloo,1,1
+Illinois,Watseka,1,22
+Illinois,Wauconda,0,6
+Illinois,Waukegan,0,607
+Illinois,West Chicago,0,7
+Illinois,Westmont,1,1
+Illinois,Wheaton,1,338
+Illinois,Wheeling,1,93
+Illinois,Willowbrook,1,636
+Illinois,Wilmette,3,2307
+Illinois,Winnetka,0,474
+Illinois,Wood Dale,1,1
+Illinois,Woodridge,2,1406
+Illinois,Woodstock,0,3
+Illinois,Yorkville,0,1
+Illinois,undefined,19,1785
+Indiana,Alexandria,0,7
+Indiana,Anderson,2,194
+Indiana,Auburn,0,15
+Indiana,Aurora,0,2
+Indiana,Avon,2,10
+Indiana,Bedford,0,113
+Indiana,Bloomington,5,220
+Indiana,Boonville,0,1
+Indiana,Brazil,0,101
+Indiana,Brownsburg,1,1
+Indiana,Camby,0,816
+Indiana,Carmel,7,89
+Indiana,Chesterton,0,133
+Indiana,Clinton,1,571
+Indiana,Columbia City,0,2
+Indiana,Columbus,3,1062
+Indiana,Crown Point,1,283
+Indiana,Dale,0,7
+Indiana,Dyer,0,6
+Indiana,East Chicago,1,2
+Indiana,Elkhart,2,38
+Indiana,Evansville,9,8071
+Indiana,Fishers,2,269
+Indiana,Florence,1,10
+Indiana,Fort Wayne,15,2283
+Indiana,Fortville,1,85
+Indiana,Francesville,0,1
+Indiana,Franklin,0,6
+Indiana,Gary,1,9
+Indiana,Grabill,1,1
+Indiana,Grandview,0,3
+Indiana,Granger,1,4
+Indiana,Greenfield,1,37
+Indiana,Greensburg,0,24
+Indiana,Greenwood,0,1064
+Indiana,Griffith,1,1
+Indiana,Hammond,2,70
+Indiana,Henryville,0,121
+Indiana,Highland,1,1
+Indiana,Huntington,0,2
+Indiana,Indianapolis,85,8629
+Indiana,Jasper,1,271
+Indiana,Jeffersonville,0,94
+Indiana,Kendallville,0,5
+Indiana,Kokomo,1,37
+Indiana,La Porte,0,6
+Indiana,Lafayette,2,36
+Indiana,Logansport,1,35
+Indiana,Lowell,0,1306
+Indiana,Manilla,0,1
+Indiana,Marion,2,314
+Indiana,Martinsville,0,106
+Indiana,McCordsville,1,3
+Indiana,Merrillville,1,1080
+Indiana,Mishawaka,0,9
+Indiana,Mitchell,0,5
+Indiana,Monticello,1,23
+Indiana,Muncie,1,965
+Indiana,Munster,1,1
+Indiana,Nashville,0,39
+Indiana,New Albany,0,7
+Indiana,New Castle,0,27
+Indiana,Newburgh,0,81
+Indiana,Noblesville,2,381
+Indiana,North Vernon,0,141
+Indiana,Osceola,0,1
+Indiana,Owensville,0,1
+Indiana,Paoli,1,1
+Indiana,Peru,0,93
+Indiana,Portland,0,5
+Indiana,Rising Sun,2,2
+Indiana,Rockport,0,348
+Indiana,Saint Paul,0,1
+Indiana,Santa Claus,0,3
+Indiana,Schererville,3,12
+Indiana,Selma,0,75
+Indiana,Seymour,2,289
+Indiana,Shelbyville,0,116
+Indiana,South Bend,2,77
+Indiana,Spencer,0,1
+Indiana,Terre Haute,6,5033
+Indiana,Union City,0,7
+Indiana,Valparaiso,3,1753
+Indiana,Vincennes,2,78
+Indiana,Wabash,0,271
+Indiana,Warsaw,2,3
+Indiana,Washington,4,401
+Indiana,West Lafayette,1,30
+Indiana,Westfield,0,4
+Indiana,Woodburn,0,42
+Indiana,Yorktown,1,1
+Indiana,Zionsville,0,5
+Indiana,undefined,4,278
+Iowa,Albia,2,114
+Iowa,Ames,2,24
+Iowa,Ankeny,2,16
+Iowa,Atkins,1,29
+Iowa,Bellevue,0,2
+Iowa,Bettendorf,2,662
+Iowa,Breda,1,1
+Iowa,Cedar Falls,2,31
+Iowa,Cedar Rapids,5,65
+Iowa,Centerville,1,52
+Iowa,Clinton,1,1
+Iowa,Clive,1,621
+Iowa,Coralville,3,61
+Iowa,Corydon,1,110
+Iowa,Council Bluffs,1,69
+Iowa,Davenport,2,55
+Iowa,Denison,0,2
+Iowa,Des Moines,7,1122
+Iowa,Dubuque,2,14
+Iowa,Dyersville,1,252
+Iowa,Fairfax,4,21
+Iowa,Fairfield,0,44
+Iowa,Fort Dodge,0,2
+Iowa,Grimes,0,1
+Iowa,Grinnell,1,1
+Iowa,Guthrie Center,0,2
+Iowa,Humboldt,1,1
+Iowa,Iowa City,2,3
+Iowa,Kensett,2,15
+Iowa,Keokuk,0,14
+Iowa,Knoxville,1,6
+Iowa,Lohrville,0,918
+Iowa,Maquoketa,0,2
+Iowa,Marion,1,83
+Iowa,Mason City,1,51
+Iowa,Moulton,1,1
+Iowa,Muscatine,1,3
+Iowa,Newton,1,1405
+Iowa,North Liberty,2,10
+Iowa,Norwalk,0,7
+Iowa,Osceola,2,15
+Iowa,Oskaloosa,0,1
+Iowa,Ottumwa,2,2323
+Iowa,Panora,1,8
+Iowa,Perry,0,3
+Iowa,Pleasant Hill,1,2
+Iowa,Remsen,0,9
+Iowa,Saint Ansgar,0,135
+Iowa,Scranton,1,1
+Iowa,Shellsburg,1,1
+Iowa,Sigourney,9,688
+Iowa,Sioux City,1,34
+Iowa,Spencer,1,398
+Iowa,Spirit Lake,1,2
+Iowa,Tiffin,0,6
+Iowa,Tipton,0,52
+Iowa,Urbandale,9,4699
+Iowa,Waterloo,0,19
+Iowa,Waukee,0,89
+Iowa,Wayland,1,7
+Iowa,West Branch,1,205
+Iowa,West Des Moines,3,1430
+Iowa,Windsor Heights,0,113
+Iowa,undefined,1,26
+Kansas,Abilene,1,1
+Kansas,Alta Vista,0,12
+Kansas,Andover,0,178
+Kansas,Arkansas City,0,17
+Kansas,Atchison,2,230
+Kansas,Baldwin City,1,1
+Kansas,Basehor,0,1
+Kansas,Berryton,0,621
+Kansas,Buhler,0,89
+Kansas,Chanute,2,4
+Kansas,Clearwater,0,8
+Kansas,Colby,2,8
+Kansas,Council Grove,0,67
+Kansas,Derby,1,5
+Kansas,Dodge City,1,18
+Kansas,El Dorado,0,673
+Kansas,Emporia,2,1061
+Kansas,Eureka,0,1
+Kansas,Fredonia,0,77
+Kansas,Garden City,0,2
+Kansas,Gardner,3,1102
+Kansas,Hays,2,10
+Kansas,Hiawatha,0,71
+Kansas,Hutchinson,2,1892
+Kansas,Junction City,1,6
+Kansas,Kansas City,8,2411
+Kansas,Lawrence,0,12
+Kansas,Leavenworth,2,44
+Kansas,Leawood,0,3
+Kansas,Lenexa,1,211
+Kansas,Liberal,1,104
+Kansas,Lorraine,1,1
+Kansas,Louisburg,0,13
+Kansas,Manhattan,3,14
+Kansas,Meriden,0,4
+Kansas,Mission,2,102
+Kansas,Newton,1,32
+Kansas,Oakley,0,10
+Kansas,Olathe,10,288
+Kansas,Onaga,0,76
+Kansas,Osawatomie,0,406
+Kansas,Ottawa,1,96
+Kansas,Overland Park,16,8387
+Kansas,Paola,1,379
+Kansas,Pittsburg,0,1
+Kansas,Prairie Village,3,978
+Kansas,Pratt,0,21
+Kansas,Roeland Park,0,13
+Kansas,Salina,1,3055
+Kansas,Sharon Springs,0,15
+Kansas,Shawnee,1,163
+Kansas,Spring Hill,0,2
+Kansas,Sterling,0,3
+Kansas,Topeka,7,1803
+Kansas,Tribune,0,101
+Kansas,Wellington,0,1
+Kansas,Wellsville,0,12
+Kansas,Wichita,35,13623
+Kansas,undefined,3,506
+Kentucky,Adolphus,0,20
+Kentucky,Alexandria,0,2
+Kentucky,Ashland,1,16
+Kentucky,Barbourville,0,6
+Kentucky,Beattyville,0,1144
+Kentucky,Bee Spring,1,1
+Kentucky,Berea,1,1
+Kentucky,Bloomfield,0,1
+Kentucky,Bowling Green,3,14
+Kentucky,Brandenburg,0,374
+Kentucky,Brodhead,1,86
+Kentucky,Brownsville,0,1
+Kentucky,Burlington,0,2
+Kentucky,Campbellsville,0,225
+Kentucky,Carlisle,0,12
+Kentucky,Clay City,0,13
+Kentucky,Corbin,2,100
+Kentucky,Covington,1,1
+Kentucky,Crestwood,1,1
+Kentucky,Crittenden,0,14
+Kentucky,Crofton,1,7
+Kentucky,Cynthiana,1,43
+Kentucky,Danville,3,26
+Kentucky,Dawson Springs,1,88
+Kentucky,Dry Ridge,0,95
+Kentucky,Edgewood,1,101
+Kentucky,Elizabethtown,3,1570
+Kentucky,Florence,1,26
+Kentucky,Ford,0,56
+Kentucky,Fort Campbell North,3,17
+Kentucky,Georgetown,1,48
+Kentucky,Glasgow,1,16
+Kentucky,Gordon,0,68
+Kentucky,Greenville,1,75
+Kentucky,Guston,0,159
+Kentucky,Hallie,1,1
+Kentucky,Harned,0,2
+Kentucky,Harold,0,33
+Kentucky,Hartford,1,2
+Kentucky,Hazard,1,1
+Kentucky,Hazel,1,2
+Kentucky,Henderson,0,26
+Kentucky,Hopkinsville,6,45
+Kentucky,Irvington,0,789
+Kentucky,Island,0,48
+Kentucky,Jackson,1,81
+Kentucky,Lexington,13,1086
+Kentucky,London,3,16
+Kentucky,Louisa,0,246
+Kentucky,Louisville,39,3080
+Kentucky,Madisonville,0,9
+Kentucky,Manchester,1,1
+Kentucky,McDaniels,0,8
+Kentucky,McDowell,0,97
+Kentucky,Morehead,1,1
+Kentucky,Mount Sterling,1,422
+Kentucky,Mount Washington,1,27
+Kentucky,Murray,1,1
+Kentucky,Newport,0,3
+Kentucky,Olive Hill,0,68
+Kentucky,Owensboro,6,2834
+Kentucky,Paducah,1,68
+Kentucky,Paintsville,0,37
+Kentucky,Paris,1,73
+Kentucky,Payneville,0,3
+Kentucky,Phelps,1,113
+Kentucky,Pikeville,2,1136
+Kentucky,Prestonsburg,2,2
+Kentucky,Prospect,1,1
+Kentucky,Radcliff,1,341
+Kentucky,Richmond,4,586
+Kentucky,Salem,1,1
+Kentucky,Salyersville,0,23
+Kentucky,Scottsville,0,144
+Kentucky,Shelbiana,0,1
+Kentucky,Shelbyville,1,29
+Kentucky,Shepherdsville,0,5
+Kentucky,Somerset,4,197
+Kentucky,Stanton,0,1
+Kentucky,Versailles,0,5
+Kentucky,Vine Grove,1,1424
+Kentucky,West Liberty,6,3632
+Kentucky,Westview,0,2
+Kentucky,Williamsburg,0,24
+Kentucky,Winchester,4,376
+Kentucky,undefined,0,6
+Louisiana,Abbeville,1,1
+Louisiana,Alexandria,6,105
+Louisiana,Baker,0,73
+Louisiana,Bastrop,1,1
+Louisiana,Baton Rouge,18,1529
+Louisiana,Belle Chasse,0,59
+Louisiana,Benton,0,7
+Louisiana,Bossier City,7,21
+Louisiana,Broussard,1,45
+Louisiana,Carencro,0,89
+Louisiana,Chalmette,1,2
+Louisiana,Choudrant,0,123
+Louisiana,Colfax,1,2
+Louisiana,Columbia,24,343
+Louisiana,Covington,5,1784
+Louisiana,Cut Off,1,2
+Louisiana,DeRidder,2,3
+Louisiana,Denham Springs,1,397
+Louisiana,Downsville,1,1
+Louisiana,Duson,1,44
+Louisiana,Eunice,1,1
+Louisiana,Franklin,1,740
+Louisiana,Franklinton,1,16
+Louisiana,Glenmora,1,17
+Louisiana,Gonzales,3,370
+Louisiana,Greenwell Springs,1,1
+Louisiana,Gretna,1,417
+Louisiana,Hammond,5,373
+Louisiana,Harvey,1,151
+Louisiana,Homer,1,3
+Louisiana,Houma,2,162
+Louisiana,Jennings,1,1
+Louisiana,Jonesboro,1,5
+Louisiana,Kenner,1,244
+Louisiana,Kinder,0,17
+Louisiana,Lafayette,11,369
+Louisiana,Lake Charles,6,461
+Louisiana,Lake Providence,1,2
+Louisiana,Laplace,1,3
+Louisiana,Luling,1,469
+Louisiana,Mandeville,2,286
+Louisiana,Many,0,2
+Louisiana,Marrero,1,362
+Louisiana,Metairie,15,1044
+Louisiana,Monroe,0,1
+Louisiana,Natchitoches,3,24
+Louisiana,New Iberia,1,1
+Louisiana,New Orleans,39,5010
+Louisiana,New Roads,1,1
+Louisiana,Opelousas,7,277
+Louisiana,Pearl River,0,8
+Louisiana,Pineville,4,352
+Louisiana,Plaquemine,0,1
+Louisiana,Ponchatoula,2,153
+Louisiana,Prairieville,0,24
+Louisiana,Rayville,1,2
+Louisiana,Saint Joseph,1,1
+Louisiana,Shreveport,7,302
+Louisiana,Slidell,1,3323
+Louisiana,Stonewall,0,15
+Louisiana,Sulphur,1,3
+Louisiana,Thibodaux,2,23
+Louisiana,Ville Platte,2,69
+Louisiana,Vivian,0,18
+Louisiana,Walker,0,51
+Louisiana,West Monroe,1,10
+Louisiana,Westlake,1,1
+Louisiana,Westwego,0,50
+Louisiana,Youngsville,1,3
+Louisiana,Zachary,4,846
+Louisiana,undefined,8,1248
+Maine,Auburn,0,8
+Maine,Augusta,1,3
+Maine,Bangor,4,257
+Maine,Bar Harbor,1,1
+Maine,Bath,0,3
+Maine,Blue Hill,0,9
+Maine,Boothbay,0,1
+Maine,Brooks,1,2
+Maine,Brownfield,1,1
+Maine,Brunswick,0,1
+Maine,Caribou,10,1761
+Maine,Damariscotta,0,3
+Maine,Eliot,1,2
+Maine,Ellsworth,1,50
+Maine,Frankfort,0,1
+Maine,Freeport,2,448
+Maine,Holden,0,11
+Maine,Houlton,1,5
+Maine,Lewiston,2,146
+Maine,Lincolnville,1,1
+Maine,Machias,0,244
+Maine,Machiasport,0,537
+Maine,Norway,0,5
+Maine,Orland,0,7
+Maine,Orrington,0,83
+Maine,Perry,0,279
+Maine,Portland,4,335
+Maine,Raymond,0,144
+Maine,Saco,0,53
+Maine,Scarborough,1,2
+Maine,South Portland,0,4
+Maine,Topsham,0,1
+Maine,Walnut Hill,1,3
+Maine,Waterville,2,367
+Maine,Wells,0,1
+Maine,York Village,7,1099
+Maryland,Abingdon,3,796
+Maryland,Accokeek,1,116
+Maryland,Annapolis,4,357
+Maryland,Arnold,0,11
+Maryland,Baltimore,34,6810
+Maryland,Bel Air,3,76
+Maryland,Beltsville,5,777
+Maryland,Berlin,5,17
+Maryland,Bethesda,5,60
+Maryland,Bowie,7,2412
+Maryland,Brandywine,1,3
+Maryland,Brookeville,1,9
+Maryland,Brooklyn,0,78
+Maryland,Brunswick,0,1
+Maryland,Bryans Road,0,47
+Maryland,Burtonsville,0,3
+Maryland,Cabin John,1,7
+Maryland,California,3,16
+Maryland,Cambridge,1,5
+Maryland,Capitol Heights,3,183
+Maryland,Catonsville,3,982
+Maryland,Chesapeake Beach,0,372
+Maryland,Chestertown,1,18
+Maryland,Chevy Chase,5,275
+Maryland,Clarksville,1,774
+Maryland,Clinton,2,566
+Maryland,Cockeysville,0,7
+Maryland,College Park,4,32
+Maryland,Columbia,12,2601
+Maryland,Crofton,1,6
+Maryland,Cumberland,1,12
+Maryland,Curtis Bay,0,10
+Maryland,Damascus,1,2565
+Maryland,Deale,1,1
+Maryland,District Heights,2,445
+Maryland,Dundalk,1,1024
+Maryland,Edgewater,3,461
+Maryland,Elkridge,3,4577
+Maryland,Elkton,0,202
+Maryland,Ellicott City,4,13
+Maryland,Essex,2,1050
+Maryland,Fallston,0,2
+Maryland,Fort Meade,0,256
+Maryland,Frederick,12,9133
+Maryland,Frostburg,0,1
+Maryland,Ft. Washington,3,311
+Maryland,Gaithersburg,1,20
+Maryland,Gambrills,0,25
+Maryland,Germantown,2,30
+Maryland,Glen Burnie,4,427
+Maryland,Glenelg,0,28
+Maryland,Glenwood,0,7
+Maryland,Grasonville,1,2
+Maryland,Greenbelt,4,93
+Maryland,Gwynn Oak,1,97
+Maryland,Hagerstown,5,41
+Maryland,Halethorpe,3,13
+Maryland,Hampstead,0,1
+Maryland,Hanover,0,765
+Maryland,Hughesville,0,29
+Maryland,Huntingtown,0,12
+Maryland,Hurlock,1,1
+Maryland,Hyattsville,11,2646
+Maryland,Kensington,0,1
+Maryland,La Plata,2,630
+Maryland,Lanham,7,497
+Maryland,Laurel,16,1336
+Maryland,Lexington Park,2,13
+Maryland,Linthicum Heights,0,1600
+Maryland,Manchester,0,110
+Maryland,Marriottsville,1,3
+Maryland,Middle River,1,1019
+Maryland,Middletown,1,1
+Maryland,Millersville,1,1
+Maryland,Monrovia,1,1
+Maryland,Montgomery Village,0,18
+Maryland,Mount Airy,1,3
+Maryland,Myersville,0,115
+Maryland,New Market,2,155
+Maryland,Nottingham,4,861
+Maryland,Oakland,1,8
+Maryland,Odenton,0,8
+Maryland,Olney,4,84
+Maryland,Owings Mills,3,233
+Maryland,Owings,1,1
+Maryland,Oxon Hill,3,113
+Maryland,Parkville,3,1656
+Maryland,Pasadena,4,834
+Maryland,Perry Hall,0,410
+Maryland,Phoenix,0,25
+Maryland,Pikesville,1,20
+Maryland,Poolesville,1,2
+Maryland,Potomac,2,188
+Maryland,Princess Anne,1,1
+Maryland,Randallstown,5,1029
+Maryland,Rawlings,1,1
+Maryland,Reisterstown,2,31
+Maryland,Riverdale Park,0,144
+Maryland,Rockville,8,1783
+Maryland,Rosedale,0,2
+Maryland,Salisbury,2,130
+Maryland,Severn,1,19
+Maryland,Severna Park,4,34
+Maryland,Silver Spring,22,2238
+Maryland,Suitland,0,291
+Maryland,Sykesville,0,3
+Maryland,Takoma Park,0,3
+Maryland,Taneytown,0,61
+Maryland,Temple Hills,2,24
+Maryland,Timonium,1,43
+Maryland,Towson,1,1
+Maryland,Upper Marlboro,7,278
+Maryland,Waldorf,7,1013
+Maryland,West Friendship,0,31
+Maryland,Westminster,1,21
+Maryland,Williamsport,0,352
+Maryland,Windsor Mill,1,22
+Maryland,Woodbine,2,46
+Maryland,undefined,4,83
+Massachusetts,Abington,0,98
+Massachusetts,Acton,2,11
+Massachusetts,Agawam,1,25
+Massachusetts,Allston,2,55
+Massachusetts,Andover,1,358
+Massachusetts,Arlington,2,106
+Massachusetts,Ashfield,0,1
+Massachusetts,Ashland,0,12
+Massachusetts,Attleboro Falls,0,13
+Massachusetts,Attleboro,1,131
+Massachusetts,Avon,0,70
+Massachusetts,Ayer,0,10
+Massachusetts,Bedford,0,3
+Massachusetts,Beverly,1,47
+Massachusetts,Billerica,1,528
+Massachusetts,Boston,104,11217
+Massachusetts,Boxborough,0,24
+Massachusetts,Boxford,0,27
+Massachusetts,Brant Rock,0,36
+Massachusetts,Bridgewater,1,3
+Massachusetts,Brighton,2,50
+Massachusetts,Brockton,10,1089
+Massachusetts,Brookline,4,831
+Massachusetts,Cambridge,10,465
+Massachusetts,Canton,2,310
+Massachusetts,Centerville,1,1
+Massachusetts,Charlestown,2,6
+Massachusetts,Charlton,1,144
+Massachusetts,Chelmsford,1,10
+Massachusetts,Chelsea,8,685
+Massachusetts,Chestnut Hill,0,2
+Massachusetts,Chicopee,1,1
+Massachusetts,Clinton,2,8
+Massachusetts,Concord,3,53
+Massachusetts,Danvers,1,7
+Massachusetts,Dedham,0,24
+Massachusetts,Dorchester,2,71
+Massachusetts,Dover,0,29
+Massachusetts,Dracut,3,1058
+Massachusetts,Duxbury,1,1
+Massachusetts,East Dennis,0,3
+Massachusetts,East Falmouth,1,1
+Massachusetts,East Longmeadow,1,21
+Massachusetts,East Weymouth,0,417
+Massachusetts,Everett,13,590
+Massachusetts,Fall River,1,47
+Massachusetts,Fitchburg,1,2
+Massachusetts,Framingham,4,9
+Massachusetts,Gardner,0,134
+Massachusetts,Georgetown,0,6
+Massachusetts,Gloucester,0,1
+Massachusetts,Grafton,0,4
+Massachusetts,Greenfield,1,78
+Massachusetts,Hampden,0,115
+Massachusetts,Hanson,1,6
+Massachusetts,Haverhill,9,432
+Massachusetts,Head of Westport,1,2
+Massachusetts,Hingham,1,90
+Massachusetts,Holliston,1,4
+Massachusetts,Holyoke,1,62
+Massachusetts,Hopkinton,0,5
+Massachusetts,Hudson,0,269
+Massachusetts,Hyannis,2,406
+Massachusetts,Hyde Park,1,92
+Massachusetts,Jamaica Plain,1,52
+Massachusetts,Kingston,1,3
+Massachusetts,Lancaster,1,8
+Massachusetts,Lawrence,10,1176
+Massachusetts,Lee,1,119
+Massachusetts,Leominster,2,26
+Massachusetts,Lexington,1,2
+Massachusetts,Longmeadow,1,198
+Massachusetts,Lowell,6,2083
+Massachusetts,Lunenburg,1,1
+Massachusetts,Lynn,1,576
+Massachusetts,Malden,4,372
+Massachusetts,Mansfield,1,16
+Massachusetts,Marblehead,0,1
+Massachusetts,Marion,1,1
+Massachusetts,Marlborough,2,14
+Massachusetts,Marshfield,0,4
+Massachusetts,Mashpee,0,11
+Massachusetts,Mattapan,1,60
+Massachusetts,Medford,5,634
+Massachusetts,Melrose,0,8
+Massachusetts,Methuen,1,3155
+Massachusetts,Middleboro,0,1
+Massachusetts,Milford,1,1
+Massachusetts,Millbury,0,31
+Massachusetts,Millis,0,13
+Massachusetts,Milton,0,7
+Massachusetts,Nantucket,1,16
+Massachusetts,Natick,1,267
+Massachusetts,Needham,2,92
+Massachusetts,New Bedford,6,35
+Massachusetts,Newburyport,0,156
+Massachusetts,Newton Highlands,0,36
+Massachusetts,Newton,2,34
+Massachusetts,Newtonville,0,10
+Massachusetts,North Adams,1,315
+Massachusetts,North Attleboro,1,362
+Massachusetts,North Chelmsford,2,94
+Massachusetts,North Easton,0,1
+Massachusetts,North Grafton,0,9
+Massachusetts,North Oxford,0,4
+Massachusetts,North Reading,0,332
+Massachusetts,Northampton,1,973
+Massachusetts,Northborough,0,4
+Massachusetts,Northbridge,1,3
+Massachusetts,Norton,0,11
+Massachusetts,Norwell,0,52
+Massachusetts,Norwood,3,74
+Massachusetts,Orleans,0,36
+Massachusetts,Peabody,4,125
+Massachusetts,Pembroke,1,1
+Massachusetts,Pepperell,0,2
+Massachusetts,Pittsfield,4,7
+Massachusetts,Plainville,0,16
+Massachusetts,Plymouth,1,1903
+Massachusetts,Princeton,1,1
+Massachusetts,Quincy,4,384
+Massachusetts,Randolph,4,1106
+Massachusetts,Rehoboth,1,1
+Massachusetts,Revere,4,817
+Massachusetts,Roslindale,0,56
+Massachusetts,Roxbury Crossing,0,3
+Massachusetts,Salem,2,430
+Massachusetts,Sandwich,1,1
+Massachusetts,Saugus,0,3
+Massachusetts,Sharon,1,2
+Massachusetts,Sherborn,0,2
+Massachusetts,Shrewsbury,5,21
+Massachusetts,Somerset,0,9
+Massachusetts,Somerville,3,342
+Massachusetts,South Dennis,0,5
+Massachusetts,South Easton,0,50
+Massachusetts,South Hadley,1,2
+Massachusetts,South Yarmouth,0,109
+Massachusetts,Southbridge,1,13
+Massachusetts,Springfield,11,2773
+Massachusetts,Stoneham,0,9
+Massachusetts,Sudbury,0,12
+Massachusetts,Sutton,0,10
+Massachusetts,Taunton,4,1424
+Massachusetts,Tewksbury,0,73
+Massachusetts,Truro,0,15
+Massachusetts,Tyngsboro,1,4
+Massachusetts,Uxbridge,1,36
+Massachusetts,Vineyard Haven,0,6
+Massachusetts,Wakefield,2,97
+Massachusetts,Waltham,6,561
+Massachusetts,Watertown,0,22
+Massachusetts,Wayland,0,1
+Massachusetts,Webster,0,2
+Massachusetts,Wellesley,0,1619
+Massachusetts,West Newton,0,17
+Massachusetts,West Roxbury,2,35
+Massachusetts,West Springfield,1,160
+Massachusetts,Westborough,1,75
+Massachusetts,Westfield,1,8
+Massachusetts,Westwood,0,45
+Massachusetts,Weymouth,2,607
+Massachusetts,Whitinsville,1,2
+Massachusetts,Wilmington,0,36
+Massachusetts,Winchester,1,1
+Massachusetts,Winthrop,1,1317
+Massachusetts,Woburn,0,102
+Massachusetts,Worcester,13,715
+Massachusetts,Wrentham,0,7
+Massachusetts,undefined,2,209
+Michigan,Adrian,1,33
+Michigan,Algonac,0,174
+Michigan,Allen Park,0,11
+Michigan,Alma,1,56
+Michigan,Ann Arbor,5,712
+Michigan,Auburn Hills,2,414
+Michigan,Battle Creek,9,2183
+Michigan,Bay City,2,28
+Michigan,Bellaire,0,17
+Michigan,Belleville,0,2
+Michigan,Benton Harbor,1,10
+Michigan,Berkley,1,18
+Michigan,Beverly Hills,5,592
+Michigan,Big Rapids,1,10
+Michigan,Birmingham,1,37
+Michigan,Bloomfield Hills,10,851
+Michigan,Bridgman,1,1
+Michigan,Brighton,2,52
+Michigan,Burton,1,21
+Michigan,Byron Center,1,108
+Michigan,Canton,2,147
+Michigan,Caro,1,41
+Michigan,Cass City,0,1
+Michigan,China Township,1,1
+Michigan,Clarkston,0,347
+Michigan,Clinton Township,15,554
+Michigan,Clio,0,2
+Michigan,Coldwater,1,25
+Michigan,Commerce,5,92
+Michigan,Davison,1,1
+Michigan,Dearborn Heights,2,41
+Michigan,Dearborn,9,140
+Michigan,Detroit,84,4545
+Michigan,Dimondale,1,8
+Michigan,East Lansing,4,107
+Michigan,Eastpointe,1,11
+Michigan,Edmore,1,1
+Michigan,Escanaba,1,2
+Michigan,Farmington Hills,6,1324
+Michigan,Farmington,2,503
+Michigan,Fenton,1,19
+Michigan,Ferndale,0,64
+Michigan,Flat Rock,1,155
+Michigan,Flint,4,1171
+Michigan,Flushing,1,12
+Michigan,Franklin,0,121
+Michigan,Galesburg,0,2
+Michigan,Garden City,0,1364
+Michigan,Gladstone,0,1
+Michigan,Grand Blanc,3,1200
+Michigan,Grand Rapids,13,614
+Michigan,Greenville,2,2
+Michigan,Grosse Ile Township,0,6
+Michigan,Grosse Pointe Woods,1,4
+Michigan,Grosse Pointe,1,5
+Michigan,Hamtramck,2,156
+Michigan,Harper Woods,2,164
+Michigan,Harrison,4,12
+Michigan,Hartland,0,50
+Michigan,Hastings,0,11
+Michigan,Hazel Park,1,2
+Michigan,Hillsdale,0,301
+Michigan,Holland,3,180
+Michigan,Holly,0,1
+Michigan,Homer,0,1
+Michigan,Howell,1,141
+Michigan,Hudsonville,1,2
+Michigan,Huntington Woods,1,5
+Michigan,Inkster,0,137
+Michigan,Iron Mountain,1,43
+Michigan,Jackson,1,1
+Michigan,Kalamazoo,18,1674
+Michigan,Laingsburg,0,2
+Michigan,Lake Orion,2,10
+Michigan,Lake,0,36
+Michigan,Lansing,4,551
+Michigan,Lapeer,1,1739
+Michigan,Lincoln Park,1,1
+Michigan,Livonia,5,331
+Michigan,Macomb,3,421
+Michigan,Madison Heights,3,50
+Michigan,Manistee,1,2
+Michigan,Marlette,1,1
+Michigan,Marshall,1,181
+Michigan,Martin,1,2
+Michigan,Marysville,2,274
+Michigan,Mason,1,49
+Michigan,Middleville,1,5
+Michigan,Midland,1,1
+Michigan,Milford,0,16
+Michigan,Monroe,1,34
+Michigan,Mount Clemens,1,1
+Michigan,Mount Pleasant,2,5
+Michigan,Munith,0,19
+Michigan,Muskegon,4,38
+Michigan,New Baltimore,2,3
+Michigan,New Boston,0,1
+Michigan,Niles,1,1
+Michigan,Northville,0,36
+Michigan,Novi,1,253
+Michigan,Oak Park,1,46
+Michigan,Okemos,3,318
+Michigan,Ortonville,0,2
+Michigan,Oscoda,0,242
+Michigan,Owosso,1,7
+Michigan,Petoskey,2,2
+Michigan,Pinckney,0,110
+Michigan,Plymouth,4,176
+Michigan,Pontiac,3,204
+Michigan,Port Huron,2,292
+Michigan,Portage,0,25
+Michigan,Redford,2,34
+Michigan,Rhodes,0,1
+Michigan,Richland,0,1
+Michigan,Rochester Hills,7,210
+Michigan,Rochester,7,627
+Michigan,Romeo,2,2
+Michigan,Romulus,3,287
+Michigan,Roseville,0,11
+Michigan,Royal Oak,11,1007
+Michigan,Saginaw,4,992
+Michigan,Saint Clair Shores,1,34
+Michigan,Saint Helen,1,1
+Michigan,Saint Joseph,1,4
+Michigan,Saline,0,46
+Michigan,South Haven,1,1
+Michigan,South Lyon,2,17
+Michigan,Southfield,16,692
+Michigan,Sterling Heights,10,676
+Michigan,Stevensville,1,3
+Michigan,Swartz Creek,1,5
+Michigan,Taylor,1,2
+Michigan,Tecumseh,0,171
+Michigan,Traverse City,7,504
+Michigan,Trenton,1,37
+Michigan,Troy,3,565
+Michigan,University Center,0,11
+Michigan,Utica,6,39
+Michigan,Walled Lake,0,238
+Michigan,Warren,12,1562
+Michigan,Waterford,4,74
+Michigan,Wayne,2,39
+Michigan,West Bloomfield,8,337
+Michigan,Westland,4,857
+Michigan,White Lake,0,2
+Michigan,Whitmore Lake,0,43
+Michigan,Wixom,1,19
+Michigan,Wyandotte,1,1
+Michigan,Wyoming,1,20
+Michigan,Ypsilanti,2,277
+Michigan,undefined,8,246
+Minnesota,Albert Lea,1,2
+Minnesota,Alexandria,2,20
+Minnesota,Andover,17,220
+Minnesota,Anoka,1,9
+Minnesota,Apple Valley,1,3
+Minnesota,Austin,0,17
+Minnesota,Bemidji,3,29
+Minnesota,Blaine,1,143
+Minnesota,Bloomington,1,11
+Minnesota,Brainerd,6,470
+Minnesota,Burnsville,4,4
+Minnesota,Chanhassen,0,14
+Minnesota,Chisholm,1,7
+Minnesota,Cross Lake,1,321
+Minnesota,Detroit Lakes,1,136
+Minnesota,Dilworth,0,136
+Minnesota,Duluth,2,31
+Minnesota,Eagle Lake,1,1
+Minnesota,East Grand Forks,0,646
+Minnesota,Eden Prairie,1,101
+Minnesota,Edina,3,33
+Minnesota,Elk River,2,67
+Minnesota,Excelsior,0,2
+Minnesota,Faribault,1,1
+Minnesota,Glenwood,0,12
+Minnesota,Goodhue,1,2
+Minnesota,Hastings,1,1
+Minnesota,Hibbing,1,1
+Minnesota,Hopkins,0,14
+Minnesota,Inver Grove Heights,1,7
+Minnesota,Lakeville,2,109
+Minnesota,Madelia,0,4
+Minnesota,Mahnomen,1,60
+Minnesota,Mankato,3,114
+Minnesota,Maple Grove,4,92
+Minnesota,Marshall,1,1
+Minnesota,Minneapolis,71,7442
+Minnesota,Minnetonka,0,9
+Minnesota,Moorhead,1,258
+Minnesota,New Prague,1,11
+Minnesota,New Ulm,1,1
+Minnesota,Northfield,1,2
+Minnesota,Owatonna,2,3
+Minnesota,Paynesville,1,1
+Minnesota,Plymouth,1,47
+Minnesota,Ponsford,0,1
+Minnesota,Prior Lake,2,4
+Minnesota,Rice,2,3
+Minnesota,Rochester,6,24
+Minnesota,Rogers,0,2
+Minnesota,Rosemount,2,506
+Minnesota,Roseville,0,1
+Minnesota,Saint Cloud,1,158
+Minnesota,Saint Paul,18,3044
+Minnesota,Sartell,0,19
+Minnesota,Savage,0,126
+Minnesota,Shakopee,1,21
+Minnesota,Shoreview,0,4
+Minnesota,Twin Valley,0,8
+Minnesota,Waconia,2,4
+Minnesota,Waite Park,0,2213
+Minnesota,Waubun,0,580
+Minnesota,Wayzata,1,2
+Minnesota,Woodbury,3,112
+Minnesota,Zimmerman,1,1
+Minnesota,undefined,2,319
+Mississippi,Ackerman,0,17
+Mississippi,Alligator,0,72
+Mississippi,Bassfield,0,1
+Mississippi,Batesville,1,1
+Mississippi,Bay Springs,2,5
+Mississippi,Belden,0,41
+Mississippi,Biloxi,7,3741
+Mississippi,Booneville,1,1
+Mississippi,Brandon,2,863
+Mississippi,Byhalia,1,2
+Mississippi,Byram,1,1
+Mississippi,Canton,0,3
+Mississippi,Carriere,1,65
+Mississippi,Carthage,0,1
+Mississippi,Cedar Bluff,0,24
+Mississippi,Clarksdale,0,19
+Mississippi,Cleveland,0,334
+Mississippi,Clinton,1,1
+Mississippi,Coffeeville,0,3
+Mississippi,Collins,0,1
+Mississippi,Columbus,1,2209
+Mississippi,D'Iberville,0,191
+Mississippi,Ellisville,1,12
+Mississippi,Florence,1,7
+Mississippi,Flowood,0,143
+Mississippi,Fulton,0,39
+Mississippi,Greenwood,0,1
+Mississippi,Grenada,1,1
+Mississippi,Gulfport,6,868
+Mississippi,Hattiesburg,8,1541
+Mississippi,Hazlehurst,1,649
+Mississippi,Hernando,1,1
+Mississippi,Horn Lake,0,10
+Mississippi,Houston,2,362
+Mississippi,Iuka,0,2
+Mississippi,Jackson,7,710
+Mississippi,Kosciusko,1,10
+Mississippi,Laurel,1,3
+Mississippi,Leakesville,0,45
+Mississippi,Leland,0,39
+Mississippi,Long Beach,2,25
+Mississippi,Louisville,0,112
+Mississippi,Lumberton,1,4
+Mississippi,Madison,4,212
+Mississippi,Magee,0,25
+Mississippi,McComb,11,111
+Mississippi,Mendenhall,1,20
+Mississippi,Meridian,1,3
+Mississippi,Natchez,1,18
+Mississippi,New Albany,1,700
+Mississippi,Noxapater,0,6
+Mississippi,Ocean Springs,8,118
+Mississippi,Olive Branch,2,667
+Mississippi,Oxford,3,334
+Mississippi,Pearl,3,913
+Mississippi,Perkinston,0,9
+Mississippi,Petal,0,10
+Mississippi,Philadelphia,0,132
+Mississippi,Picayune,1,2419
+Mississippi,Pinola,0,18
+Mississippi,Pontotoc,1,3
+Mississippi,Prentiss,0,4
+Mississippi,Purvis,0,13
+Mississippi,Raleigh,0,24
+Mississippi,Raymond,3,4
+Mississippi,Ridgeland,0,446
+Mississippi,Ripley,1,434
+Mississippi,Ruleville,2,1332
+Mississippi,Soso,0,2
+Mississippi,Southaven,2,556
+Mississippi,Starkville,2,23
+Mississippi,Steens,0,157
+Mississippi,Taylorsville,1,49
+Mississippi,Tupelo,6,604
+Mississippi,Tutwiler,0,77
+Mississippi,Tylertown,0,11
+Mississippi,Vancleave,0,46
+Mississippi,Vicksburg,4,854
+Mississippi,Water Valley,1,1
+Mississippi,West Point,0,26
+Mississippi,Wiggins,0,1
+Mississippi,Yazoo City,0,2
+Mississippi,undefined,1,165
+Missouri,Anderson,1,1825
+Missouri,Arnold,0,3
+Missouri,Ash Grove,0,1
+Missouri,Ava,1,7
+Missouri,Ballwin,2,817
+Missouri,Belton,0,5
+Missouri,Bernie,0,1
+Missouri,Blue Springs,0,8
+Missouri,Bolivar,0,17
+Missouri,Boonville,1,2
+Missouri,Branson,0,25
+Missouri,Bridgeton,0,7
+Missouri,Brumley,1,7
+Missouri,Camdenton,1,244
+Missouri,Campbell,1,26
+Missouri,Cape Girardeau,1,7
+Missouri,Carthage,3,1123
+Missouri,Centralia,1,118
+Missouri,Chesterfield,4,249
+Missouri,City of Saint Peters,6,964
+Missouri,Columbia,8,210
+Missouri,Conway,0,4
+Missouri,Doniphan,1,7
+Missouri,Fair Grove,0,12
+Missouri,Farmington,1,1
+Missouri,Fenton,1,38
+Missouri,Festus,1,61
+Missouri,Florissant,3,286
+Missouri,Gideon,0,74
+Missouri,Goodman,0,11
+Missouri,Grain Valley,0,2
+Missouri,Harrisonville,1,10
+Missouri,Hayti,1,1
+Missouri,Higginsville,1,2
+Missouri,Hillsboro,0,13
+Missouri,Imperial,1,33
+Missouri,Independence,1,55
+Missouri,Jefferson City,0,21
+Missouri,Joplin,9,5255
+Missouri,Kansas City,48,8402
+Missouri,Kearney,1,1
+Missouri,Kennett,0,31
+Missouri,Kirksville,1,1
+Missouri,Kirkwood,0,3
+Missouri,Lake Saint Louis,0,57
+Missouri,Laquey,0,11
+Missouri,Lebanon,0,114
+Missouri,Lee's Summit,1,20
+Missouri,Lone Jack,0,1
+Missouri,Malden,0,27
+Missouri,Marshall,2,11
+Missouri,Marshfield,0,211
+Missouri,Maryland Heights,0,13
+Missouri,Monett,0,8
+Missouri,Mount Vernon,1,1
+Missouri,Neosho,6,2751
+Missouri,Nixa,3,505
+Missouri,O'Fallon,1,2
+Missouri,Oak Grove,0,53
+Missouri,Olivette,1,675
+Missouri,Osage Beach,1,245
+Missouri,Overland,1,96
+Missouri,Ozark,2,1536
+Missouri,Park Hills,0,6
+Missouri,Pineville,8,2319
+Missouri,Poplar Bluff,2,1727
+Missouri,Potosi,2,40
+Missouri,Raymore,0,7
+Missouri,Republic,1,1
+Missouri,Riverside,0,80
+Missouri,Rogersville,0,5
+Missouri,Rolla,0,2
+Missouri,Saint Charles,1,294
+Missouri,Saint Joseph,2,6
+Missouri,Saint Robert,1,2
+Missouri,Seneca,3,1202
+Missouri,Seymour,2,686
+Missouri,Sparta,1,1
+Missouri,Springfield,24,5868
+Missouri,St Louis,44,5101
+Missouri,Steele,0,234
+Missouri,Strafford,0,1
+Missouri,Sullivan,0,3
+Missouri,Union,1,6
+Missouri,Warrensburg,1,52
+Missouri,Warrenton,1,12
+Missouri,Warsaw,1,1
+Missouri,Washington,1,9
+Missouri,Webb City,0,189
+Missouri,Webster Groves,1,6
+Missouri,Wentzville,2,6
+Missouri,West Plains,0,26
+Missouri,Wildwood,0,3
+Missouri,Willard,1,1
+Missouri,Williamsville,1,8
+Missouri,undefined,29,3550
+Montana,Belgrade,0,14
+Montana,Big Sky,0,1
+Montana,Billings,2,167
+Montana,Bozeman,3,92
+Montana,Butte,2,13
+Montana,Columbia Falls,0,3
+Montana,Eureka,2,471
+Montana,Great Falls,1,5
+Montana,Havre,0,21
+Montana,Helena,0,1
+Montana,Kalispell,7,8504
+Montana,Libby,1,2
+Montana,Missoula,5,1529
+Montana,Ronan,1,10
+Montana,Whitefish,0,3
+Nebraska,Auburn,0,1
+Nebraska,Bellevue,2,13
+Nebraska,Bennington,0,6
+Nebraska,Columbus,1,3
+Nebraska,David City,1,10
+Nebraska,Elgin,1,1
+Nebraska,Elkhorn,0,16
+Nebraska,Fremont,0,141
+Nebraska,Grand Island,2,11
+Nebraska,Lincoln,9,199
+Nebraska,McCook,1,1
+Nebraska,Norfolk,1,1
+Nebraska,Omaha,38,12124
+Nebraska,Papillion,0,8
+Nebraska,Saint Paul,0,1
+Nebraska,South Sioux City,0,45
+Nebraska,Winnebago,2,92
+Nebraska,undefined,1,177
+Nevada,Carson City,3,19
+Nevada,Ely,1,1
+Nevada,Fallon,1,40
+Nevada,Fernley,1,2
+Nevada,Gardnerville,3,17
+Nevada,Henderson,17,7484
+Nevada,Las Vegas,201,37723
+Nevada,Logandale,0,1
+Nevada,Minden,1,2
+Nevada,North Las Vegas,9,1119
+Nevada,Overton,0,12
+Nevada,Pahrump,3,1172
+Nevada,Reno,13,2897
+Nevada,Sparks,6,37
+Nevada,Winnemucca,0,39
+Nevada,undefined,2,316
+New Hampshire,Atkinson,0,3
+New Hampshire,Auburn,1,1
+New Hampshire,Bedford,0,78
+New Hampshire,Belmont,0,23
+New Hampshire,Campton Lower Village,0,1
+New Hampshire,Candia,1,5
+New Hampshire,Concord,0,43
+New Hampshire,Cornish Flat,0,1
+New Hampshire,Dover,1,37
+New Hampshire,Epping,0,2
+New Hampshire,Etna,0,1
+New Hampshire,Exeter,1,227
+New Hampshire,Franklin,1,1
+New Hampshire,Gilford,0,7
+New Hampshire,Gilmanton,0,3
+New Hampshire,Grafton,0,2
+New Hampshire,Greenfield,0,5
+New Hampshire,Hampstead,0,16
+New Hampshire,Hampton Falls,0,2
+New Hampshire,Hampton,1,1158
+New Hampshire,Henniker,1,1
+New Hampshire,Hillsborough,0,3
+New Hampshire,Hopkinton,0,1
+New Hampshire,Hudson,1,1
+New Hampshire,Laconia,2,9
+New Hampshire,Lebanon,1,581
+New Hampshire,Lincoln,1,18
+New Hampshire,Lyme,0,1
+New Hampshire,Manchester,5,269
+New Hampshire,Meredith,4,28
+New Hampshire,Mirror Lake,1,5
+New Hampshire,Moultonborough,0,9
+New Hampshire,Nashua,6,775
+New Hampshire,New London,1,6
+New Hampshire,Newbury,0,2
+New Hampshire,Newmarket,0,3
+New Hampshire,North Conway,0,2
+New Hampshire,Pelham,0,29
+New Hampshire,Peterborough,1,1
+New Hampshire,Pittsfield,0,1
+New Hampshire,Plymouth,3,6
+New Hampshire,Portsmouth,1,1809
+New Hampshire,Rochester,1,398
+New Hampshire,Salem,1,40
+New Hampshire,Sanbornville,0,1641
+New Hampshire,Seabrook,0,15
+New Hampshire,Silver Lake,1,1
+New Hampshire,Wakefield,0,43
+New Hampshire,West Lebanon,1,1
+New Hampshire,Wolfeboro,1,6
+New Hampshire,Woodsville,0,1
+New Jersey,Absecon,0,5
+New Jersey,Annandale,0,52
+New Jersey,Asbury Park,1,19
+New Jersey,Atco,1,790
+New Jersey,Atlantic City,0,18
+New Jersey,Avenel,2,5
+New Jersey,Barrington,0,4
+New Jersey,Bayonne,2,129
+New Jersey,Bayville,0,339
+New Jersey,Beach Haven,0,60
+New Jersey,Beachwood,0,112
+New Jersey,Bedminster,0,31
+New Jersey,Belford,0,2
+New Jersey,Belle Mead,0,67
+New Jersey,Belleville,1,626
+New Jersey,Bellmawr,0,36
+New Jersey,Belmar,0,15
+New Jersey,Bergenfield,3,68
+New Jersey,Berlin,0,1
+New Jersey,Beverly,0,120
+New Jersey,Blackwood,3,669
+New Jersey,Bloomfield,2,210
+New Jersey,Boonton,3,463
+New Jersey,Bordentown,1,51
+New Jersey,Bound Brook,0,22
+New Jersey,Bridgeton,0,358
+New Jersey,Bridgewater,0,147
+New Jersey,Brigantine,0,2
+New Jersey,Browns Mills,1,20
+New Jersey,Burlington,1,1298
+New Jersey,Caldwell,2,72
+New Jersey,Califon,1,13
+New Jersey,Camden,3,285
+New Jersey,Cape May Court House,1,21
+New Jersey,Cape May,2,124
+New Jersey,Carlstadt,1,1
+New Jersey,Carteret,0,115
+New Jersey,Cedar Grove,0,10
+New Jersey,Chatham,1,1552
+New Jersey,Cherry Hill,1,416
+New Jersey,Cinnaminson,0,452
+New Jersey,Clark,0,23
+New Jersey,Clarksboro,0,1
+New Jersey,Clementon,3,1443
+New Jersey,Clifton,4,2095
+New Jersey,Closter,1,1503
+New Jersey,Collingswood,0,146
+New Jersey,Colonia,1,260
+New Jersey,Colts Neck,1,9
+New Jersey,Columbus,0,51
+New Jersey,Cranbury,0,3
+New Jersey,Cranford,0,3
+New Jersey,Denville,1,612
+New Jersey,Dover,3,5
+New Jersey,Dumont,1,19
+New Jersey,E Brunswick,0,382
+New Jersey,East Brunswick,5,1174
+New Jersey,East Orange,3,36
+New Jersey,East Rutherford,0,19
+New Jersey,East Windsor,1,4720
+New Jersey,Eatontown,5,637
+New Jersey,Edgewater,1,82
+New Jersey,Edison,4,1478
+New Jersey,Egg Harbor Township,0,86
+New Jersey,Egg Harbor,1,3
+New Jersey,Elizabeth,4,92
+New Jersey,Elmwood Park,0,3
+New Jersey,Englewood,0,96
+New Jersey,Ewing,0,64
+New Jersey,Fair Lawn,2,6
+New Jersey,Fairfield,0,3453
+New Jersey,Fairview,1,53
+New Jersey,Fanwood,1,119
+New Jersey,Farmingdale,0,1
+New Jersey,Flemington,0,298
+New Jersey,Florham Park,0,18
+New Jersey,Fords,0,56
+New Jersey,Forked River,1,16
+New Jersey,Fort Lee,1,23
+New Jersey,Freehold,4,1948
+New Jersey,Galloway,0,7
+New Jersey,Garfield,1,21
+New Jersey,Glen Rock,1,2
+New Jersey,Gloucester City,2,60
+New Jersey,Hackensack,3,6978
+New Jersey,Hackettstown,0,405
+New Jersey,Haddonfield,0,58
+New Jersey,Hasbrouck Heights,0,42
+New Jersey,Hawthorne,0,29
+New Jersey,Hazlet,0,104
+New Jersey,Hillsborough,2,66
+New Jersey,Hillsdale,1,223
+New Jersey,Hillside,0,66
+New Jersey,Ho-Ho-Kus,0,54
+New Jersey,Hoboken,0,107
+New Jersey,Hoffman,3,9
+New Jersey,Holmdel,1,23
+New Jersey,Howell Township,0,864
+New Jersey,Irvington,3,747
+New Jersey,Iselin,3,7619
+New Jersey,Jersey City,12,2664
+New Jersey,Kearny,3,567
+New Jersey,Kendall Park,0,8
+New Jersey,Kenilworth,0,1
+New Jersey,Keyport,1,2325
+New Jersey,Kinnelon,0,1
+New Jersey,Lakewood,2,34
+New Jersey,Lanoka Harbor,1,1
+New Jersey,Laurelton,1,10
+New Jersey,Lavallette,0,11
+New Jersey,Lebanon,1,359
+New Jersey,Leonardo,1,1
+New Jersey,Leonia,0,2
+New Jersey,Lincoln Park,1,65
+New Jersey,Linden,1,1925
+New Jersey,Little Ferry,0,54
+New Jersey,Livingston,1,1464
+New Jersey,Lodi,0,19
+New Jersey,Long Branch,3,1254
+New Jersey,Long Valley,1,165
+New Jersey,Lyndhurst,0,4
+New Jersey,Madison,0,40
+New Jersey,Mahwah,0,7
+New Jersey,Manahawkin,0,275
+New Jersey,Manalapan,2,7601
+New Jersey,Manville,0,1
+New Jersey,Maple Shade Township,1,1
+New Jersey,Maplewood,1,13
+New Jersey,Marlboro,0,4
+New Jersey,Marlton,2,785
+New Jersey,Matawan,5,4875
+New Jersey,Mays Landing,3,4
+New Jersey,Maywood,1,425
+New Jersey,Medford,2,227
+New Jersey,Mendham,1,1
+New Jersey,Merchantville,0,3
+New Jersey,Middlesex,3,580
+New Jersey,Middletown,0,20
+New Jersey,Milford,1,1
+New Jersey,Millville,0,1
+New Jersey,Monmouth Junction,1,10
+New Jersey,Montclair,1,710
+New Jersey,Montvale,0,9
+New Jersey,Moorestown,1,360
+New Jersey,Morganville,4,108
+New Jersey,Morris Plains,0,31
+New Jersey,Morristown,3,972
+New Jersey,Mount Ephraim,1,15
+New Jersey,Mount Holly,1,42
+New Jersey,Mount Laurel,0,1876
+New Jersey,Mullica Hill,1,32
+New Jersey,Neptune City,1,404
+New Jersey,Netcong,0,2
+New Jersey,New Brunswick,3,47
+New Jersey,New Providence,0,5
+New Jersey,Newark,36,8155
+New Jersey,Newfoundland,0,60
+New Jersey,North Bergen,6,1104
+New Jersey,North Brunswick,1,4
+New Jersey,Northfield,0,74
+New Jersey,Nutley,1,26
+New Jersey,Ocean City,1,3
+New Jersey,Old Bridge,1,1832
+New Jersey,Orange,1,18
+New Jersey,Palisades Park,4,59
+New Jersey,Paramus,2,110
+New Jersey,Parlin,1,5
+New Jersey,Parsippany,1,59
+New Jersey,Passaic,7,1064
+New Jersey,Paterson,4,831
+New Jersey,Paulsboro,0,7
+New Jersey,Pennsauken,0,18
+New Jersey,Perth Amboy,1,2141
+New Jersey,Phillipsburg,0,1
+New Jersey,Piscataway,3,826
+New Jersey,Plainfield,7,4563
+New Jersey,Plainsboro,1,1
+New Jersey,Pleasantville,0,17
+New Jersey,Pompton Plains,1,7
+New Jersey,Princeton Junction,1,4
+New Jersey,Princeton,1,1
+New Jersey,Rahway,1,744
+New Jersey,Randolph Township,0,156
+New Jersey,Raritan,0,5
+New Jersey,Red Bank,4,4512
+New Jersey,Ridgefield Park,1,2
+New Jersey,Ridgefield,0,4
+New Jersey,Ridgewood,2,41
+New Jersey,River Edge,1,35
+New Jersey,Riverside,1,4
+New Jersey,Riverton,0,6
+New Jersey,Rochelle Park,0,24
+New Jersey,Rockaway,0,191
+New Jersey,Roselle,0,10
+New Jersey,Rumson,0,740
+New Jersey,Runnemede,1,10
+New Jersey,Rutherford,2,3
+New Jersey,Saddle Brook,7,298
+New Jersey,Sayreville,0,324
+New Jersey,Scotch Plains,0,71
+New Jersey,Secaucus,2,370
+New Jersey,Sewell,1,375
+New Jersey,Short Hills,0,1431
+New Jersey,Sicklerville,6,872
+New Jersey,Somerset,2,78
+New Jersey,Somerville,1,92
+New Jersey,South Amboy,0,3
+New Jersey,South Orange,0,81
+New Jersey,South Plainfield,0,1216
+New Jersey,Sparta,2,28
+New Jersey,Springfield,2,269
+New Jersey,Stanhope,0,2
+New Jersey,Stratford,0,21
+New Jersey,Summit,0,49
+New Jersey,Teaneck,2,307
+New Jersey,Tenafly,1,87
+New Jersey,Thorofare,1,2
+New Jersey,Toms River,1,6755
+New Jersey,Totowa,1,28
+New Jersey,Towaco,1,1
+New Jersey,Trenton,8,22717
+New Jersey,Tuckerton,1,21
+New Jersey,Union City,1,1070
+New Jersey,Union,6,928
+New Jersey,Verona,0,635
+New Jersey,Vineland,1,82
+New Jersey,Voorhees Township,1,6
+New Jersey,Waldwick,1,861
+New Jersey,Warren Township,1,2
+New Jersey,Washington Township,0,595
+New Jersey,Wayne,7,457
+New Jersey,Weehawken,0,6
+New Jersey,West Berlin,0,148
+New Jersey,West Long Branch,0,502
+New Jersey,West Milford,1,2
+New Jersey,West New York,3,842
+New Jersey,West Orange,1,101
+New Jersey,Westfield,1,752
+New Jersey,Westville,0,10
+New Jersey,Westwood,0,58
+New Jersey,Wharton,0,11
+New Jersey,Whippany,0,25
+New Jersey,Whitehouse Station,1,6
+New Jersey,Whiting,0,44
+New Jersey,Wildwood,2,69
+New Jersey,Williamstown,0,3
+New Jersey,Willingboro,1,2
+New Jersey,Wood-Ridge,0,36
+New Jersey,Woodbridge,2,112
+New Jersey,Woodbury,1,51
+New Jersey,Woodcliff Lake,0,1
+New Jersey,undefined,6,386
+New Mexico,Alamogordo,2,182
+New Mexico,Albuquerque,82,14114
+New Mexico,Anthony,0,124
+New Mexico,Broadview,0,4
+New Mexico,Carlsbad,1,104
+New Mexico,Chaparral,0,114
+New Mexico,Corrales,4,771
+New Mexico,Deming,0,43
+New Mexico,Encino,0,113
+New Mexico,Española,6,1403
+New Mexico,Farmington,2,3522
+New Mexico,Gallup,0,114
+New Mexico,Las Cruces,16,5345
+New Mexico,Las Vegas,10,1156
+New Mexico,Los Alamos,1,10
+New Mexico,Mora,1,1
+New Mexico,Portales,1,3
+New Mexico,Rio Rancho,3,243
+New Mexico,Roswell,3,17
+New Mexico,San Jose,0,7
+New Mexico,Santa Fe,13,2357
+New Mexico,Sapello,0,17
+New Mexico,Silver City,0,29
+New Mexico,Springer,0,68
+New Mexico,Taos,1,57
+New Mexico,Trampas,0,3
+New Mexico,Truth or Consequences,1,6
+New Mexico,Vado,0,35
+New Mexico,undefined,1,57
+New York,Albany,16,664
+New York,Albion,0,20
+New York,Alden,0,569
+New York,Alexandria Bay,0,2
+New York,Allegany,0,39
+New York,Altamont,1,9
+New York,Amityville,0,7
+New York,Amsterdam,0,1
+New York,Armonk,1,36
+New York,Auburn,0,89
+New York,Baldwin,0,1174
+New York,Baldwinsville,1,1
+New York,Ballston Spa,0,7
+New York,Batavia,2,1045
+New York,Bay Shore,3,71
+New York,Beacon,1,1
+New York,Bellerose,0,166
+New York,Bellmore,1,1
+New York,Bellport,0,329
+New York,Bethpage,3,5
+New York,Big Flats,1,1
+New York,Binghamton,1,11
+New York,Boonville,1,3
+New York,Brentwood,2,236
+New York,Brewster,3,64
+New York,Briarcliff Manor,0,1
+New York,Brockport,2,3
+New York,Brookhaven,1,1
+New York,Brooklyn,177,23967
+New York,Brushton,0,1
+New York,Buffalo,82,19550
+New York,Cairo,0,11
+New York,Camden,0,1
+New York,Camillus,0,8
+New York,Canandaigua,4,1774
+New York,Carmel,1,81
+New York,Centereach,1,1
+New York,Central Islip,1,63
+New York,Champlain,0,180
+New York,Chappaqua,1,1
+New York,Chatham,0,70
+New York,Clay,1,3
+New York,Clifton Park,3,41
+New York,Clyde,1,2
+New York,Cohoes,2,75
+New York,Commack,0,83
+New York,Congers,0,83
+New York,Cooperstown,1,121
+New York,Copiague,0,41
+New York,Cortland,1,1
+New York,Cortlandt Manor,1,5
+New York,Croton-on-Hudson,0,2
+New York,Cutchogue,0,1
+New York,Dansville,0,1
+New York,Deer Park,3,251
+New York,Delhi,1,10
+New York,Delmar,0,1
+New York,Depew,0,22
+New York,Dobbs Ferry,1,1
+New York,Eagle Bridge,1,10
+New York,East Aurora,2,2
+New York,East Chatham,0,216
+New York,East Hampton,2,11
+New York,East Meadow,1,94
+New York,East Northport,4,331
+New York,East Rockaway,0,2
+New York,East Setauket,1,4
+New York,East Syracuse,0,4
+New York,Eastport,0,181
+New York,Eaton,0,10
+New York,Ellenville,0,7
+New York,Elmont,6,355
+New York,Elmsford,0,2
+New York,Endicott,2,2
+New York,Fairport,3,15
+New York,Farmingdale,0,119
+New York,Farmingville,0,5
+New York,Fayetteville,2,12
+New York,Fishkill,2,2
+New York,Floral Park,4,765
+New York,Frankfort,0,4
+New York,Franklin Square,1,4
+New York,Fredonia,0,2
+New York,Freeport,1,471
+New York,Fulton,1,44
+New York,Garden City Park,0,72
+New York,Garden City,1,222
+New York,Garnerville,1,99
+New York,Geneseo,0,16
+New York,Geneva,1,65
+New York,Germantown,0,11
+New York,Glen Cove,2,7
+New York,Gloversville,1,1
+New York,Goshen,3,13
+New York,Grand Island,1,8
+New York,Great Neck,1,48
+New York,Greenville,1,5
+New York,Harrison,0,1
+New York,Hastings-on-Hudson,1,9
+New York,Hauppauge,0,168
+New York,Hempstead,7,679
+New York,Henrietta,2,11
+New York,Hicksville,9,14
+New York,Highland Falls,0,27
+New York,Holbrook,0,270
+New York,Holley,1,1
+New York,Honeoye Falls,1,1
+New York,Hudson,0,498
+New York,Huntington Station,3,187
+New York,Huntington,1,221
+New York,Hyde Park,0,1
+New York,Irondequoit,1,3
+New York,Irving,0,8
+New York,Islip,0,11
+New York,Ithaca,1,2
+New York,Katonah,0,125
+New York,Kings Park,1,2
+New York,Kingston,2,475
+New York,Lackawanna,1,3
+New York,Lagrangeville,0,589
+New York,Lake Grove,0,2
+New York,Lake Placid,0,39
+New York,Lancaster,3,806
+New York,Larchmont,1,163
+New York,Latham,3,3
+New York,Lawrence,0,88
+New York,Levittown,5,34
+New York,Liberty,0,1
+New York,Lima,0,5
+New York,Lindenhurst,1,613
+New York,Liverpool,12,1183
+New York,Lockport,0,2
+New York,Long Beach,0,26
+New York,Lynbrook,1,433
+New York,Mahopac,1,4
+New York,Mamaroneck,1,1083
+New York,Manlius,2,10
+New York,Massapequa Park,0,36
+New York,Massapequa,0,135
+New York,Massena,0,98
+New York,Mattituck,0,2
+New York,Maybrook,0,2
+New York,Medford,1,127
+New York,Medina,1,1
+New York,Melville,0,247
+New York,Merrick,1,559
+New York,Middleburgh,0,5
+New York,Middleport,1,3
+New York,Middletown,1,207
+New York,Millbrook,1,2
+New York,Miller Place,0,25
+New York,Mineola,1,178
+New York,Monroe,1,15
+New York,Montauk,0,101
+New York,Montgomery,1,6
+New York,Montour Falls,1,1
+New York,Mount Kisco,0,9
+New York,Mount Morris,0,24
+New York,Mount Sinai,1,34
+New York,Mount Vernon,1,403
+New York,Nanuet,2,3
+New York,Nesconset,1,23
+New York,New City,1,3
+New York,New Hartford,0,13
+New York,New Hyde Park,4,265
+New York,New Paltz,2,6
+New York,New Rochelle,3,85
+New York,New York Mills,0,1
+New York,New York,294,51564
+New York,Newark,0,39
+New York,Newburgh,5,1386
+New York,Niagara Falls,4,38
+New York,North Salem,0,49
+New York,North Tonawanda,1,10
+New York,Northport,0,1
+New York,Oceanside,3,283
+New York,Ogdensburg,1,163
+New York,Olean,5,73
+New York,Oneonta,1,12
+New York,Orangeburg,1,323
+New York,Orchard Park,1,1
+New York,Ossining,2,14
+New York,Oswego,0,1
+New York,Oyster Bay,1,1
+New York,Patchogue,3,215
+New York,Pawling,0,190
+New York,Peekskill,2,5
+New York,Penn Yan,1,1
+New York,Pine Bush,1,1
+New York,Pittsford,1,10
+New York,Plainview,1,39
+New York,Plattsburgh,1,220
+New York,Pleasantville,1,122
+New York,Pomona,1,1763
+New York,Port Chester,0,2
+New York,Port Jefferson Station,1,15
+New York,Port Jefferson,0,2
+New York,Port Jervis,1,8
+New York,Port Washington,2,5
+New York,Poughkeepsie,5,52
+New York,Pulaski,1,1
+New York,Purling,1,7
+New York,Putnam Valley,0,32
+New York,Queens,72,10327
+New York,Queensbury,0,1
+New York,Ravena,0,3
+New York,Rhinebeck,1,1
+New York,Ridge,1,112
+New York,Rochester,19,2491
+New York,Rockville Centre,1,210
+New York,Rome,2,5
+New York,Ronkonkoma,3,6
+New York,Roosevelt,0,116
+New York,Roslyn,1,66
+New York,Rye,1,25
+New York,Sag Harbor,0,2
+New York,Saint James,0,295
+New York,Saratoga Springs,3,39
+New York,Sayville,1,1
+New York,Scarsdale,0,84
+New York,Schenectady,7,1680
+New York,Schroon Lake,0,2
+New York,Seaford,1,3
+New York,Selden,0,26
+New York,Seneca Falls,0,25
+New York,Shirley,1,1
+New York,Shoreham,0,7
+New York,Smithtown,4,2430
+New York,Somers,1,1
+New York,South Salem,1,4
+New York,Southampton,1,15
+New York,Spencerport,0,2
+New York,Spring Valley,4,34
+New York,Stafford,1,1098
+New York,Staten Island,14,436
+New York,Stony Brook,0,114
+New York,Stony Point,2,40
+New York,Suffern,1,3
+New York,Syracuse,17,864
+New York,Tarrytown,1,2
+New York,The Bronx,42,3194
+New York,Ticonderoga,0,37
+New York,Tonawanda,0,12
+New York,Troy,1,111
+New York,Uniondale,1,69
+New York,Utica,4,308
+New York,Valley Cottage,1,7
+New York,Valley Stream,8,1137
+New York,Vernon,0,8
+New York,Victor,1,43
+New York,Voorheesville,0,2
+New York,Waccabuc,0,7
+New York,Walden,0,1
+New York,Wallkill,0,1
+New York,Wantagh,1,2
+New York,Wappingers Falls,1,125
+New York,Waterloo,0,60
+New York,Watervliet,0,15
+New York,Webster,1,22
+New York,West Babylon,2,361
+New York,West Hempstead,0,159
+New York,West Henrietta,0,1
+New York,West Islip,3,849
+New York,West Nyack,1,1
+New York,West Point,0,41
+New York,Westbury,9,314
+New York,White Plains,5,1346
+New York,Williamson,0,2
+New York,Williamsville,0,11
+New York,Woodbury,0,63
+New York,Woodmere,1,1
+New York,Woodstock,0,7
+New York,Wyandanch,1,1
+New York,Wynantskill,1,1
+New York,Yonkers,12,216
+New York,Yorktown Heights,2,2
+New York,undefined,0,493
+North Carolina,Advance,0,3
+North Carolina,Albemarle,0,18
+North Carolina,Angier,0,1
+North Carolina,Apex,4,2895
+North Carolina,Asheboro,1,3
+North Carolina,Asheville,7,44
+North Carolina,Bear Creek,2,7
+North Carolina,Belhaven,1,1
+North Carolina,Black Mountain,1,8
+North Carolina,Boone,1,2
+North Carolina,Bostic,1,1
+North Carolina,Brevard,0,1
+North Carolina,Broadway,0,3
+North Carolina,Bryson City,1,1
+North Carolina,Buies Creek,0,1630
+North Carolina,Burgaw,1,3
+North Carolina,Burlington,1,134
+North Carolina,Calabash,1,1
+North Carolina,Cameron,1,4
+North Carolina,Candler,1,1
+North Carolina,Canton,0,2
+North Carolina,Carolina Beach,0,2
+North Carolina,Carthage,0,1
+North Carolina,Cary,5,309
+North Carolina,Chapel Hill,3,864
+North Carolina,Charlotte,108,12095
+North Carolina,Cherokee,0,1
+North Carolina,China Grove,1,1
+North Carolina,Chocowinity,0,2
+North Carolina,Clayton,1,1
+North Carolina,Clemmons,0,430
+North Carolina,Clinton,3,8
+North Carolina,Colfax,0,29
+North Carolina,Concord,2,975
+North Carolina,Conover,1,1
+North Carolina,Cornelius,3,302
+North Carolina,Creedmoor,1,8
+North Carolina,Davidson,2,55
+North Carolina,Denton,0,8
+North Carolina,Denver,2,54
+North Carolina,Dudley,1,2
+North Carolina,Dunn,0,2141
+North Carolina,Durham,13,2117
+North Carolina,Eden,1,1
+North Carolina,Elizabeth City,1,9
+North Carolina,Elkin,0,105
+North Carolina,Ernul,1,2
+North Carolina,Fayetteville,14,1477
+North Carolina,Fletcher,1,1
+North Carolina,Forest City,1,2
+North Carolina,Franklin,1,10
+North Carolina,Franklinton,0,65
+North Carolina,Fuquay-Varina,4,2996
+North Carolina,Garner,2,67
+North Carolina,Gastonia,4,837
+North Carolina,Gibsonville,0,4
+North Carolina,Goldsboro,1,1
+North Carolina,Graham,0,1
+North Carolina,Greensboro,11,3634
+North Carolina,Greenville,12,438
+North Carolina,Hamlet,1,2
+North Carolina,Hampstead,2,146
+North Carolina,Harrisburg,0,69
+North Carolina,Hayesville,2,2
+North Carolina,Henderson,1,1
+North Carolina,Hendersonville,6,5206
+North Carolina,Hickory,5,477
+North Carolina,High Point,4,610
+North Carolina,Hillsborough,2,15
+North Carolina,Holly Ridge,0,1
+North Carolina,Holly Springs,1,50
+North Carolina,Hope Mills,0,2
+North Carolina,Huntersville,5,1155
+North Carolina,Indian Trail,0,17
+North Carolina,Jacksonville,2,709
+North Carolina,Jamestown,1,38
+North Carolina,Jefferson,1,1
+North Carolina,Kannapolis,2,1174
+North Carolina,Kernersville,2,13
+North Carolina,Kill Devil Hills,1,1
+North Carolina,King,1,1
+North Carolina,Kings Mountain,0,2
+North Carolina,Kinston,0,1
+North Carolina,Knightdale,2,636
+North Carolina,Lake Lure,1,1
+North Carolina,Laurinburg,1,18
+North Carolina,Leland,1,42
+North Carolina,Lenoir,1,2
+North Carolina,Lewisville,0,115
+North Carolina,Lillington,0,29
+North Carolina,Lincolnton,2,4
+North Carolina,Louisburg,1,1
+North Carolina,Lowgap,1,1
+North Carolina,Lumberton,1,1
+North Carolina,Madison,0,198
+North Carolina,Marshville,0,2
+North Carolina,Matthews,2,38
+North Carolina,McLeansville,0,301
+North Carolina,Mebane,1,1
+North Carolina,Mills River,1,1
+North Carolina,Mocksville,0,16
+North Carolina,Monroe,3,135
+North Carolina,Mooresville,3,1221
+North Carolina,Morehead City,1,39
+North Carolina,Morganton,0,69
+North Carolina,Morrisville,2,10
+North Carolina,Mount Airy,0,212
+North Carolina,Mount Holly,1,1
+North Carolina,Mount Olive,0,1
+North Carolina,Moyock,1,2
+North Carolina,Murfreesboro,1,1
+North Carolina,Murphy,1,1
+North Carolina,New Bern,5,397
+North Carolina,Newland,0,5
+North Carolina,Newport,0,1
+North Carolina,North Wilkesboro,5,1254
+North Carolina,Oak Ridge,1,14
+North Carolina,Oxford,0,1
+North Carolina,Parkton,2,745
+North Carolina,Pembroke,0,57
+North Carolina,Pinehurst,2,78
+North Carolina,Pineville,0,7
+North Carolina,Plymouth,0,2
+North Carolina,Raeford,2,128
+North Carolina,Raleigh,36,5413
+North Carolina,Red Springs,0,517
+North Carolina,Reidsville,0,43
+North Carolina,Richlands,0,64
+North Carolina,Roanoke Rapids,0,15
+North Carolina,Roaring River,1,955
+North Carolina,Rockingham,1,7
+North Carolina,Rocky Mount,0,85
+North Carolina,Rocky Point,0,8
+North Carolina,Ronda,0,131
+North Carolina,Rowland,1,3
+North Carolina,Roxboro,1,1
+North Carolina,Salisbury,1,492
+North Carolina,Sanford,6,281
+North Carolina,Shallotte,0,27
+North Carolina,Shelby,1,132
+North Carolina,Siler City,1,179
+North Carolina,Sims,1,1
+North Carolina,Smithfield,1,3
+North Carolina,Smithville,1,1
+North Carolina,Sneads Ferry,1,124
+North Carolina,Snow Hill,1,1
+North Carolina,Southern Pines,2,506
+North Carolina,Spencer,0,2
+North Carolina,Spring Lake,3,3
+North Carolina,Summerfield,5,412
+North Carolina,Supply,1,8
+North Carolina,Swannanoa,1,2
+North Carolina,Sylva,2,1081
+North Carolina,Tarboro,0,15
+North Carolina,Thomasville,2,18
+North Carolina,Troutman,1,63
+North Carolina,Troy,0,8
+North Carolina,Valle Crucis,1,10
+North Carolina,Wake Forest,2,161
+North Carolina,Wallace,2,578
+North Carolina,Walnut Cove,0,491
+North Carolina,Waxhaw,4,15
+North Carolina,Waynesville,3,15
+North Carolina,Wendell,10,2668
+North Carolina,Wentworth,0,116
+North Carolina,West End,1,673
+North Carolina,Whiteville,1,9
+North Carolina,Whitsett,0,10
+North Carolina,Wilkesboro,0,2
+North Carolina,Wilmington,14,3576
+North Carolina,Wilson,3,310
+North Carolina,Winston-Salem,8,3534
+North Carolina,Yadkinville,1,62
+North Carolina,Zebulon,1,93
+North Carolina,undefined,5,395
+North Dakota,Bismarck,1,1
+North Dakota,Bowbells,0,4
+North Dakota,Crosby,3,1659
+North Dakota,Devils Lake,1,14
+North Dakota,Dickinson,1,7
+North Dakota,Fargo,10,123
+North Dakota,Grafton,1,10
+North Dakota,Grand Forks,4,2116
+North Dakota,Lakota,0,21
+North Dakota,Minot,2,2385
+North Dakota,Richardton,1,1
+North Dakota,Steele,1,344
+North Dakota,Tioga,0,2
+North Dakota,Velva,0,2
+North Dakota,Williston,1,2
+Ohio,Adena,0,1
+Ohio,Akron,8,170
+Ohio,Ashland,1,126
+Ohio,Ashville,0,26
+Ohio,Athens,0,143
+Ohio,Aurora,0,3
+Ohio,Avon Lake,1,44
+Ohio,Avon,0,57
+Ohio,Barberton,1,132
+Ohio,Batavia,1,29
+Ohio,Bay Village,0,5
+Ohio,Beachwood,1,1
+Ohio,Bedford,0,2
+Ohio,Bellaire,0,24
+Ohio,Belle Center,0,5
+Ohio,Belpre,0,7
+Ohio,Berea,0,1
+Ohio,Brecksville,4,156
+Ohio,Broadview Heights,1,5
+Ohio,Brook Park,0,10
+Ohio,Brunswick,2,30
+Ohio,Canal Winchester,1,116
+Ohio,Canfield,0,872
+Ohio,Canton,1,383
+Ohio,Celina,0,7
+Ohio,Centerville,3,44
+Ohio,Chagrin Falls,2,11
+Ohio,Chesterland,1,715
+Ohio,Chillicothe,1,69
+Ohio,Cincinnati,38,1928
+Ohio,Cleveland,33,3597
+Ohio,Clyde,1,7
+Ohio,Columbiana,0,31
+Ohio,Columbus Grove,0,697
+Ohio,Columbus,37,9178
+Ohio,Concord,0,1
+Ohio,Cortland,0,10
+Ohio,Cuyahoga Falls,1,167
+Ohio,Dayton,11,2614
+Ohio,Delaware,3,885
+Ohio,Deshler,0,3
+Ohio,Doylestown,1,3
+Ohio,Dublin,2,36
+Ohio,Dundee,0,48
+Ohio,East Liverpool,1,233
+Ohio,Eastlake,0,104
+Ohio,Elyria,2,4
+Ohio,Englewood,0,169
+Ohio,Enon,2,65
+Ohio,Fairborn,1,256
+Ohio,Fairfield,0,40
+Ohio,Findlay,4,1558
+Ohio,Fort Loramie,0,2
+Ohio,Franklin,0,2
+Ohio,Gallipolis,1,1
+Ohio,Georgetown,1,1
+Ohio,Girard,0,5
+Ohio,Grove City,1,1
+Ohio,Groveport,0,50
+Ohio,Hamilton,2,20
+Ohio,Hartville,1,1
+Ohio,Hilliard,0,11
+Ohio,Howard,0,14
+Ohio,Hubbard,1,2
+Ohio,Hudson,0,6
+Ohio,Huron,1,3
+Ohio,Independence,0,1
+Ohio,Ironton,5,84
+Ohio,Kent,2,2
+Ohio,Kettering,1,5
+Ohio,Kitts Hill,0,4
+Ohio,Lakewood,1,22
+Ohio,Lancaster,0,12
+Ohio,Lebanon,0,6
+Ohio,Lewis Center,2,11
+Ohio,Lima,2,200
+Ohio,Logan,1,767
+Ohio,London,0,529
+Ohio,Loveland,1,26
+Ohio,Lynchburg,0,1
+Ohio,Lyndhurst,0,1
+Ohio,Macedonia,0,3
+Ohio,Mansfield,1,1
+Ohio,Marietta,1,13
+Ohio,Marion,2,5
+Ohio,Marysville,0,421
+Ohio,Mason,0,67
+Ohio,Massillon,4,1101
+Ohio,Maumee,0,4
+Ohio,Medina,1,119
+Ohio,Mentor,1,434
+Ohio,Miamisburg,0,41
+Ohio,Middletown,1,88
+Ohio,Milford,2,2
+Ohio,Minerva,1,6
+Ohio,Morrow,1,458
+Ohio,Mount Vernon,0,756
+Ohio,Napoleon,2,14
+Ohio,New Albany,1,5
+Ohio,New Philadelphia,2,30
+Ohio,Newark,1,6
+Ohio,North Canton,0,8
+Ohio,North Lima,0,1
+Ohio,North Olmsted,1,124
+Ohio,North Royalton,1,1
+Ohio,Nova,0,17
+Ohio,Oregonia,1,1
+Ohio,Ottawa,0,2
+Ohio,Oxford,1,1
+Ohio,Painesville,0,2
+Ohio,Perrysburg,2,75
+Ohio,Peru,1,4
+Ohio,Pickerington,0,8
+Ohio,Plain City,0,2
+Ohio,Portsmouth,6,831
+Ohio,Powell,2,24
+Ohio,Proctorville,0,195
+Ohio,Ravenna,0,1
+Ohio,Reynoldsburg,1,12
+Ohio,Saint Clairsville,2,53
+Ohio,Saint Marys,0,7
+Ohio,Sandusky,9,143
+Ohio,Sidney,0,65
+Ohio,Solon,0,1
+Ohio,South Point,0,141
+Ohio,Springboro,0,32
+Ohio,Springfield,3,471
+Ohio,Steubenville,0,11
+Ohio,Stow,2,11
+Ohio,Strongsville,2,4
+Ohio,Struthers,0,1
+Ohio,Sunbury,1,1
+Ohio,Sycamore,0,13
+Ohio,Sylvania,2,197
+Ohio,Tallmadge,0,282
+Ohio,Tiffin,0,1
+Ohio,Toledo,15,3011
+Ohio,Troy,2,660
+Ohio,Twinsburg,0,7
+Ohio,Uniontown,1,1
+Ohio,Urbana,0,4
+Ohio,Vandalia,1,52
+Ohio,Vincent,1,1
+Ohio,Wadsworth,0,12
+Ohio,Warren,2,11
+Ohio,Wellington,1,5
+Ohio,West Chester,1,567
+Ohio,Westerville,2,14
+Ohio,Westlake,2,43
+Ohio,Wheelersburg,0,76
+Ohio,Willow Wood,0,5
+Ohio,Wooster,1,1202
+Ohio,Youngstown,10,8183
+Ohio,Zanesville,1,2
+Ohio,undefined,1,255
+Oklahoma,Ada,1,65
+Oklahoma,Altus,0,669
+Oklahoma,Ardmore,1,5
+Oklahoma,Bartlesville,1,4
+Oklahoma,Beggs,0,1
+Oklahoma,Bethany,1,9
+Oklahoma,Bixby,2,13
+Oklahoma,Broken Arrow,9,881
+Oklahoma,Calera,1,1
+Oklahoma,Carmen,1,1
+Oklahoma,Chickasha,2,7
+Oklahoma,Choctaw,2,1006
+Oklahoma,Claremore,0,29
+Oklahoma,Clinton,0,5
+Oklahoma,Duke,1,1
+Oklahoma,Duncan,2,3
+Oklahoma,Durant,1,184
+Oklahoma,Edmond,8,1899
+Oklahoma,Elk City,1,18
+Oklahoma,Enid,1,10
+Oklahoma,Fairview,0,1
+Oklahoma,Glencoe,0,11
+Oklahoma,Glenpool,0,222
+Oklahoma,Guthrie,0,3
+Oklahoma,Hennessey,0,3
+Oklahoma,Hillsdale,0,3
+Oklahoma,Jenks,0,7
+Oklahoma,Kingfisher,1,3
+Oklahoma,Kremlin,0,25
+Oklahoma,Lawton,1,25
+Oklahoma,Luther,0,1
+Oklahoma,Madill,0,56
+Oklahoma,Mannsville,0,76
+Oklahoma,McAlester,0,1523
+Oklahoma,Muskogee,2,87
+Oklahoma,Mustang,2,20
+Oklahoma,Newcastle,0,1
+Oklahoma,Norman,2,227
+Oklahoma,Oklahoma City,60,5985
+Oklahoma,Owasso,2,639
+Oklahoma,Perry,1,4
+Oklahoma,Pryor,0,4
+Oklahoma,Sallisaw,0,15
+Oklahoma,Sand Springs,1,57
+Oklahoma,Sapulpa,0,1
+Oklahoma,Seminole,1,2
+Oklahoma,Shattuck,0,1
+Oklahoma,Shawnee,1,2
+Oklahoma,Spiro,0,8
+Oklahoma,Stillwater,2,4
+Oklahoma,Tulsa,27,2651
+Oklahoma,Warner,1,1996
+Oklahoma,Weatherford,1,2
+Oklahoma,Wetumka,1,9
+Oklahoma,Wyandotte,1,828
+Oklahoma,Yukon,4,343
+Oklahoma,undefined,1,439
+Oregon,Albany,1,1265
+Oregon,Ashland,0,1
+Oregon,Astoria,0,65
+Oregon,Bandon,0,127
+Oregon,Beaverton,3,761
+Oregon,Bend,6,568
+Oregon,Boardman,0,3
+Oregon,Brookings,1,1182
+Oregon,Canby,0,5
+Oregon,Central Point,1,219
+Oregon,Clackamas,1,357
+Oregon,Coos Bay,1,1959
+Oregon,Cornelius,1,8
+Oregon,Corvallis,3,801
+Oregon,Estacada,1,139
+Oregon,Eugene,4,648
+Oregon,Forest Grove,1,13
+Oregon,Gold Beach,1,1879
+Oregon,Grants Pass,2,1646
+Oregon,Gresham,3,19
+Oregon,Happy Valley,0,15
+Oregon,Hermiston,1,56
+Oregon,Hillsboro,3,529
+Oregon,Hood River,1,3
+Oregon,Keizer,0,188
+Oregon,La Grande,1,74
+Oregon,Lake Oswego,1,61
+Oregon,McMinnville,1,6
+Oregon,Medford,3,2988
+Oregon,Molalla,0,1
+Oregon,Mount Angel,1,85
+Oregon,Newport,1,10
+Oregon,North Bend,0,388
+Oregon,Oregon City,1,4
+Oregon,Port Orford,0,3
+Oregon,Portland,51,9015
+Oregon,Prineville,1,1
+Oregon,Redmond,1,9
+Oregon,Roseburg,3,966
+Oregon,Salem,5,1067
+Oregon,Scappoose,0,22
+Oregon,Springfield,3,58
+Oregon,Stayton,1,1
+Oregon,Tigard,1,225
+Oregon,Tualatin,2,10
+Oregon,Warrenton,0,24
+Oregon,West Linn,2,17
+Oregon,Wilsonville,0,158
+Oregon,undefined,3,1108
+Pennsylvania,Aliquippa,0,1
+Pennsylvania,Allentown,11,618
+Pennsylvania,Altoona,3,90
+Pennsylvania,Ambler,1,4
+Pennsylvania,Apollo,1,1
+Pennsylvania,Athens,2,8
+Pennsylvania,Avondale,1,1
+Pennsylvania,Bala-Cynwyd,1,64
+Pennsylvania,Bangor,1,2
+Pennsylvania,Beaver Falls,1,581
+Pennsylvania,Bedford,2,769
+Pennsylvania,Bensalem,2,1148
+Pennsylvania,Bethel Park,1,3
+Pennsylvania,Bethlehem,1,265
+Pennsylvania,Bloomsburg,0,7
+Pennsylvania,Boswell,1,1
+Pennsylvania,Bradford,1,1
+Pennsylvania,Branchdale,0,93
+Pennsylvania,Breinigsville,2,395
+Pennsylvania,Bridgeville,0,4
+Pennsylvania,Bristol,0,1
+Pennsylvania,Brookhaven,1,230
+Pennsylvania,Broomall,1,2
+Pennsylvania,Brownsville,0,155
+Pennsylvania,Bulger,0,1
+Pennsylvania,Butler,1,1
+Pennsylvania,Camp Hill,5,355
+Pennsylvania,Canonsburg,1,6
+Pennsylvania,Carbondale,2,6
+Pennsylvania,Carlisle,1,777
+Pennsylvania,Central City,0,1
+Pennsylvania,Chalfont,1,1
+Pennsylvania,Chambersburg,0,18
+Pennsylvania,Chester Springs,0,14
+Pennsylvania,Chester,1,164
+Pennsylvania,Coatesville,1,8
+Pennsylvania,Collegeville,0,3
+Pennsylvania,Columbia,0,1
+Pennsylvania,Colver,1,1
+Pennsylvania,Connellsville,1,1
+Pennsylvania,Conshohocken,1,101
+Pennsylvania,Coplay,1,1
+Pennsylvania,Coraopolis,2,5
+Pennsylvania,Cranberry Township,1,1
+Pennsylvania,Cresson,0,1
+Pennsylvania,Curwensville,0,1
+Pennsylvania,Dallas,0,5
+Pennsylvania,Dallastown,0,2
+Pennsylvania,Danville,0,3
+Pennsylvania,Darby,1,620
+Pennsylvania,Dillsburg,2,2
+Pennsylvania,Downingtown,0,122
+Pennsylvania,Doylestown,3,152
+Pennsylvania,Drexel Hill,1,2
+Pennsylvania,DuBois,1,9
+Pennsylvania,Duncansville,0,13
+Pennsylvania,East Stroudsburg,1,3
+Pennsylvania,Easton,5,44
+Pennsylvania,Ebensburg,1,59
+Pennsylvania,Edinboro,0,1
+Pennsylvania,Elkins Park,3,25
+Pennsylvania,Emmaus,2,6
+Pennsylvania,Enola,0,98
+Pennsylvania,Ephrata,1,620
+Pennsylvania,Erie,6,738
+Pennsylvania,Exton,0,116
+Pennsylvania,Fayetteville,0,5
+Pennsylvania,Feasterville,0,20
+Pennsylvania,Folcroft,0,97
+Pennsylvania,Folsom,1,127
+Pennsylvania,Franklin,0,1
+Pennsylvania,Freedom,0,1
+Pennsylvania,Freeland,1,43
+Pennsylvania,Garnet Valley,0,187
+Pennsylvania,Gibsonia,2,3
+Pennsylvania,Gilbertsville,1,747
+Pennsylvania,Girard,0,1
+Pennsylvania,Glen Mills,2,1060
+Pennsylvania,Glenside,0,193
+Pennsylvania,Goldsboro,0,1
+Pennsylvania,Greensburg,5,1650
+Pennsylvania,Greenville,0,5
+Pennsylvania,Halifax,1,3
+Pennsylvania,Hanover,1,383
+Pennsylvania,Harleysville,0,81
+Pennsylvania,Harrisburg,3,214
+Pennsylvania,Hatboro,0,139
+Pennsylvania,Havertown,1,6
+Pennsylvania,Hazleton,0,19
+Pennsylvania,Hershey,1,6
+Pennsylvania,Homer City,0,1
+Pennsylvania,Huntingdon Valley,0,5
+Pennsylvania,Indiana,2,7
+Pennsylvania,Irwin,3,34
+Pennsylvania,Jeannette,0,9
+Pennsylvania,Johnstown,1,20
+Pennsylvania,Kane,1,4
+Pennsylvania,Kennett Square,0,2
+Pennsylvania,King of Prussia,1,497
+Pennsylvania,Kingston,2,974
+Pennsylvania,Kutztown,1,4
+Pennsylvania,Lafayette Hill,0,1779
+Pennsylvania,Lancaster,4,825
+Pennsylvania,Landisville,0,2
+Pennsylvania,Langhorne,2,185
+Pennsylvania,Lansdale,0,154
+Pennsylvania,Lansdowne,1,48
+Pennsylvania,Latrobe,2,20
+Pennsylvania,Lebanon,3,175
+Pennsylvania,Levittown,0,17
+Pennsylvania,Lewisberry,2,1087
+Pennsylvania,Lewisburg,0,3
+Pennsylvania,Ligonier,0,268
+Pennsylvania,Lilly,0,4
+Pennsylvania,Lititz,0,942
+Pennsylvania,Macungie,1,1
+Pennsylvania,Malvern,4,45
+Pennsylvania,Manheim,0,35
+Pennsylvania,Martins Creek,1,1
+Pennsylvania,McConnellsburg,0,1
+Pennsylvania,McDonald,1,1
+Pennsylvania,McKeesport,1,17
+Pennsylvania,Meadville,3,1202
+Pennsylvania,Mechanicsburg,2,52
+Pennsylvania,Media,3,276
+Pennsylvania,Mercer,0,42
+Pennsylvania,Mercersburg,0,1
+Pennsylvania,Millersburg,1,13
+Pennsylvania,Millersville,0,4
+Pennsylvania,Milton,0,4
+Pennsylvania,Mohrsville,0,40
+Pennsylvania,Monessen,0,2
+Pennsylvania,Monongahela,1,1
+Pennsylvania,Monroeville,2,31
+Pennsylvania,Moscow,1,1
+Pennsylvania,Myerstown,0,6
+Pennsylvania,Narberth,1,22
+Pennsylvania,Nazareth,2,784
+Pennsylvania,New Alexandria,0,8
+Pennsylvania,New Castle,1,22
+Pennsylvania,New Florence,1,1
+Pennsylvania,New Hope,1,1244
+Pennsylvania,New Kensington,0,213
+Pennsylvania,Newmanstown,0,26
+Pennsylvania,Norristown,7,719
+Pennsylvania,North Versailles,0,3
+Pennsylvania,North Wales,0,14
+Pennsylvania,Northampton,0,244
+Pennsylvania,Northumberland,1,210
+Pennsylvania,Old Forge,1,2
+Pennsylvania,Palmyra,2,4
+Pennsylvania,Pennsburg,2,3
+Pennsylvania,Perkasie,0,26
+Pennsylvania,Philadelphia,119,20883
+Pennsylvania,Phoenixville,1,23
+Pennsylvania,Pittsburgh,34,3735
+Pennsylvania,Pittston,0,165
+Pennsylvania,Plymouth Meeting,0,1
+Pennsylvania,Pottstown,2,278
+Pennsylvania,Prospect Park,0,463
+Pennsylvania,Reading,4,1738
+Pennsylvania,Red Hill,0,135
+Pennsylvania,Red Lion,0,15
+Pennsylvania,Ridley Park,1,434
+Pennsylvania,Riegelsville,1,1
+Pennsylvania,Royersford,1,1
+Pennsylvania,Saylorsburg,0,1
+Pennsylvania,Schwenksville,1,414
+Pennsylvania,Scranton,2,7
+Pennsylvania,Selinsgrove,0,3
+Pennsylvania,Sellersville,0,1
+Pennsylvania,Sewickley,0,170
+Pennsylvania,Sharon Hill,0,447
+Pennsylvania,Sharon,1,2
+Pennsylvania,Sharpsville,0,521
+Pennsylvania,Shavertown,1,21
+Pennsylvania,Slatington,1,37
+Pennsylvania,Souderton,1,19
+Pennsylvania,Southampton,1,3
+Pennsylvania,Springfield,0,236
+Pennsylvania,State College,0,57
+Pennsylvania,Stillwater,0,5
+Pennsylvania,Stoystown,0,14
+Pennsylvania,Stroudsburg,1,14
+Pennsylvania,Sunbury,0,75
+Pennsylvania,Swarthmore,0,214
+Pennsylvania,Titusville,1,1
+Pennsylvania,Tobyhanna,1,1
+Pennsylvania,Towanda,0,132
+Pennsylvania,Uniontown,1,1
+Pennsylvania,Vandergrift,0,6
+Pennsylvania,Venetia,1,3
+Pennsylvania,Wallingford,0,321
+Pennsylvania,Warminster,1,5
+Pennsylvania,Warrington,2,3
+Pennsylvania,Wayne,5,151
+Pennsylvania,Waynesboro,2,40
+Pennsylvania,Wellsville,0,239
+Pennsylvania,Wernersville,0,631
+Pennsylvania,West Chester,1,1127
+Pennsylvania,West Grove,1,1
+Pennsylvania,West Mifflin,0,18
+Pennsylvania,Wilkes-Barre,2,15
+Pennsylvania,Williamsport,0,3
+Pennsylvania,Willow Grove,1,206
+Pennsylvania,Windber,1,1
+Pennsylvania,Woodlyn,0,311
+Pennsylvania,Wrightsville,0,130
+Pennsylvania,Yardley,0,59
+Pennsylvania,York,5,960
+Pennsylvania,undefined,2,1464
+Rhode Island,Barrington,0,23
+Rhode Island,Coventry,0,187
+Rhode Island,Cranston,7,2003
+Rhode Island,Cumberland,1,16
+Rhode Island,East Providence,2,52
+Rhode Island,Johnston,0,262
+Rhode Island,Newport,2,11
+Rhode Island,North Kingstown,2,4
+Rhode Island,North Providence,1,3
+Rhode Island,North Scituate,1,89
+Rhode Island,North Smithfield,0,26
+Rhode Island,Pawtucket,10,264
+Rhode Island,Providence,29,1645
+Rhode Island,Riverside,1,1
+Rhode Island,Rumford,0,243
+Rhode Island,Wakefield,2,14
+Rhode Island,Warwick,2,159
+Rhode Island,West Warwick,0,44
+Rhode Island,Westerly,1,10
+Rhode Island,Woonsocket,3,144
+Rhode Island,Wyoming,2,2
+South Carolina,Aiken,1,7
+South Carolina,Anderson,2,418
+South Carolina,Beaufort,3,1116
+South Carolina,Beech Island,0,1
+South Carolina,Bennettsville,1,9
+South Carolina,Bluffton,2,1525
+South Carolina,Blythewood,2,11
+South Carolina,Boiling Springs,0,294
+South Carolina,Bowman,1,1
+South Carolina,Camden,1,327
+South Carolina,Cayce,0,4
+South Carolina,Chapin,1,4
+South Carolina,Charleston,12,2025
+South Carolina,Cheraw,0,2
+South Carolina,Chesnee,0,55
+South Carolina,Chester,0,1
+South Carolina,Clarks Hill,0,35
+South Carolina,Clio,0,10
+South Carolina,Clover,1,5
+South Carolina,Columbia,17,2553
+South Carolina,Conway,4,259
+South Carolina,Cottageville,1,1
+South Carolina,Darlington,1,20
+South Carolina,Duncan,1,104
+South Carolina,Easley,1,8
+South Carolina,Fairfax,1,1
+South Carolina,Florence,10,233
+South Carolina,Folly Beach,0,1
+South Carolina,Fort Mill,1,11
+South Carolina,Gaffney,2,9
+South Carolina,Goose Creek,2,4
+South Carolina,Graniteville,2,427
+South Carolina,Greenville,9,4499
+South Carolina,Greer,5,946
+South Carolina,Hamer,0,4
+South Carolina,Hilton Head Island,1,108
+South Carolina,Honea Path,0,264
+South Carolina,Huger,0,5
+South Carolina,Inman,1,3
+South Carolina,Johns Island,1,1
+South Carolina,Johnsonville,0,51
+South Carolina,Kingstree,1,1
+South Carolina,Ladson,1,6
+South Carolina,Lancaster,1,78
+South Carolina,Leesville,0,2
+South Carolina,Lexington,2,347
+South Carolina,Little River,0,50
+South Carolina,Loris,0,1
+South Carolina,Marion,0,1
+South Carolina,Mauldin,2,95
+South Carolina,Mt. Pleasant,2,180
+South Carolina,Murrells Inlet,4,39
+South Carolina,Myrtle Beach,5,584
+South Carolina,North Augusta,2,4
+South Carolina,North Myrtle Beach,0,3
+South Carolina,Orangeburg,2,82
+South Carolina,Pawleys Island,1,2
+South Carolina,Pelzer,0,185
+South Carolina,Pendleton,0,233
+South Carolina,Pickens,0,2
+South Carolina,Piedmont,1,4
+South Carolina,Plum Branch,0,5
+South Carolina,Ridgeland,0,2
+South Carolina,Rock Hill,5,1400
+South Carolina,Roebuck,0,1
+South Carolina,Salem,1,1
+South Carolina,Seneca,1,3
+South Carolina,Simpsonville,4,96
+South Carolina,Six Mile,1,1
+South Carolina,Spartanburg,5,304
+South Carolina,St. Helena,1,1
+South Carolina,Starr,1,1
+South Carolina,Summerville,7,534
+South Carolina,Sumter,4,110
+South Carolina,Taylors,0,13
+South Carolina,Travelers Rest,1,40
+South Carolina,Walhalla,0,6
+South Carolina,Walterboro,1,7
+South Carolina,West Columbia,1,4888
+South Carolina,Westminster,1,1
+South Carolina,Williamston,1,196
+South Carolina,Williston,1,1
+South Carolina,Winnsboro,2,2
+South Carolina,York,0,8
+South Carolina,undefined,3,280
+South Dakota,Aberdeen,0,13
+South Dakota,Brookings,0,5
+South Dakota,Crooks,1,1
+South Dakota,Dell Rapids,0,3
+South Dakota,Eagle Butte,0,42
+South Dakota,Huron,3,19
+South Dakota,Midland,1,9
+South Dakota,Pierre,1,10
+South Dakota,Rapid City,5,841
+South Dakota,Rosebud,0,3
+South Dakota,Salem,1,1
+South Dakota,Sioux Falls,10,561
+South Dakota,Wall,1,1
+South Dakota,Watertown,2,2
+Tennessee,Alcoa,1,5
+Tennessee,Antioch,9,1477
+Tennessee,Ardmore,1,3
+Tennessee,Arlington,0,82
+Tennessee,Ashland City,0,1
+Tennessee,Athens,0,20
+Tennessee,Benton,0,3
+Tennessee,Bethpage,0,133
+Tennessee,Big Rock,0,4
+Tennessee,Bon Aqua,0,1
+Tennessee,Brentwood,5,652
+Tennessee,Bristol,4,22
+Tennessee,Camden,0,6
+Tennessee,Cedar Hill,1,3
+Tennessee,Centerville,0,7
+Tennessee,Charlotte,0,1
+Tennessee,Chattanooga,10,87
+Tennessee,Church Hill,1,1
+Tennessee,Clarksville,10,735
+Tennessee,Cleveland,3,88
+Tennessee,Clinton,0,8
+Tennessee,Collierville,1,13
+Tennessee,Columbia,0,506
+Tennessee,Cookeville,4,991
+Tennessee,Cordova,2,60
+Tennessee,Cornersville,0,2
+Tennessee,Covington,0,1
+Tennessee,Cowan,1,1
+Tennessee,Cross Plains,0,31
+Tennessee,Crossville,1,165
+Tennessee,Cumberland Furnace,0,2
+Tennessee,Cunningham,0,1
+Tennessee,Dandridge,0,79
+Tennessee,Dayton,1,4
+Tennessee,Decatur,0,16
+Tennessee,Dellrose,0,1
+Tennessee,Dickson,5,1984
+Tennessee,Dover,0,17
+Tennessee,Dyersburg,1,82
+Tennessee,Erin,0,1
+Tennessee,Estill Springs,1,1
+Tennessee,Fairview,2,573
+Tennessee,Fayetteville,2,21
+Tennessee,Franklin,12,585
+Tennessee,Gallatin,4,1097
+Tennessee,Gatlinburg,1,2
+Tennessee,Germantown,1,19
+Tennessee,Goodlettsville,1,905
+Tennessee,Greenbrier,1,1
+Tennessee,Greeneville,1,78
+Tennessee,Halls Crossroads,0,78
+Tennessee,Hartsville,0,12
+Tennessee,Hendersonville,4,54
+Tennessee,Hermitage,1,15
+Tennessee,Hixson,0,13
+Tennessee,Hohenwald,1,2
+Tennessee,Huntingdon,0,1
+Tennessee,Indian Mound,0,1
+Tennessee,Jackson,8,93
+Tennessee,Jefferson City,1,1
+Tennessee,Johnson City,5,1956
+Tennessee,Jonesborough,1,3
+Tennessee,Kingsport,6,215
+Tennessee,Knoxville,17,3573
+Tennessee,La Vergne,0,103
+Tennessee,Lafayette,1,5
+Tennessee,Lakewood,0,1
+Tennessee,Lawrenceburg,1,3
+Tennessee,Lebanon,3,730
+Tennessee,Lenoir City,0,4
+Tennessee,Lewisburg,1,5
+Tennessee,Lexington,1,1072
+Tennessee,Linden,1,2
+Tennessee,Lobelville,0,1
+Tennessee,Loretto,0,1
+Tennessee,Loudon,0,1
+Tennessee,Madison,1,1
+Tennessee,Manchester,0,4
+Tennessee,Martin,0,10
+Tennessee,Maryville,0,41
+Tennessee,Mascot,0,4
+Tennessee,McEwen,1,372
+Tennessee,McKenzie,1,2
+Tennessee,McMinnville,1,15
+Tennessee,Medina,0,7
+Tennessee,Memphis,43,3496
+Tennessee,Millington,1,2
+Tennessee,Monroe,0,4
+Tennessee,Morrison,1,1
+Tennessee,Morristown,0,105
+Tennessee,Mount Juliet,7,275
+Tennessee,Murfreesboro,12,956
+Tennessee,Nashville,70,15810
+Tennessee,Newport,2,703
+Tennessee,Nolensville,3,1344
+Tennessee,Oak Ridge,1,1
+Tennessee,Oakland,1,1
+Tennessee,Ooltewah,2,155
+Tennessee,Paris,1,5
+Tennessee,Parsons,0,57
+Tennessee,Pigeon Forge,0,5
+Tennessee,Piney Flats,0,1
+Tennessee,Portland,1,17
+Tennessee,Powell,0,16
+Tennessee,Pulaski,0,2
+Tennessee,Roan Mountain,1,2
+Tennessee,Rockwood,2,178
+Tennessee,Sevierville,0,34
+Tennessee,Seymour,0,51
+Tennessee,Shelbyville,1,18
+Tennessee,Signal Mountain,1,1
+Tennessee,Smithville,0,220
+Tennessee,Smyrna,3,1449
+Tennessee,Southside,0,44
+Tennessee,Sparta,0,3
+Tennessee,Spencer,0,1
+Tennessee,Spring Hill,4,150
+Tennessee,Springfield,1,14
+Tennessee,Strawberry Plains,1,1
+Tennessee,Sweetwater,1,6
+Tennessee,Talbott,1,5
+Tennessee,Tazewell,0,9
+Tennessee,Thompson's Station,0,35
+Tennessee,Trenton,1,1
+Tennessee,Vonore,1,1
+Tennessee,Waverly,2,112
+Tennessee,White House,2,262
+Tennessee,Winchester,3,336
+Tennessee,Woodbury,1,2
+Tennessee,undefined,5,370
+Texas,Abilene,2,806
+Texas,Addison,1,6
+Texas,Alamo,0,2
+Texas,Alice,1,2
+Texas,Allen,7,140
+Texas,Alvarado,0,1
+Texas,Amarillo,6,336
+Texas,Anna,1,2
+Texas,Argyle,1,12
+Texas,Arlington,12,1709
+Texas,Athens,1,1
+Texas,Aubrey,6,596
+Texas,Austin,46,7918
+Texas,Azle,1,123
+Texas,Balch Springs,0,3
+Texas,Bastrop,0,8
+Texas,Baytown,3,81
+Texas,Beaumont,2,898
+Texas,Bedford,0,2
+Texas,Beeville,3,8
+Texas,Bellaire,1,45
+Texas,Belton,0,58
+Texas,Bertram,0,9
+Texas,Big Spring,1,160
+Texas,Blanco,0,5
+Texas,Boerne,0,6
+Texas,Bonham,0,156
+Texas,Bowie,0,3
+Texas,Boyd,2,9134
+Texas,Brownfield,1,4
+Texas,Brownsville,4,202
+Texas,Bryan,0,107
+Texas,Buda,1,151
+Texas,Buffalo,2,6
+Texas,Bullard,2,2
+Texas,Bulverde,1,210
+Texas,Burkburnett,0,16
+Texas,Burleson,0,3
+Texas,Burnet,0,7
+Texas,Caddo Mills,0,1
+Texas,Canton,2,8
+Texas,Canyon Lake,0,53
+Texas,Carrollton,2,242
+Texas,Cedar Hill,5,238
+Texas,Cedar Park,1,235
+Texas,Celina,1,2
+Texas,Cibolo,3,8
+Texas,Cisco,1,950
+Texas,Cleburne,1,10
+Texas,Cleveland,0,10
+Texas,Coahoma,0,1
+Texas,College Station,5,703
+Texas,Colleyville,1,211
+Texas,Conroe,7,1240
+Texas,Converse,1,20
+Texas,Coppell,1,77
+Texas,Corpus Christi,10,1886
+Texas,Corsicana,1,26
+Texas,Crockett,0,3
+Texas,Crosby,0,176
+Texas,Crystal City,0,62
+Texas,Cypress,13,2880
+Texas,Dale,0,628
+Texas,Dalhart,1,57
+Texas,Dallas,282,47557
+Texas,Dayton,1,4
+Texas,De Kalb,1,5
+Texas,DeSoto,1,2
+Texas,Decatur,3,15726
+Texas,Deer Park,0,663
+Texas,Denton,6,16313
+Texas,Dickinson,1,72
+Texas,Dilley,0,111
+Texas,Dimmitt,1,9
+Texas,Donna,0,49
+Texas,Duncanville,0,2
+Texas,Eagle Pass,1,4
+Texas,Eastland,0,39
+Texas,Edinburg,3,791
+Texas,El Paso,38,11368
+Texas,Elgin,0,67
+Texas,Euless,1,273
+Texas,Ferris,0,14
+Texas,Flint,0,3
+Texas,Flower Mound,0,257
+Texas,Forney,3,12
+Texas,Fort Stockton,0,21
+Texas,Fort Worth,34,11413
+Texas,Fresno,0,23
+Texas,Friendswood,3,98
+Texas,Frisco,17,681
+Texas,Fulshear,0,2005
+Texas,Gainesville,1,28
+Texas,Galveston,2,15
+Texas,Garland,1,228
+Texas,Georgetown,4,319
+Texas,Graham,0,292
+Texas,Granbury,2,1015
+Texas,Grand Prairie,5,373
+Texas,Grand Saline,1,1
+Texas,Grapevine,1,69
+Texas,Greenville,1,340
+Texas,Hallettsville,0,98
+Texas,Haltom City,0,1065
+Texas,Harker Heights,2,15
+Texas,Harlingen,1,160
+Texas,Haslet,1,366
+Texas,Hemphill,0,1
+Texas,Henderson,1,1
+Texas,Hondo,1,7
+Texas,Houston,247,97326
+Texas,Humble,7,638
+Texas,Huntsville,1,227
+Texas,Hurst,0,2
+Texas,Hutto,0,235
+Texas,Ingram,1,1
+Texas,Iowa Park,3,1052
+Texas,Irving,8,600
+Texas,Jarrell,1,1
+Texas,Jasper,0,2
+Texas,Johnson City,0,78
+Texas,Justin,0,4
+Texas,Katy,33,9392
+Texas,Kaufman,0,30
+Texas,Keller,0,19
+Texas,Kemp,0,16
+Texas,Kennedale,1,78
+Texas,Kerrville,1,10
+Texas,Killeen,5,151
+Texas,Kingsville,1,1
+Texas,Kingwood,1,1770
+Texas,Krum,4,22
+Texas,Kyle,1,56
+Texas,La Joya,0,6
+Texas,La Marque,1,3
+Texas,La Porte,9,5480
+Texas,Lake Dallas,0,44
+Texas,Lake Jackson,2,1334
+Texas,Lancaster,0,12
+Texas,Laredo,3,45
+Texas,League City,19,21994
+Texas,Leander,2,69
+Texas,Leon Valley,0,5
+Texas,Lewisville,7,1146
+Texas,Liberty Hill,1,9
+Texas,Liberty,0,11
+Texas,Little Elm,1,433
+Texas,Lockhart,0,112
+Texas,Longview,3,7
+Texas,Los Fresnos,0,41
+Texas,Lubbock,8,432
+Texas,Lufkin,3,39
+Texas,Mabank,0,471
+Texas,Madisonville,0,2
+Texas,Manor,0,5
+Texas,Mansfield,6,1922
+Texas,Manvel,1,82
+Texas,Marble Falls,3,174
+Texas,McAllen,8,2949
+Texas,McKinney,12,1510
+Texas,Melissa,0,38
+Texas,Mesquite,6,1604
+Texas,Mexia,1,1
+Texas,Midland,8,116
+Texas,Midlothian,1,15
+Texas,Mineral Wells,0,3
+Texas,Mission,4,3392
+Texas,Missouri City,8,387
+Texas,Montgomery,1,16
+Texas,Murchison,1,6
+Texas,Nacogdoches,4,4136
+Texas,Nederland,1,64
+Texas,New Braunfels,2,503
+Texas,New Caney,1,571
+Texas,Nolanville,1,1
+Texas,North Richland Hills,1,2
+Texas,Odem,0,105
+Texas,Odessa,4,436
+Texas,Palestine,0,1
+Texas,Panhandle,0,3
+Texas,Paradise,0,1058
+Texas,Paris,1,9
+Texas,Pasadena,30,12288
+Texas,Pearland,7,695
+Texas,Pearsall,2,1332
+Texas,Pecos,1,2
+Texas,Penitas,0,4
+Texas,Perrin,0,1407
+Texas,Pflugerville,12,601
+Texas,Pharr,2,141
+Texas,Pinehurst,1,4
+Texas,Plano,28,4997
+Texas,Port Arthur,1,1
+Texas,Porter,1,237
+Texas,Prosper,3,339
+Texas,Raymondville,0,3
+Texas,Red Oak,1,1
+Texas,Richardson,6,442
+Texas,Richmond,19,3631
+Texas,Rio Grande City,2,9
+Texas,Roanoke,2,30
+Texas,Rockwall,1,55
+Texas,Rosenberg,1,129
+Texas,Rosharon,1,29
+Texas,Round Rock,4,2758
+Texas,Rowlett,4,477
+Texas,Royse City,1,284
+Texas,San Angelo,4,29
+Texas,San Antonio,83,20253
+Texas,San Benito,0,31
+Texas,San Juan,1,28
+Texas,Sanger,1,109
+Texas,Schertz,0,769
+Texas,Seabrook,0,3
+Texas,Seagoville,1,24
+Texas,Sherman,4,620
+Texas,Silsbee,1,1
+Texas,Southlake,1,53
+Texas,Spring Branch,1,284
+Texas,Spring,15,4576
+Texas,Springtown,0,1
+Texas,Stafford,1,19
+Texas,Sugar Land,13,4044
+Texas,Sulphur Springs,0,1
+Texas,Taylor,2,11
+Texas,Temple,3,677
+Texas,Terrell,0,23
+Texas,Texarkana,2,3
+Texas,Texas City,1,3
+Texas,The Colony,3,66
+Texas,Tomball,3,510
+Texas,Tuscola,1,3650
+Texas,Tyler,9,124
+Texas,Valley View,4,6446
+Texas,Van Alstyne,0,1
+Texas,Venus,0,13
+Texas,Victoria,1,3
+Texas,Vidor,1,1
+Texas,Waco,2,87
+Texas,Waller,0,352
+Texas,Waxahachie,1,1
+Texas,Weatherford,0,197
+Texas,Webster,16,4037
+Texas,Weslaco,4,38
+Texas,Wheeler,1,764
+Texas,Wichita Falls,2,887
+Texas,Wills Point,2,152
+Texas,Wimberley,1,7
+Texas,Woodway,2,111
+Texas,Wylie,2,378
+Texas,undefined,16,3606
+Utah,Alpine,1,1
+Utah,American Fork,4,1175
+Utah,Annabella,0,20
+Utah,Beaver,2,1145
+Utah,Bountiful,1,372
+Utah,Brigham City,1,1
+Utah,Castle Dale,1,3
+Utah,Cedar City,4,1979
+Utah,Clearfield,4,270
+Utah,Dammeron Valley,1,3
+Utah,Draper,16,7126
+Utah,Elk Ridge,2,72
+Utah,Farmington,1,10
+Utah,Heber,2,11
+Utah,Herriman,5,445
+Utah,Hurricane,1,2
+Utah,Ivins,2,74
+Utah,Kamas,0,6
+Utah,Kanab,1,2
+Utah,Layton,3,1449
+Utah,Lehi,14,5049
+Utah,Lindon,0,248
+Utah,Logan,16,1031
+Utah,Magna,1,38
+Utah,Mapleton,1,200
+Utah,Midvale,2,224
+Utah,Milford,1,6
+Utah,Moab,1,2
+Utah,Mona,1,3
+Utah,Mount Pleasant,3,13
+Utah,Murray,1,11
+Utah,Nephi,1,63
+Utah,Ogden,4,364
+Utah,Orem,3,82
+Utah,Park City,2,255
+Utah,Payson,0,100
+Utah,Pleasant Grove,2,170
+Utah,Price,2,2
+Utah,Provo,15,3118
+Utah,Riverton,1,466
+Utah,Roy,0,66
+Utah,Salt Lake City,83,19267
+Utah,Sandy,4,2358
+Utah,Santaquin,1,1
+Utah,Saratoga Springs,2,2518
+Utah,South Jordan,6,1022
+Utah,Spanish Fork,2,252
+Utah,Springville,1,11
+Utah,St. George,8,4902
+Utah,Stockton,1,3
+Utah,Syracuse,1,10
+Utah,Taylorsville,1,13
+Utah,Tooele,2,371
+Utah,Vineyard,0,2857
+Utah,Washington,2,26
+Utah,West Jordan,4,400
+Utah,West Valley City,3,7123
+Utah,Woods Cross,1,1
+Utah,undefined,5,1506
+Vermont,Barre,1,87
+Vermont,Brattleboro,0,1
+Vermont,Burlington,0,56
+Vermont,Colchester,1,1
+Vermont,Danville,0,1
+Vermont,Essex Junction,0,6
+Vermont,Hartland,1,2
+Vermont,Jericho,0,1
+Vermont,Lyndonville,0,3
+Vermont,Manchester Center,1,1
+Vermont,Middletown Springs,0,4
+Vermont,Newfane,1,1
+Vermont,Richford,1,1
+Vermont,Rutland,3,3275
+Vermont,Saint Johnsbury,1,4
+Vermont,South Burlington,2,9
+Vermont,Stowe,1,3
+Vermont,Tunbridge,1,1
+Vermont,West Charleston,0,1
+Vermont,White River Junction,1,48
+Vermont,undefined,0,1
+Virginia,Abingdon,0,241
+Virginia,Aldie,2,17
+Virginia,Alexandria,18,3561
+Virginia,Annandale,5,311
+Virginia,Arlington,18,2342
+Virginia,Ashburn,157,12179
+Virginia,Ashland,1,1
+Virginia,Bealeton,1,2
+Virginia,Bedford,2,1228
+Virginia,Berryville,0,1
+Virginia,Blacksburg,0,1
+Virginia,Bluefield,0,5
+Virginia,Boones Mill,0,42
+Virginia,Boydton,1,12
+Virginia,Bristol,3,801
+Virginia,Bristow,0,137
+Virginia,Broadway,0,444
+Virginia,Buena Vista,1,1
+Virginia,Burke,2,837
+Virginia,Callao,0,6
+Virginia,Cedar Bluff,4,728
+Virginia,Centreville,7,1795
+Virginia,Chantilly,3,3
+Virginia,Charlottesville,6,969
+Virginia,Chesapeake,14,1470
+Virginia,Chester,2,2
+Virginia,Chesterfield Court House,1,2
+Virginia,Christiansburg,3,54
+Virginia,Crewe,0,22
+Virginia,Culpeper,2,9
+Virginia,Daleville,1,184
+Virginia,Danville,1,258
+Virginia,Doswell,0,113
+Virginia,Dulles,0,80
+Virginia,Dumfries,1,190
+Virginia,Dyke,0,1
+Virginia,Edinburg,0,10
+Virginia,Elkton,1,1
+Virginia,Fairfax,25,3183
+Virginia,Falls Church,1,828
+Virginia,Farmville,1,1
+Virginia,Farnham,0,3
+Virginia,Floyd,2,2
+Virginia,Forest,4,463
+Virginia,Franklin,1,1
+Virginia,Fredericksburg,4,628
+Virginia,Front Royal,3,4
+Virginia,Gainesville,2,213
+Virginia,Galax,1,4754
+Virginia,Glen Allen,4,163
+Virginia,Goode,0,3
+Virginia,Great Falls,0,236
+Virginia,Grundy,3,19
+Virginia,Hampton,7,864
+Virginia,Harrisonburg,4,9
+Virginia,Haymarket,5,346
+Virginia,Haysi,0,1
+Virginia,Henrico,8,1574
+Virginia,Herndon,3,131
+Virginia,Hillsville,0,6
+Virginia,Hiwassee,1,1
+Virginia,Hopewell,0,21
+Virginia,Huddleston,1,3
+Virginia,Hurt,0,7
+Virginia,Jeffersonton,1,284
+Virginia,King George,1,100
+Virginia,Lancaster,0,1
+Virginia,Lebanon,0,12
+Virginia,Leesburg,1,131
+Virginia,Lexington,0,41
+Virginia,Locust Dale,0,3
+Virginia,Lorton,2,12
+Virginia,Louisa,0,28
+Virginia,Lynch Station,1,5
+Virginia,Lynchburg,5,562
+Virginia,Madison Heights,0,5
+Virginia,Manakin,0,41
+Virginia,Manassas,9,1894
+Virginia,Marion,1,24
+Virginia,Martinsville,1,14
+Virginia,McGaheysville,0,1
+Virginia,McLean,5,2119
+Virginia,Meadowview,0,10
+Virginia,Mechanicsville,1,11
+Virginia,Midlothian,2,294
+Virginia,Moneta,1,11
+Virginia,Newport News,5,180
+Virginia,Norfolk,7,619
+Virginia,North Tazewell,0,2
+Virginia,Palmyra,1,8
+Virginia,Petersburg,1,6
+Virginia,Portsmouth,2,525
+Virginia,Purcellville,0,6
+Virginia,Radford,1,2
+Virginia,Raven,1,1
+Virginia,Reedville,1,4
+Virginia,Reston,4,313
+Virginia,Rice,1,5
+Virginia,Richlands,1,782
+Virginia,Richmond,19,1100
+Virginia,Roanoke,14,4964
+Virginia,Rocky Mount,0,40
+Virginia,Rustburg,1,3
+Virginia,Salem,2,65
+Virginia,Sandston,1,4
+Virginia,South Boston,0,1
+Virginia,Spotsylvania,1,1
+Virginia,Springfield,5,1347
+Virginia,Stafford,4,1515
+Virginia,Staunton,1,2
+Virginia,Stephens City,0,1
+Virginia,Sterling,1,42
+Virginia,Suffolk,0,10
+Virginia,Tazewell,0,7
+Virginia,Thaxton,1,3
+Virginia,Troutville,0,14
+Virginia,Vansant,0,1
+Virginia,Vienna,3,612
+Virginia,Vinton,1,30
+Virginia,Virginia Beach,39,4075
+Virginia,Warrenton,2,468
+Virginia,Warsaw,0,11
+Virginia,Washington,1,135
+Virginia,Waynesboro,8,139
+Virginia,Williamsburg,2,12
+Virginia,Winchester,2,25
+Virginia,Woodbridge,13,5148
+Virginia,Woodstock,1,1
+Virginia,undefined,1,101
+Washington,Anacortes,1,10
+Washington,Arlington,0,6
+Washington,Auburn,3,2589
+Washington,Bainbridge Island,4,137
+Washington,Battle Ground,0,19
+Washington,Bellevue,7,1007
+Washington,Bellingham,3,35
+Washington,Black Diamond,1,91
+Washington,Bonney Lake,1,57
+Washington,Bothell,3,354
+Washington,Bremerton,1,672
+Washington,Burien,0,32
+Washington,Burlington,0,1
+Washington,Camas,1,8
+Washington,Carnation,1,67
+Washington,Chehalis,1,649
+Washington,Cle Elum,0,24
+Washington,Clinton,1,47
+Washington,Connell,1,124
+Washington,Coupeville,2,97
+Washington,Deer Park,0,45
+Washington,DesMoines,0,317
+Washington,Duvall,0,2
+Washington,East Wenatchee,1,2
+Washington,Eastsound,2,18
+Washington,Eatonville,0,2
+Washington,Edmonds,2,9
+Washington,Ellensburg,1,1
+Washington,Everett,4,1018
+Washington,Federal Way,10,5668
+Washington,Gig Harbor,2,99
+Washington,Graham,1,1
+Washington,Grandview,0,53
+Washington,Greenacres,0,1
+Washington,Issaquah,1,634
+Washington,Kenmore,1,1
+Washington,Kennewick,2,1361
+Washington,Kent,7,2766
+Washington,Kirkland,18,2015
+Washington,La Center,0,3
+Washington,Lacey,2,139
+Washington,Lake Stevens,0,149
+Washington,Lakewood,1,178
+Washington,Langley,0,170
+Washington,Liberty Lake,2,4
+Washington,Longview,0,156
+Washington,Lynden,1,5
+Washington,Lynnwood,22,559
+Washington,Maple Valley,1,2
+Washington,Marysville,4,951
+Washington,Mead,1,1
+Washington,Mercer Island,7,311
+Washington,Mesa,0,9
+Washington,Monroe,0,12
+Washington,Mountlake Terrace,4,1229
+Washington,Mukilteo,10,1087
+Washington,Newport,1,211
+Washington,North Bend,1,571
+Washington,Oak Harbor,0,42
+Washington,Ocean Shores,1,7
+Washington,Olalla,0,2
+Washington,Olympia,8,191
+Washington,Pacific,0,367
+Washington,Pasco,1,206
+Washington,Port Angeles,1,1
+Washington,Port Orchard,1,5
+Washington,Puyallup,4,3512
+Washington,Raymond,0,4
+Washington,Redmond,11,758
+Washington,Renton,3,761
+Washington,Richland,2,5
+Washington,Ritzville,0,2
+Washington,Sammamish,0,2
+Washington,Seattle,161,14642
+Washington,Sequim,0,4
+Washington,Shelton,0,4
+Washington,Snohomish,0,1
+Washington,Spanaway,1,203
+Washington,Spokane,18,339
+Washington,Sumner,0,40
+Washington,Tacoma,11,4856
+Washington,Toppenish,1,12
+Washington,Touchet,0,1
+Washington,University Place,1,1
+Washington,Vancouver,8,1390
+Washington,Vashon,1,1
+Washington,Waitsburg,1,2
+Washington,Walla Walla,1,2
+Washington,Washougal,0,8
+Washington,Wenatchee,0,4
+Washington,Woodinville,1,599
+Washington,Yakima,3,3844
+Washington,undefined,32,5885
+West Virginia,Beckley,4,8
+West Virginia,Bluefield,2,5
+West Virginia,Buckhannon,0,1
+West Virginia,Chapmanville,0,7
+West Virginia,Charleston,6,4675
+West Virginia,Clarksburg,0,7
+West Virginia,Colliers,0,14
+West Virginia,Crawley,0,32
+West Virginia,Culloden,0,132
+West Virginia,Delbarton,0,113
+West Virginia,Dunbar,0,3
+West Virginia,Elkins,1,1
+West Virginia,Fairmont,1,864
+West Virginia,Harrisville,1,1
+West Virginia,Huntington,13,2908
+West Virginia,Hurricane,1,148
+West Virginia,Kenova,0,154
+West Virginia,Kermit,0,3
+West Virginia,Lenore,1,2
+West Virginia,Lewisburg,4,354
+West Virginia,Martinsburg,0,44
+West Virginia,Milton,1,345
+West Virginia,Moorefield,0,1
+West Virginia,Morgantown,4,665
+West Virginia,Moundsville,0,90
+West Virginia,Mount Hope,1,1
+West Virginia,New Martinsville,0,1
+West Virginia,Oak Hill,0,6
+West Virginia,Palestine,1,1
+West Virginia,Parkersburg,5,154
+West Virginia,Pineville,0,1
+West Virginia,Poca,2,504
+West Virginia,Princeton,1,2
+West Virginia,Saint Albans,0,105
+West Virginia,Scott Depot,0,46
+West Virginia,Summersville,1,1
+West Virginia,Tornado,0,4
+West Virginia,Vienna,0,3
+West Virginia,Weirton,0,10
+West Virginia,Welch,0,7
+West Virginia,West Hamlin,1,1
+West Virginia,Wheeling,1,15
+West Virginia,White Sulphur Springs,0,3
+West Virginia,Williamson,7,2019
+West Virginia,undefined,0,84
+Wisconsin,Antigo,1,1
+Wisconsin,Appleton,3,16
+Wisconsin,Ashwaubenon,1,1
+Wisconsin,Baraboo,1,1
+Wisconsin,Bristol,0,3
+Wisconsin,Brookfield,1,11
+Wisconsin,Cambridge,0,9
+Wisconsin,Colby,0,1
+Wisconsin,De Pere,1,14
+Wisconsin,Deerfield,2,2
+Wisconsin,Eau Claire,3,20
+Wisconsin,Fitchburg,0,46
+Wisconsin,Grafton,0,7
+Wisconsin,Green Bay,1,16
+Wisconsin,Hartland,0,7
+Wisconsin,Holmen,0,2
+Wisconsin,Hudson,1,6
+Wisconsin,Iola,1,2
+Wisconsin,Iron River,0,16
+Wisconsin,Janesville,1,3
+Wisconsin,Johnson Creek,0,41
+Wisconsin,Kaukauna,1,1
+Wisconsin,Kenosha,1,81
+Wisconsin,Knapp,1,1
+Wisconsin,La Crosse,1,1
+Wisconsin,Madison,6,3567
+Wisconsin,Manitowoc,1,1
+Wisconsin,Medford,1,3
+Wisconsin,Menomonee Falls,2,5
+Wisconsin,Mequon,1,315
+Wisconsin,Merrill,0,1
+Wisconsin,Middleton,1,479
+Wisconsin,Milwaukee,25,2020
+Wisconsin,Mosinee,1,3
+Wisconsin,Muskego,1,19
+Wisconsin,Necedah,1,1
+Wisconsin,Neenah,1,249
+Wisconsin,New Berlin,0,2
+Wisconsin,New Richmond,3,21
+Wisconsin,Niagara,0,35
+Wisconsin,Oak Creek,2,2
+Wisconsin,Oconomowoc,1,5
+Wisconsin,Omro,0,3
+Wisconsin,Oshkosh,2,2
+Wisconsin,Plainfield,1,1
+Wisconsin,Pleasant Prairie,0,1
+Wisconsin,Portage,1,1
+Wisconsin,Pulaski,2,4
+Wisconsin,Racine,4,33
+Wisconsin,Reedsburg,1,2
+Wisconsin,Rhinelander,2,11
+Wisconsin,Richfield,1,1
+Wisconsin,Sheboygan,1,1
+Wisconsin,South Milwaukee,0,1
+Wisconsin,Sparta,1,1
+Wisconsin,Stoughton,0,18
+Wisconsin,Stratford,0,5
+Wisconsin,Sturgeon Bay,0,4
+Wisconsin,Sun Prairie,0,43
+Wisconsin,Superior,1,8
+Wisconsin,Two Rivers,1,3
+Wisconsin,Verona,0,1
+Wisconsin,Waukesha,1,55
+Wisconsin,Waunakee,1,2
+Wisconsin,Waupun,1,9
+Wisconsin,Wausau,5,568
+Wisconsin,Wautoma,0,2
+Wisconsin,West Bend,1,2758
+Wisconsin,Westby,1,1
+Wisconsin,Westfield,0,2
+Wisconsin,Woodruff,1,3
+Wisconsin,undefined,0,1
+Wyoming,Burns,0,8
+Wyoming,Casper,4,793
+Wyoming,Cheyenne,7,176
+Wyoming,Cody,2,7
+Wyoming,Daniel,0,4
+Wyoming,Dayton,0,25
+Wyoming,Douglas,0,40
+Wyoming,Gillette,2,599
+Wyoming,Jackson,0,950
+Wyoming,Lander,2,7
+Wyoming,Laramie,1,178
+Wyoming,Pinedale,0,23
+Wyoming,Powell,1,2
+Wyoming,Rock Springs,0,2
+Wyoming,Sheridan,4,1233
+Wyoming,Thermopolis,0,12
+Wyoming,Torrington,0,29
+Wyoming,Worland,0,19
+Wyoming,undefined,0,1
+undefined,undefined,90,13855
