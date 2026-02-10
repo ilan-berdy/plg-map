@@ -31,12 +31,37 @@ python generate.py --state "California" --export png
 python generate.py --linear
 ```
 
+## Git & GitHub
+
+This project is set up for Git. To connect to GitHub and push:
+
+```bash
+# Create a new repo on GitHub (github.com → New repository), then:
+git remote add origin https://github.com/<your-username>/<repo-name>.git
+git branch -M main
+git push -u origin main
+```
+
+**Typical workflow:**
+```bash
+git add .
+git commit -m "Describe your changes"
+git push
+```
+
+**Clone the project elsewhere:**
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
+```
+
 ## Hosting (to get a shareable link)
 
 ### GitHub Pages (recommended)
-1. Push this repo to GitHub
-2. Go to **Settings → Pages → Source → main branch**
-3. Share the URL: `https://<org>.github.io/<repo-name>`
+1. Push this repo to GitHub (see **Git & GitHub** above).
+2. In the repo: **Settings → Pages → Source** → choose **Deploy from a branch**.
+3. Branch: **main**, folder: **/ (root)**. Save.
+4. Share the URL: `https://<your-username>.github.io/<repo-name>/`
 
 ### Netlify (fastest, no account needed)
 1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
