@@ -514,12 +514,17 @@ function geojsonBounds(gj, padding = 0.08) {
 }
 
 function stateBounds(gj) {
-    return geojsonBounds(gj, 0.14);
+    return geojsonBounds(gj, 0.2);
 }
 
 const HEAT = [[0,'#db7865'],[0.25,'#f8ae70'],[0.5,'#ffd666'],[0.75,'#abc77e'],[1,'#4ea471']];
 const HEAT_REVERSED = [[0,'#4ea471'],[0.25,'#abc77e'],[0.5,'#ffd666'],[0.75,'#f8ae70'],[1,'#db7865']];
+const NO_DATA_GRAY = '#e0e0e0';
 function getColorscale() { return colorScheme === 'greenLow' ? HEAT_REVERSED : HEAT; }
+function getColorscaleWithGray() {
+    const base = getColorscale();
+    return [[0, NO_DATA_GRAY], [1e-9, base[0][1]], ...base.slice(1)];
+}
 
 function colorbar(isU, x) {
     const data_ = filteredData();
@@ -544,42 +549,64 @@ function render() {
     const data = filteredData();
     if (data.length === 0) { Plotly.purge('map'); return; }
     const gj = filteredGeojson(data);
-    const zU = data.map(d => scale === 'log' ? Math.log1p(d.u) : d.u);
-    const zE = data.map(d => scale === 'log' ? Math.log1p(d.e) : d.e);
-    const fips = data.map(d => d.f);
-    // Build hover with Commure terminology
-    const hover = data.map(d =>
-        `<b>${d.c}</b>, ${d.s}<br>` +
-        `Clinicians: ${d.u}<br>` +
-        `Patient Visits: ${d.e.toLocaleString()}<br>` +
-        `Cities: ${d.n}`
-    );
+    const stateOnlyView = stateFilter !== 'all';
+    let fips, zU, zE, hover, heat;
+    if (stateOnlyView) {
+        fips = gj.features.map(f => String(f.id).padStart(5, '0'));
+        const dataByFips = new Map(data.map(d => [d.f, d]));
+        zU = fips.map(f => {
+            const d = dataByFips.get(f);
+            return d ? (scale === 'log' ? Math.log1p(d.u) : d.u) : -1;
+        });
+        zE = fips.map(f => {
+            const d = dataByFips.get(f);
+            return d ? (scale === 'log' ? Math.log1p(d.e) : d.e) : -1;
+        });
+        hover = fips.map(f => {
+            const d = dataByFips.get(f);
+            return d
+                ? `<b>${d.c}</b>, ${d.s}<br>Clinicians: ${d.u}<br>Patient Visits: ${d.e.toLocaleString()}<br>Cities: ${d.n}`
+                : `<b>County ${f.slice(2)}</b><br>No data`;
+        });
+        heat = getColorscaleWithGray();
+    } else {
+        zU = data.map(d => scale === 'log' ? Math.log1p(d.u) : d.u);
+        zE = data.map(d => scale === 'log' ? Math.log1p(d.e) : d.e);
+        fips = data.map(d => d.f);
+        hover = data.map(d =>
+            `<b>${d.c}</b>, ${d.s}<br>Clinicians: ${d.u}<br>Patient Visits: ${d.e.toLocaleString()}<br>Cities: ${d.n}`
+        );
+        heat = getColorscale();
+    }
     const hl = { bgcolor: '#ffffff', bordercolor: '#e8e4df', font: { size: 12, family: 'Outfit', color: '#2c2825' } };
     const ml = { width: 0.25, color: '#e8e4df' };
     const showStateBorder = stateFilter !== 'all';
-    const stateOnlyView = stateFilter !== 'all';
-    const heat = getColorscale();
     const geoBase = {
-        bgcolor: stateOnlyView ? '#faf9f7' : 'rgba(0,0,0,0)',
-        lakecolor: '#e8edf2', landcolor: '#f0ece7',
+        bgcolor: stateOnlyView ? '#ffffff' : 'rgba(0,0,0,0)',
+        lakecolor: stateOnlyView ? '#ffffff' : '#e8edf2',
+        landcolor: '#f0ece7',
         showlakes: !stateOnlyView,
         showland: !stateOnlyView,
         showcoastlines: !stateOnlyView,
         showcountries: !stateOnlyView,
         showocean: !stateOnlyView,
+        showrivers: !stateOnlyView,
         subunitcolor: showStateBorder ? '#2c2825' : '#d8d4cf',
         subunitwidth: showStateBorder ? 1.2 : 0.5,
         showsubunits: true,
-        countrycolor: '#d8d4cf', showframe: false, coastlinecolor: '#d8d4cf',
+        countrycolor: stateOnlyView ? '#ffffff' : '#d8d4cf',
+        showframe: false,
+        coastlinecolor: stateOnlyView ? '#ffffff' : '#d8d4cf',
     };
 
     let traces, layout;
     if (metric === 'both') {
+        const traceOpts = stateOnlyView ? { zmin: -1 } : {};
         traces = [
             { type:'choropleth', geojson:gj, locations:fips, z:zU, text:hover, hoverinfo:'text',
-              colorscale:heat, colorbar:colorbar(true, 0.44), marker:{line:ml}, hoverlabel:hl, geo:'geo' },
+              colorscale:heat, colorbar:colorbar(true, 0.44), marker:{line:ml}, hoverlabel:hl, geo:'geo', ...traceOpts },
             { type:'choropleth', geojson:gj, locations:fips, z:zE, text:hover, hoverinfo:'text',
-              colorscale:heat, colorbar:colorbar(false, 1.01), marker:{line:ml}, hoverlabel:hl, geo:'geo2' }
+              colorscale:heat, colorbar:colorbar(false, 1.01), marker:{line:ml}, hoverlabel:hl, geo:'geo2', ...traceOpts }
         ];
         const geo = { ...geoBase, scope:'usa', domain:{x:[0, 0.48], y:[0,1]} };
         const geo2 = { ...geoBase, scope:'usa', domain:{x:[0.52, 1], y:[0,1]} };
@@ -600,8 +627,9 @@ function render() {
         };
     } else {
         const isU = metric === 'uniques';
+        const traceOpts = stateOnlyView ? { zmin: -1 } : {};
         traces = [{ type:'choropleth', geojson:gj, locations:fips, z:isU?zU:zE, text:hover, hoverinfo:'text',
-            colorscale:heat, colorbar:colorbar(isU, 1.01), marker:{line:ml}, hoverlabel:hl }];
+            colorscale:heat, colorbar:colorbar(isU, 1.01), marker:{line:ml}, hoverlabel:hl, ...traceOpts }];
         const geo = { ...geoBase, scope:'usa' };
         if (stateFilter !== 'all') {
             geo.scope = 'north america';
@@ -614,7 +642,8 @@ function render() {
     }
     const useTightMargin = stateFilter !== 'all';
     layout = { ...layout,
-        paper_bgcolor: '#faf9f7', plot_bgcolor: '#faf9f7',
+        paper_bgcolor: stateOnlyView ? '#ffffff' : '#faf9f7',
+        plot_bgcolor: stateOnlyView ? '#ffffff' : '#faf9f7',
         font: { color: '#2c2825', family: 'Outfit' },
         margin: useTightMargin ? { t: 16, b: 4, l: 4, r: 4 } : { t: 28, b: 8, l: 8, r: 8 },
         height: document.getElementById('map').offsetHeight,
