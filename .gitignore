@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+.venv/
 geojson-counties-fips.json
 choropleth_exports/
 .DS_Store
