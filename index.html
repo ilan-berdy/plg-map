@@ -145,6 +145,23 @@
         }
         .ehr-filter-clear:hover { color: var(--green); background: var(--bg); }
         .toolbar .group.ehr-metric-hide { display: none; }
+        .ehr-filter-row { display: flex; align-items: center; gap: 6px; }
+        .ehr-filter-mode {
+            font-size: 11px; padding: 5px 8px; min-width: 0;
+        }
+        #ehrLimitGroup { display: none; }
+        #ehrLimitGroup.ehr-metric-show { display: flex; }
+        .ehr-legend {
+            position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
+            background: var(--white); border: 1px solid var(--border); border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 10px 14px; max-height: 80%;
+            overflow-y: auto; z-index: 10; font-size: 11px;
+        }
+        .ehr-legend-title { font-weight: 600; color: var(--text-sec); margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .ehr-legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+        .ehr-legend-swatch { width: 14px; height: 14px; border-radius: 3px; flex-shrink: 0; border: 1px solid rgba(0,0,0,0.08); }
+        .ehr-legend-item span { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 120px; }
+        .ehr-legend-gradient-note { font-size: 10px; color: var(--text-ter); margin-top: 8px; }
 
         /* ── Main layout ── */
         .main {
@@ -261,11 +278,14 @@
             display: flex;
             flex-direction: column;
             min-width: 0;
+            position: relative;
         }
         #map {
             flex: 1;
             width: 100%;
         }
+        #ehrLegend { display: none; }
+        #ehrLegend.visible { display: block; }
 
         /* ── Loader ── */
         #loader {
@@ -350,16 +370,31 @@
         </div>
     </div>
     <div class="sep"></div>
-    <div class="group ehr-filter-group">
+    <div class="group ehr-filter-group" id="ehrFilterGroup">
         <label>Filter by EHR</label>
-        <div class="ehr-filter-wrap">
-            <button type="button" class="ehr-filter-btn" id="ehrFilterBtn" aria-haspopup="listbox" aria-expanded="false">All EHRs</button>
-            <div class="ehr-filter-panel" id="ehrFilterPanel" role="listbox" hidden>
-                <div class="ehr-filter-options" id="ehrFilterOptions"></div>
-                <div class="ehr-filter-actions">
-                    <button type="button" class="ehr-filter-clear" id="ehrFilterClear">Clear</button>
+        <div class="ehr-filter-row">
+            <div class="ehr-filter-wrap">
+                <button type="button" class="ehr-filter-btn" id="ehrFilterBtn" aria-haspopup="listbox" aria-expanded="false">All EHRs</button>
+                <div class="ehr-filter-panel" id="ehrFilterPanel" role="listbox" hidden>
+                    <div class="ehr-filter-options" id="ehrFilterOptions"></div>
+                    <div class="ehr-filter-actions">
+                        <button type="button" class="ehr-filter-clear" id="ehrFilterClear">Clear</button>
+                    </div>
                 </div>
             </div>
+            <select id="ehrFilterMode" class="ehr-filter-mode" title="Match any EHR in county vs top EHR only">
+                <option value="any">Any in county</option>
+                <option value="top">Top EHR only</option>
+            </select>
+        </div>
+    </div>
+    <div class="sep"></div>
+    <div class="group" id="ehrLimitGroup">
+        <label>Show EHRs</label>
+        <div class="pill-group" id="ehrLimitBtns">
+            <button class="pill on" data-v="10">Top 10</button>
+            <button class="pill" data-v="20">Top 20</button>
+            <button class="pill" data-v="0">All</button>
         </div>
     </div>
     <button class="export-btn" onclick="exportPNG()">
@@ -372,6 +407,10 @@
     <div class="sidebar" id="sidebar"></div>
     <div class="map-area">
         <div id="map"></div>
+        <div id="ehrLegend" class="ehr-legend" aria-hidden="true">
+            <div class="ehr-legend-title">Top EHR</div>
+            <div id="ehrLegendItems"></div>
+        </div>
     </div>
 </div>
 
@@ -413,6 +452,21 @@ let scale = 'log';
 let stateFilter = 'all';
 let colorScheme = 'greenHigh';
 let ehrFilter = []; // selected EHR names; empty = show all
+let ehrFilterMode = 'any'; // 'any' = county has any selected EHR; 'top' = county's top EHR is in selected
+let ehrLimit = 10; // 10 | 20 | 0 (all) — limit displayed EHRs to top N by total events
+
+// Top EHRs by total events (for limiting to top 10/20)
+function getTopEhrsByUsage(limit) {
+    const eventsByEhr = {};
+    (ALL_DATA || []).forEach(d => {
+        const top = getTopEhr(d);
+        if (top) { eventsByEhr[top] = (eventsByEhr[top] || 0) + (d.e || 0); }
+    });
+    return Object.entries(eventsByEhr)
+        .sort((a, b) => b[1] - a[1])
+        .map(([name]) => name)
+        .slice(0, limit || 1e9);
+}
 
 // Top EHR per county = first in comma-separated d.ehr
 function getTopEhr(d) {
@@ -433,6 +487,7 @@ document.querySelectorAll('#metricBtns .pill').forEach(b => {
         b.classList.add('on'); metric = b.dataset.v;
         document.getElementById('scaleGroup').classList.toggle('ehr-metric-hide', metric === 'ehr');
         document.getElementById('colorGroup').classList.toggle('ehr-metric-hide', metric === 'ehr');
+        document.getElementById('ehrLimitGroup').classList.toggle('ehr-metric-show', metric === 'ehr');
         render();
     });
 });
@@ -484,6 +539,18 @@ function updateEhrFilterBtn() {
         btn.classList.add('has-filter');
     }
 }
+document.getElementById('ehrFilterMode').addEventListener('change', () => {
+    ehrFilterMode = document.getElementById('ehrFilterMode').value;
+    render();
+});
+document.querySelectorAll('#ehrLimitBtns .pill').forEach(b => {
+    b.addEventListener('click', () => {
+        document.querySelectorAll('#ehrLimitBtns .pill').forEach(x => x.classList.remove('on'));
+        b.classList.add('on');
+        ehrLimit = parseInt(b.dataset.v, 10) || 0;
+        render();
+    });
+});
 document.getElementById('ehrFilterBtn').addEventListener('click', () => {
     const panel = document.getElementById('ehrFilterPanel');
     if (panel.hidden) {
@@ -680,6 +747,14 @@ const HEAT_REVERSED = [[0,'#4ea471'],[0.25,'#abc77e'],[0.5,'#ffd666'],[0.75,'#f8
 const NO_DATA_GRAY = '#e0e0e0';
 // Distinct colors for EHR categories (qualitative)
 const EHR_COLORS = ['#4ea471','#db7865','#4a90d9','#9b59b6','#e67e22','#1abc9c','#e74c3c','#3498db','#f39c12','#2ecc71','#e91e63','#00bcd4','#8d6e63','#795548','#607d8b','#3f51b5','#009688','#ff5722','#673ab7','#cddc39'];
+function hexLighten(hex, pct) {
+    const n = parseInt(hex.slice(1), 16);
+    let r = (n >> 16) & 0xff, g = (n >> 8) & 0xff, b = n & 0xff;
+    r = Math.round(r + (255 - r) * pct);
+    g = Math.round(g + (255 - g) * pct);
+    b = Math.round(b + (255 - b) * pct);
+    return '#' + [r,g,b].map(x => x.toString(16).padStart(2,'0')).join('');
+}
 function getColorscale() { return colorScheme === 'greenLow' ? HEAT_REVERSED : HEAT; }
 function getColorscaleWithGray() {
     const base = getColorscale();
@@ -687,6 +762,10 @@ function getColorscaleWithGray() {
 }
 function countyMatchesEhrFilter(d) {
     if (ehrFilter.length === 0) return true;
+    if (ehrFilterMode === 'top') {
+        const top = getTopEhr(d);
+        return top && ehrFilter.includes(top);
+    }
     if (!d.ehr || typeof d.ehr !== 'string') return false;
     const list = d.ehr.split(',').map(s => s.trim());
     return ehrFilter.some(e => list.includes(e));
@@ -721,26 +800,37 @@ function render() {
     let fips, zU, zE, hover, heat, ehrZmax = 0;
 
     if (metric === 'ehr') {
-        // Categorical: color by top EHR per county
         const dataByFips = stateOnlyView ? new Map(data.map(d => [d.f, d])) : null;
         const fipsList = stateOnlyView ? gj.features.map(f => String(f.id).padStart(5, '0')) : data.map(d => d.f);
         const dataList = stateOnlyView ? fipsList.map(f => dataByFips.get(f)) : data;
-        const topEhrsInView = [...new Set(dataList.filter(d => d).map(d => getTopEhr(d)).filter(Boolean))].sort();
         const noEhrLabel = 'No EHR';
-        const ehrToIndex = { [noEhrLabel]: 0 };
-        topEhrsInView.forEach((e, i) => { ehrToIndex[e] = i + 1; });
-        const K = topEhrsInView.length;
-        ehrZmax = K;
-        const nCat = K + 2; // gray + No EHR + K EHRs
+        const otherLabel = 'Other';
         const noEhrColor = '#b0b0b0';
-        const catColors = [NO_DATA_GRAY, noEhrColor, ...topEhrsInView.map((_, i) => EHR_COLORS[i % EHR_COLORS.length])];
-        heat = [[0, NO_DATA_GRAY]];
-        for (let i = 1; i < nCat; i++) heat.push([i / (nCat - 1), catColors[i]]);
+        const topEhrsByUsage = getTopEhrsByUsage(ehrLimit || 999);
+        const nTop = topEhrsByUsage.length;
+        const ehrToIndex = { [noEhrLabel]: 0 };
+        topEhrsByUsage.forEach((e, i) => { ehrToIndex[e] = i + 1; });
+        const displayedEhrNames = [noEhrLabel, ...topEhrsByUsage];
+        if (ehrLimit > 0) { displayedEhrNames.push(otherLabel); ehrToIndex[otherLabel] = nTop + 1; }
+        const K = displayedEhrNames.length - 1; // last category index (0..K)
+        ehrZmax = K;
+        const baseColors = [noEhrColor, ...topEhrsByUsage.map((_, i) => EHR_COLORS[i % EHR_COLORS.length])];
+        if (ehrLimit > 0) baseColors.push('#888888');
+        // Discrete colorscale: Plotly normalizes z to (z+1)/(K+1) for z in [0,K], so segment i is [(i+1)/(K+1), (i+2)/(K+1)]
+        heat = [[0, NO_DATA_GRAY], [0.5 / (K + 1), NO_DATA_GRAY]];
+        for (let i = 0; i <= K; i++) {
+            const c = baseColors[i] || '#888';
+            const t0 = (i + 1) / (K + 1);
+            const t1 = i < K ? (i + 2) / (K + 1) : 1;
+            heat.push([t0, c], [t1, c]);
+        }
         const zEhr = dataList.map(d => {
             if (!d) return grayZ;
             if (useEhrFilter && !countyMatchesEhrFilter(d)) return grayZ;
-            const top = getTopEhr(d) || noEhrLabel;
-            return ehrToIndex[top] !== undefined ? ehrToIndex[top] : grayZ;
+            let top = getTopEhr(d) || noEhrLabel;
+            if (top && !Object.prototype.hasOwnProperty.call(ehrToIndex, top)) top = otherLabel;
+            const idx = ehrToIndex[top];
+            return idx !== undefined ? idx : (ehrLimit > 0 ? ehrToIndex[otherLabel] : 0);
         });
         fips = fipsList;
         zU = zEhr;
@@ -748,6 +838,7 @@ function render() {
         hover = dataList.map(d => d
             ? `<b>${d.c}</b>, ${d.s}<br>Clinicians: ${d.u}<br>Patient Visits: ${d.e.toLocaleString()}<br>Cities: ${d.n}${d.ehr ? '<br>Top EHR: ' + (getTopEhr(d) || '—') + (d.ehr.indexOf(',') >= 0 ? '<br>All: ' + d.ehr : '') : ''}`
             : `<b>County</b><br>No data`);
+        window._ehrLegendData = { names: displayedEhrNames, colors: baseColors, noEhrColor };
     }
 
     if (metric !== 'ehr') {
@@ -820,13 +911,13 @@ function render() {
             { type:'choropleth', geojson:gj, locations:fips, z:zE, text:hover, hoverinfo:'text',
               colorscale:heat, colorbar:colorbar(false, 1.01), marker:{line:ml}, hoverlabel:hl, geo:'geo2', ...traceOpts }
         ];
-        const geo = { ...geoBase, scope:'usa', domain:{x:[0, 0.48], y:[0,1]} };
-        const geo2 = { ...geoBase, scope:'usa', domain:{x:[0.52, 1], y:[0,1]} };
+        const geo = { ...geoBase, scope:'usa', domain: stateFilter === 'all' ? { x: [0.02, 0.47], y: [0.02, 0.98] } : { x: [0, 0.48], y: [0, 1] } };
+        const geo2 = { ...geoBase, scope:'usa', domain: stateFilter === 'all' ? { x: [0.53, 0.98], y: [0.02, 0.98] } : { x: [0.52, 1], y: [0, 1] } };
         if (stateFilter !== 'all') {
             geo.scope = 'north america'; geo2.scope = 'north america';
             geo.fitbounds = 'geojson'; geo2.fitbounds = 'geojson';
             geo.projection = { type: 'albers' }; geo2.projection = { type: 'albers' };
-        } else { geo.projection = {type:'albers usa'}; geo2.projection = {type:'albers usa'}; }
+        } else { geo.projection = { type: 'albers usa' }; geo2.projection = { type: 'albers usa' }; }
         layout = { geo, geo2,
             annotations: [
                 { text: '<b>Clinicians</b>', x: 0.24, y: 1.02, xref:'paper', yref:'paper', showarrow:false, font:{ size:13, family:'Outfit', color:'#6b6560' } },
@@ -835,14 +926,16 @@ function render() {
         };
     } else if (metric === 'ehr') {
         traces = [{ type:'choropleth', geojson:gj, locations:fips, z:zU, text:hover, hoverinfo:'text',
-            colorscale:heat, zmin: grayZ, zmax: ehrZmax, marker:{line:ml}, hoverlabel:hl,
-            colorbar: { title: { text: 'Top EHR', font: { size: 11, family: 'Outfit', color: '#6b6560' } }, len: 0.5, thickness: 12, x: 1.01, outlinewidth: 0, borderwidth: 0, tickfont: { size: 9, family: 'Outfit', color: '#9b9590' }, tickvals: [], showticklabels: false } }];
+            colorscale:heat, zmin: grayZ, zmax: ehrZmax, marker:{line:ml}, hoverlabel:hl, showscale: false }];
         const geo = { ...geoBase, scope:'usa' };
         if (stateFilter !== 'all') {
             geo.scope = 'north america';
             geo.fitbounds = 'geojson';
             geo.projection = { type: 'albers' };
-        } else { geo.projection = {type:'albers usa'}; }
+        } else {
+            geo.projection = { type: 'albers usa' };
+            geo.domain = { x: [0.02, 0.98], y: [0.02, 0.98] };
+        }
         layout = { geo };
     } else {
         const isU = metric === 'uniques';
@@ -854,18 +947,36 @@ function render() {
             geo.scope = 'north america';
             geo.fitbounds = 'geojson';
             geo.projection = { type: 'albers' };
-        } else { geo.projection = {type:'albers usa'}; }
+        } else {
+            geo.projection = { type: 'albers usa' };
+            geo.domain = { x: [0.02, 0.98], y: [0.02, 0.98] };
+        }
         layout = { geo };
     }
     const useTightMargin = stateFilter !== 'all';
+    const nationalMargin = { t: 28, b: 72, l: 72, r: 8 };
     layout = { ...layout,
         paper_bgcolor: stateOnlyView ? '#ffffff' : '#faf9f7',
         plot_bgcolor: stateOnlyView ? '#ffffff' : '#faf9f7',
         font: { color: '#2c2825', family: 'Outfit' },
-        margin: useTightMargin ? { t: 16, b: 4, l: 4, r: 4 } : { t: 28, b: 8, l: 8, r: 8 },
+        margin: useTightMargin ? { t: 16, b: 4, l: 4, r: 4 } : nationalMargin,
         height: document.getElementById('map').offsetHeight,
     };
     Plotly.react('map', traces, layout, { responsive: true, displayModeBar: false });
+
+    if (metric === 'ehr' && window._ehrLegendData) {
+        const { names, colors } = window._ehrLegendData;
+        const container = document.getElementById('ehrLegendItems');
+        container.innerHTML = names.map((name, i) => {
+            const color = colors[i] || '#888';
+            return `<div class="ehr-legend-item"><span class="ehr-legend-swatch" style="background:${color}"></span><span>${name}</span></div>`;
+        }).join('');
+        document.getElementById('ehrLegend').classList.add('visible');
+        document.getElementById('ehrLegend').setAttribute('aria-hidden', 'false');
+    } else {
+        document.getElementById('ehrLegend').classList.remove('visible');
+        document.getElementById('ehrLegend').setAttribute('aria-hidden', 'true');
+    }
 }
 
 function exportPNG() {
